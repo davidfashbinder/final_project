@@ -14,6 +14,12 @@ Technologies
 Jupyter notebook
 Pandas
 Scikit-learn
+Postgres
+
+-----
+
+
+Triangle Role
 
 Mock Model
 
@@ -22,5 +28,21 @@ Mock Model
 3. Split data into training and testing data
 4. Scale the data
 5. Fitting the data to the model we choose
-6. Retrieve the results
-7. Optimize the results if necessary
+6. Retrieve the results (confusion matrix, accuracy, feature importances) 
+7. Optimize the model if necessary (adjusting the n_estimators, dropping more features, etc.)
+
+Which model did you choose and why?
+
+Random Forest Supervised Learning so that we can predict binary outcomes based on our dataset as well as showcasing what features the machine places more weight towards when it makes its predictions. We'll be using a large dataset so Random Forest will excel here.
+
+How are you training your model?
+
+We will be training our model based on data from 2020 Baseball statistics. We will split the data into training and testing datasets
+
+What is the model's accuracy?
+
+80% would be fair start for where we want our machine learning model to be when predicting our outcome. 
+
+How does this model work?
+
+Takes in several feature columns excluding our target column to predict our target column. Random Forest will use several decision trees to strengthen the overall accuracy of the model when predicting our outcome
