@@ -4,10 +4,10 @@
 Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
 
 ## Database Storage
-Mongo is the database we intend to use, and we will integrate Flask to display the data.
+Postgres is the database we intend to use, and we are still deciding what to integrate to display the data.
 
 ## Machine Learning
-SciKitLearn is the ML library we'll be using to create a classifier. Our training and testing setup is ___. Extra ML verbiage here.
+RandomForest is the ML library we'll be using to create a classifier. Our training and testing setup is still being decided but will be using Pandas. Extra ML verbiage here.
 
 ## Dashboard
-In addition to using a Flask template, we will also integrate D3.js for a fully functioning and interactive dashboard. It will be hosted on ___.
+In addition to using Tableau, we will also integrate for a fully functioning and interactive dashboard. It will be hosted on Tableau.
