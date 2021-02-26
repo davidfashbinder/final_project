@@ -1,0 +1,26 @@
+Brainstorming Databases and Learning Models
+
+Based on the data we can perform linear regression (continuous outcomes) or logistic regression (binary outcomes)
+
+Example lin regress databases: Stocks, Salaries, Reviews of media
+Examples log regress: Has diabetes or no, Is fraud or no, Successful Sports team or no
+
+For categorical data
+
+Random Forest
+- Great for listing out what the machine weighs heavily for each feature
+
+Technologies
+Jupyter notebook
+Pandas
+Scikit-learn
+
+Mock Model
+
+1. Choose our dataset
+2. Clean the data set and preprocess for Machine Learning
+3. Split data into training and testing data
+4. Scale the data
+5. Fitting the data to the model we choose
+6. Retrieve the results
+7. Optimize the results if necessary
