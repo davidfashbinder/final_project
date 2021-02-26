@@ -8,6 +8,7 @@ Postgres is the database we intend to use, and we are still deciding what to int
 
 ## Machine Learning
 RandomForest is the ML library we'll be using to create a classifier. Our training and testing setup is still being decided but will be using Pandas. Extra ML verbiage here.
+We are looking to attempt 80% accuracy with our final project. 
 
 ## Dashboard
 In addition to using Tableau, we will also integrate for a fully functioning and interactive dashboard. It will be hosted on Tableau.
