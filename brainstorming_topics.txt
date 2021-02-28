@@ -1,27 +1,23 @@
-Brainstorming Databases and Learning Models
+# Triangle Role
+
+## Brainstorming Databases and Learning Models
 
 Based on the data we can perform linear regression (continuous outcomes) or logistic regression (binary outcomes)
 
 Example lin regress databases: Stocks, Salaries, Reviews of media
 Examples log regress: Has diabetes or no, Is fraud or no, Successful Sports team or no
 
+For continuous data
+SVM
+
 For categorical data
 
 Random Forest
 - Great for listing out what the machine weighs heavily for each feature
 
-Technologies
-Jupyter notebook
-Pandas
-Scikit-learn
-Postgres
-
 -----
 
-
-Triangle Role
-
-Mock Model
+## Mock Model
 
 1. Choose our dataset
 2. Clean the data set and preprocess for Machine Learning
@@ -31,18 +27,22 @@ Mock Model
 6. Retrieve the results (confusion matrix, accuracy, feature importances) 
 7. Optimize the model if necessary (adjusting the n_estimators, dropping more features, etc.)
 
-Which model did you choose and why?
+*Which model did you choose and why?*
 
-Random Forest Supervised Learning so that we can predict binary outcomes based on our dataset as well as showcasing what features the machine places more weight towards when it makes its predictions. We'll be using a large dataset so Random Forest will excel here.
+The Random Forest Supervised Learning model. This model allows us to predict binary outcomes based on our dataset as well as showcasing what features the machine places more weight towards when it makes its predictions. We'll be using a large dataset so Random Forest will excel here.
 
-How are you training your model?
+*How are you training your model?*
 
 We will be training our model based on data from 2020 Baseball statistics. We will split the data into training and testing datasets
 
-What is the model's accuracy?
+*What is the model's accuracy?*
 
 80% would be fair start for where we want our machine learning model to be when predicting our outcome. 
 
-How does this model work?
+*How does this model work?*
 
-Takes in several feature columns excluding our target column to predict our target column. Random Forest will use several decision trees to strengthen the overall accuracy of the model when predicting our outcome
+Takes in several columns that we declare as our features to predict the column we declare as our target column. Random Forest will use several decision trees to strengthen the overall accuracy of the model when predicting our outcome. Depending on the amount of n_estimators we add, the accuracy of our model should improve. The model will generate several statistics such as our confusion matrix, accuracy scores and importances so that we have an idea of how effective the model will be at predicting new data.
+
+![sample_stats.png](resources/sample_stats.png)
+
+![sample_stats2.png](resources/sample_stats2.png)
