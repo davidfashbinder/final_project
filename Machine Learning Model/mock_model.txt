@@ -1,22 +1,3 @@
-# Triangle Role
-
-## Brainstorming Databases and Learning Models
-
-Based on the data we can perform linear regression (continuous outcomes) or logistic regression (binary outcomes)
-
-Example lin regress databases: Stocks, Salaries, Reviews of media
-Examples log regress: Has diabetes or no, Is fraud or no, Successful Sports team or no
-
-For continuous data
-SVM
-
-For categorical data
-
-Random Forest
-- Great for listing out what the machine weighs heavily for each feature
-
------
-
 ## Mock Model
 
 1. Choose our dataset
