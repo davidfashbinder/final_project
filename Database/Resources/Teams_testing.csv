@@ -1,0 +1,2956 @@
+yearID,teamID,franchID,Rank,DivWin,WCWin,WSWin,name,park,BPF,PPF
+1884,ALT,ALT,10,,,,Altoona Mountain City,,101,109
+1997,ANA,ANA,2,N,N,N,Anaheim Angels,Edison International Field,102,102
+1998,ANA,ANA,2,N,N,N,Anaheim Angels,Edison International Field,102,102
+1999,ANA,ANA,4,N,N,N,Anaheim Angels,Edison International Field,99,100
+2000,ANA,ANA,3,N,N,N,Anaheim Angels,Edison International Field,102,103
+2001,ANA,ANA,3,N,N,N,Anaheim Angels,Edison International Field,101,101
+2002,ANA,ANA,2,N,Y,Y,Anaheim Angels,Edison International Field,100,99
+2003,ANA,ANA,3,N,N,N,Anaheim Angels,Edison International Field,98,97
+2004,ANA,ANA,1,Y,N,N,Anaheim Angels,Angels Stadium of Anaheim,97,97
+1998,ARI,ARI,5,N,N,N,Arizona Diamondbacks,Bank One Ballpark,100,99
+1999,ARI,ARI,1,Y,N,N,Arizona Diamondbacks,Bank One Ballpark,101,101
+2000,ARI,ARI,3,N,N,N,Arizona Diamondbacks,Bank One Ballpark,105,103
+2001,ARI,ARI,1,Y,N,Y,Arizona Diamondbacks,Bank One Ballpark,108,107
+2002,ARI,ARI,1,Y,N,N,Arizona Diamondbacks,Bank One Ballpark,111,111
+2003,ARI,ARI,3,N,N,N,Arizona Diamondbacks,Bank One Ballpark,108,109
+2004,ARI,ARI,5,N,N,N,Arizona Diamondbacks,Bank One Ballpark,105,107
+2005,ARI,ARI,2,N,N,N,Arizona Diamondbacks,Bank One Ballpark,103,105
+2006,ARI,ARI,4,N,N,N,Arizona Diamondbacks,Chase Field,105,105
+2007,ARI,ARI,1,Y,N,N,Arizona Diamondbacks,Chase Field,107,107
+2008,ARI,ARI,2,N,N,N,Arizona Diamondbacks,Chase Field,108,108
+2009,ARI,ARI,5,N,N,N,Arizona Diamondbacks,Chase Field,105,106
+2010,ARI,ARI,5,N,N,N,Arizona Diamondbacks,Chase Field,104,105
+2011,ARI,ARI,1,Y,N,N,Arizona Diamondbacks,Chase Field,107,106
+2012,ARI,ARI,3,N,N,N,Arizona Diamondbacks,Chase Field,105,106
+2013,ARI,ARI,2,N,N,N,Arizona Diamondbacks,Chase Field,102,102
+2014,ARI,ARI,5,N,N,N,Arizona Diamondbacks,Chase Field,102,102
+2015,ARI,ARI,3,N,N,N,Arizona Diamondbacks,Chase Field,107,106
+2016,ARI,ARI,4,N,N,N,Arizona Diamondbacks,Chase Field,107,108
+2017,ARI,ARI,2,N,Y,N,Arizona Diamondbacks,Chase Field,110,110
+2018,ARI,ARI,3,N,N,N,Arizona Diamondbacks,Chase Field,108,107
+2019,ARI,ARI,2,N,N,N,Arizona Diamondbacks,Chase Field,101,101
+2020,ARI,ARI,5,N,N,N,Arizona Diamondbacks,Chase Field,102,102
+1966,ATL,ATL,5,,,N,Atlanta Braves,Atlanta-Fulton County Stadium,103,102
+1967,ATL,ATL,7,,,N,Atlanta Braves,Atlanta-Fulton County Stadium,99,99
+1968,ATL,ATL,5,,,N,Atlanta Braves,Atlanta-Fulton County Stadium,101,101
+1969,ATL,ATL,1,Y,,N,Atlanta Braves,Atlanta-Fulton County Stadium,101,101
+1970,ATL,ATL,5,N,,N,Atlanta Braves,Atlanta-Fulton County Stadium,106,106
+1971,ATL,ATL,3,N,,N,Atlanta Braves,Atlanta-Fulton County Stadium,106,107
+1972,ATL,ATL,4,N,,N,Atlanta Braves,Atlanta-Fulton County Stadium,109,110
+1973,ATL,ATL,5,N,,N,Atlanta Braves,Atlanta-Fulton County Stadium,108,108
+1974,ATL,ATL,3,N,,N,Atlanta Braves,Atlanta-Fulton County Stadium,104,104
+1975,ATL,ATL,5,N,,N,Atlanta Braves,Atlanta-Fulton County Stadium,103,104
+1976,ATL,ATL,6,N,,N,Atlanta Braves,Atlanta-Fulton County Stadium,106,108
+1977,ATL,ATL,6,N,,N,Atlanta Braves,Atlanta-Fulton County Stadium,112,114
+1978,ATL,ATL,6,N,,N,Atlanta Braves,Atlanta-Fulton County Stadium,112,114
+1979,ATL,ATL,6,N,,N,Atlanta Braves,Atlanta-Fulton County Stadium,107,109
+1980,ATL,ATL,4,N,,N,Atlanta Braves,Atlanta-Fulton County Stadium,103,103
+1981,ATL,ATL,5,N,,N,Atlanta Braves,Atlanta-Fulton County Stadium,102,103
+1982,ATL,ATL,1,Y,,N,Atlanta Braves,Atlanta-Fulton County Stadium,104,104
+1983,ATL,ATL,2,N,,N,Atlanta Braves,Atlanta-Fulton County Stadium,108,107
+1984,ATL,ATL,2,N,,N,Atlanta Braves,Atlanta-Fulton County Stadium,107,107
+1985,ATL,ATL,5,N,,N,Atlanta Braves,Atlanta-Fulton County Stadium,105,106
+1986,ATL,ATL,6,N,,N,Atlanta Braves,Atlanta-Fulton County Stadium,105,106
+1987,ATL,ATL,5,N,,N,Atlanta Braves,Atlanta-Fulton County Stadium,104,106
+1988,ATL,ATL,6,N,,N,Atlanta Braves,Atlanta-Fulton County Stadium,104,106
+1989,ATL,ATL,6,N,,N,Atlanta Braves,Atlanta-Fulton County Stadium,102,104
+1990,ATL,ATL,6,N,,N,Atlanta Braves,Atlanta-Fulton County Stadium,105,106
+1991,ATL,ATL,1,Y,,N,Atlanta Braves,Atlanta-Fulton County Stadium,106,106
+1992,ATL,ATL,1,Y,,N,Atlanta Braves,Atlanta-Fulton County Stadium,107,105
+1993,ATL,ATL,1,Y,,N,Atlanta Braves,Atlanta-Fulton County Stadium,101,100
+1994,ATL,ATL,2,,,,Atlanta Braves,Atlanta-Fulton County Stadium,102,100
+1995,ATL,ATL,1,Y,N,Y,Atlanta Braves,Atlanta-Fulton County Stadium,103,102
+1996,ATL,ATL,1,Y,N,N,Atlanta Braves,Atlanta-Fulton County Stadium,106,104
+1997,ATL,ATL,1,Y,N,N,Atlanta Braves,Turner Field,102,99
+1998,ATL,ATL,1,Y,N,N,Atlanta Braves,Turner Field,100,98
+1999,ATL,ATL,1,Y,N,N,Atlanta Braves,Turner Field,100,98
+2000,ATL,ATL,1,Y,N,N,Atlanta Braves,Turner Field,101,99
+2001,ATL,ATL,1,Y,N,N,Atlanta Braves,Turner Field,103,102
+2002,ATL,ATL,1,Y,N,N,Atlanta Braves,Turner Field,102,101
+2003,ATL,ATL,1,Y,N,N,Atlanta Braves,Turner Field,101,100
+2004,ATL,ATL,1,Y,N,N,Atlanta Braves,Turner Field,101,100
+2005,ATL,ATL,1,Y,N,N,Atlanta Braves,Turner Field,101,100
+2006,ATL,ATL,3,N,N,N,Atlanta Braves,Turner Field,100,99
+2007,ATL,ATL,3,N,N,N,Atlanta Braves,Turner Field,98,98
+2008,ATL,ATL,4,N,N,N,Atlanta Braves,Turner Field,98,98
+2009,ATL,ATL,3,N,N,N,Atlanta Braves,Turner Field,99,98
+2010,ATL,ATL,2,N,Y,N,Atlanta Braves,Turner Field,98,97
+2011,ATL,ATL,2,N,N,N,Atlanta Braves,Turner Field,98,98
+2012,ATL,ATL,2,N,Y,N,Atlanta Braves,Turner Field,102,101
+2013,ATL,ATL,1,Y,N,N,Atlanta Braves,Turner Field,104,103
+2014,ATL,ATL,2,N,N,N,Atlanta Braves,Turner Field,99,99
+2015,ATL,ATL,4,N,N,N,Atlanta Braves,Turner Field,97,97
+2016,ATL,ATL,5,N,N,N,Atlanta Braves,Turner Field,102,104
+2017,ATL,ATL,3,N,N,N,Atlanta Braves,SunTrust Park,98,98
+2018,ATL,ATL,1,Y,N,N,Atlanta Braves,SunTrust Park,100,100
+2019,ATL,ATL,1,Y,N,N,Atlanta Braves,SunTrust Park,105,103
+2020,ATL,ATL,1,Y,N,N,Atlanta Braves,SunTrust Park,107,106
+1954,BAL,BAL,7,,,N,Baltimore Orioles,Memorial Stadium,92,96
+1955,BAL,BAL,7,,,N,Baltimore Orioles,Memorial Stadium,92,96
+1956,BAL,BAL,6,,,N,Baltimore Orioles,Memorial Stadium,92,94
+1957,BAL,BAL,5,,,N,Baltimore Orioles,Memorial Stadium,93,94
+1958,BAL,BAL,6,,,N,Baltimore Orioles,Memorial Stadium,94,95
+1959,BAL,BAL,6,,,N,Baltimore Orioles,Memorial Stadium,97,98
+1960,BAL,BAL,2,,,N,Baltimore Orioles,Memorial Stadium,99,98
+1961,BAL,BAL,3,,,N,Baltimore Orioles,Memorial Stadium,96,96
+1962,BAL,BAL,7,,,N,Baltimore Orioles,Memorial Stadium,94,93
+1963,BAL,BAL,4,,,N,Baltimore Orioles,Memorial Stadium,96,95
+1964,BAL,BAL,3,,,N,Baltimore Orioles,Memorial Stadium,100,99
+1965,BAL,BAL,3,,,N,Baltimore Orioles,Memorial Stadium,102,101
+1966,BAL,BAL,1,,,Y,Baltimore Orioles,Memorial Stadium,99,98
+1967,BAL,BAL,6,,,N,Baltimore Orioles,Memorial Stadium,100,98
+1968,BAL,BAL,2,,,N,Baltimore Orioles,Memorial Stadium,101,99
+1969,BAL,BAL,1,Y,,N,Baltimore Orioles,Memorial Stadium,101,99
+1970,BAL,BAL,1,Y,,Y,Baltimore Orioles,Memorial Stadium,101,98
+1971,BAL,BAL,1,Y,,N,Baltimore Orioles,Memorial Stadium,99,97
+1972,BAL,BAL,3,N,,N,Baltimore Orioles,Memorial Stadium,103,101
+1973,BAL,BAL,1,Y,,N,Baltimore Orioles,Memorial Stadium,99,98
+1974,BAL,BAL,1,Y,,N,Baltimore Orioles,Memorial Stadium,97,95
+1975,BAL,BAL,2,N,,N,Baltimore Orioles,Memorial Stadium,94,93
+1976,BAL,BAL,2,N,,N,Baltimore Orioles,Memorial Stadium,94,93
+1977,BAL,BAL,2,N,,N,Baltimore Orioles,Memorial Stadium,94,94
+1978,BAL,BAL,4,N,,N,Baltimore Orioles,Memorial Stadium,94,93
+1979,BAL,BAL,1,Y,,N,Baltimore Orioles,Memorial Stadium,97,95
+1980,BAL,BAL,2,N,,N,Baltimore Orioles,Memorial Stadium,99,98
+1981,BAL,BAL,2,N,,N,Baltimore Orioles,Memorial Stadium,100,99
+1982,BAL,BAL,2,N,,N,Baltimore Orioles,Memorial Stadium,100,99
+1983,BAL,BAL,1,Y,,Y,Baltimore Orioles,Memorial Stadium,98,98
+1984,BAL,BAL,5,N,,N,Baltimore Orioles,Memorial Stadium,98,97
+1985,BAL,BAL,4,N,,N,Baltimore Orioles,Memorial Stadium,97,97
+1986,BAL,BAL,7,N,,N,Baltimore Orioles,Memorial Stadium,98,99
+1987,BAL,BAL,6,N,,N,Baltimore Orioles,Memorial Stadium,97,98
+1988,BAL,BAL,7,N,,N,Baltimore Orioles,Memorial Stadium,97,98
+1989,BAL,BAL,2,N,,N,Baltimore Orioles,Memorial Stadium,96,97
+1990,BAL,BAL,5,N,,N,Baltimore Orioles,Memorial Stadium,97,98
+1991,BAL,BAL,6,N,,N,Baltimore Orioles,Memorial Stadium,96,97
+1992,BAL,BAL,3,N,,N,Baltimore Orioles,Oriole Park at Camden Yards,102,101
+1993,BAL,BAL,3,N,,N,Baltimore Orioles,Oriole Park at Camden Yards,104,103
+1994,BAL,BAL,2,,,,Baltimore Orioles,Oriole Park at Camden Yards,105,104
+1995,BAL,BAL,3,N,N,N,Baltimore Orioles,Oriole Park at Camden Yards,102,101
+1996,BAL,BAL,2,N,Y,N,Baltimore Orioles,Oriole Park at Camden Yards,100,99
+1997,BAL,BAL,1,Y,N,N,Baltimore Orioles,Oriole Park at Camden Yards,97,96
+1998,BAL,BAL,4,N,N,N,Baltimore Orioles,Oriole Park at Camden Yards,98,97
+1999,BAL,BAL,4,N,N,N,Baltimore Orioles,Oriole Park at Camden Yards,96,96
+2000,BAL,BAL,4,N,N,N,Baltimore Orioles,Oriole Park at Camden Yards,95,96
+2001,BAL,BAL,4,N,N,N,Baltimore Orioles,Oriole Park at Camden Yards,95,96
+2002,BAL,BAL,4,N,N,N,Baltimore Orioles,Oriole Park at Camden Yards,95,96
+2003,BAL,BAL,4,N,N,N,Baltimore Orioles,Oriole Park at Camden Yards,99,99
+2004,BAL,BAL,3,N,N,N,Baltimore Orioles,Oriole Park at Camden Yards,98,99
+2005,BAL,BAL,4,N,N,N,Baltimore Orioles,Oriole Park at Camden Yards,99,99
+2006,BAL,BAL,4,N,N,N,Baltimore Orioles,Oriole Park at Camden Yards,99,100
+2007,BAL,BAL,4,N,N,N,Baltimore Orioles,Oriole Park at Camden Yards,101,102
+2008,BAL,BAL,5,N,N,N,Baltimore Orioles,Oriole Park at Camden Yards,101,102
+2009,BAL,BAL,5,N,N,N,Baltimore Orioles,Oriole Park at Camden Yards,101,102
+2010,BAL,BAL,5,N,N,N,Baltimore Orioles,Oriole Park at Camden Yards,101,102
+2011,BAL,BAL,5,N,N,N,Baltimore Orioles,Oriole Park at Camden Yards,96,97
+2012,BAL,BAL,2,N,Y,N,Baltimore Orioles,Oriole Park at Camden Yards,102,103
+2013,BAL,BAL,3,N,N,N,Baltimore Orioles,Oriole Park at Camden Yards,106,105
+2014,BAL,BAL,1,Y,N,N,Baltimore Orioles,Oriole Park at Camden Yards,100,100
+2015,BAL,BAL,3,N,N,N,Baltimore Orioles,Oriole Park at Camden Yards,103,104
+2016,BAL,BAL,2,N,Y,N,Baltimore Orioles,Oriole Park at Camden Yards,101,101
+2017,BAL,BAL,5,N,N,N,Baltimore Orioles,Oriole Park at Camden Yards,98,99
+2018,BAL,BAL,5,N,N,N,Baltimore Orioles,Oriole Park at Camden Yards,96,97
+2019,BAL,BAL,5,N,N,N,Baltimore Orioles,Oriole Park at Camden Yards,99,102
+2020,BAL,BAL,4,N,N,N,Baltimore Orioles,Oriole Park at Camden Yards,100,102
+1879,BFN,BUF,3,,,,Buffalo Bisons,Riverside Park,102,105
+1880,BFN,BUF,7,,,,Buffalo Bisons,Riverside Park,102,103
+1881,BFN,BUF,3,,,,Buffalo Bisons,Riverside Park,99,100
+1882,BFN,BUF,3,,,,Buffalo Bisons,Riverside Park,102,101
+1883,BFN,BUF,5,,,,Buffalo Bisons,Riverside Park,102,101
+1884,BFN,BUF,3,,,N,Buffalo Bisons,Olympic Park I,103,105
+1885,BFN,BUF,7,,,N,Buffalo Bisons,Olympic Park I,103,105
+1890,BFP,BFB,8,,,,Buffalo Bisons,Olympic Park I,92,97
+1872,BL1,BLC,2,,,,Baltimore Canaries,Newington Park,106,102
+1873,BL1,BLC,3,,,,Baltimore Canaries,Newington Park,101,102
+1874,BL1,BLC,8,,,,Baltimore Canaries,Newington Park,102,104
+1882,BL2,BLO,6,,,,Baltimore Orioles,Newington Park,90,100
+1883,BL2,BLO,8,,,,Baltimore Orioles,Oriole Park,103,105
+1884,BL2,BLO,6,,,N,Baltimore Orioles,Oriole Park,104,107
+1885,BL2,BLO,8,,,N,Baltimore Orioles,Oriole Park,99,100
+1886,BL2,BLO,8,,,N,Baltimore Orioles,Oriole Park,98,99
+1887,BL2,BLO,3,,,N,Baltimore Orioles,Oriole Park,94,95
+1888,BL2,BLO,5,,,N,Baltimore Orioles,Oriole Park,98,98
+1889,BL2,BLO,5,,,N,Baltimore Orioles,Oriole Park,98,99
+1890,BL3,BLO,6,,,N,Baltimore Orioles,Oriole Park,109,110
+1891,BL3,BLO,4,,,,Baltimore Orioles,Union Park,101,100
+1873,BL4,MAR,9,,,,Baltimore Marylands,Newington Park,77,99
+1901,BLA,NYY,5,,,,Baltimore Orioles,Oriole Park,104,105
+1902,BLA,NYY,8,,,,Baltimore Orioles,Oriole Park,104,105
+1914,BLF,BLT,3,,,,Baltimore Terrapins,Oriole Park,103,105
+1915,BLF,BLT,8,,,,Baltimore Terrapins,Oriole Park,103,105
+1892,BLN,BLO,12,,,,Baltimore Orioles,Union Park,103,104
+1893,BLN,BLO,8,,,,Baltimore Orioles,Union Park,102,102
+1894,BLN,BLO,1,,,,Baltimore Orioles,Union Park,104,103
+1895,BLN,BLO,1,,,,Baltimore Orioles,Union Park,103,100
+1896,BLN,BLO,1,,,,Baltimore Orioles,Union Park,102,98
+1897,BLN,BLO,2,,,,Baltimore Orioles,Union Park,100,97
+1898,BLN,BLO,2,,,,Baltimore Orioles,Union Park,102,99
+1899,BLN,BLO,4,,,,Baltimore Orioles,Union Park,105,103
+1884,BLU,BLU,4,,,,Baltimore Monumentals,,109,109
+1901,BOS,BOS,2,,,,Boston Americans,Huntington Avenue Grounds,98,96
+1902,BOS,BOS,3,,,,Boston Americans,Huntington Avenue Grounds,103,100
+1903,BOS,BOS,1,,,Y,Boston Americans,Huntington Avenue Grounds,105,102
+1904,BOS,BOS,1,,,,Boston Americans,Huntington Avenue Grounds,106,103
+1905,BOS,BOS,4,,,N,Boston Americans,Huntington Avenue Grounds,101,102
+1906,BOS,BOS,8,,,N,Boston Americans,Huntington Avenue Grounds,100,102
+1907,BOS,BOS,7,,,N,Boston Americans,Huntington Avenue Grounds,99,101
+1908,BOS,BOS,5,,,N,Boston Red Sox,Huntington Avenue Grounds,103,103
+1909,BOS,BOS,3,,,N,Boston Red Sox,Huntington Avenue Grounds,102,101
+1910,BOS,BOS,4,,,N,Boston Red Sox,Huntington Avenue Grounds,102,101
+1911,BOS,BOS,4,,,N,Boston Red Sox,Huntington Avenue Grounds,99,98
+1912,BOS,BOS,1,,,Y,Boston Red Sox,Fenway Park I,105,102
+1913,BOS,BOS,4,,,N,Boston Red Sox,Fenway Park I,103,100
+1914,BOS,BOS,2,,,N,Boston Red Sox,Fenway Park I,100,98
+1915,BOS,BOS,1,,,Y,Boston Red Sox,Fenway Park I,97,95
+1916,BOS,BOS,1,,,Y,Boston Red Sox,Fenway Park I,101,98
+1917,BOS,BOS,2,,,N,Boston Red Sox,Fenway Park I,99,97
+1918,BOS,BOS,1,,,Y,Boston Red Sox,Fenway Park I,98,97
+1919,BOS,BOS,6,,,N,Boston Red Sox,Fenway Park I,94,94
+1920,BOS,BOS,5,,,N,Boston Red Sox,Fenway Park I,96,96
+1921,BOS,BOS,5,,,N,Boston Red Sox,Fenway Park I,97,99
+1922,BOS,BOS,8,,,N,Boston Red Sox,Fenway Park I,99,101
+1923,BOS,BOS,8,,,N,Boston Red Sox,Fenway Park I,100,103
+1924,BOS,BOS,7,,,N,Boston Red Sox,Fenway Park I,99,103
+1925,BOS,BOS,8,,,N,Boston Red Sox,Fenway Park I,99,103
+1926,BOS,BOS,8,,,N,Boston Red Sox,Fenway Park I,96,101
+1927,BOS,BOS,8,,,N,Boston Red Sox,Fenway Park I,98,102
+1928,BOS,BOS,8,,,N,Boston Red Sox,Fenway Park I,96,100
+1929,BOS,BOS,8,,,N,Boston Red Sox,Fenway Park I,97,100
+1930,BOS,BOS,8,,,N,Boston Red Sox,Fenway Park I,96,99
+1931,BOS,BOS,6,,,N,Boston Red Sox,Fenway Park I,94,98
+1932,BOS,BOS,8,,,N,Boston Red Sox,Fenway Park I,95,99
+1933,BOS,BOS,7,,,N,Boston Red Sox,Fenway Park I,103,103
+1934,BOS,BOS,4,,,N,Boston Red Sox,Fenway Park II,105,105
+1935,BOS,BOS,4,,,N,Boston Red Sox,Fenway Park II,107,106
+1936,BOS,BOS,6,,,N,Boston Red Sox,Fenway Park II,106,106
+1937,BOS,BOS,5,,,N,Boston Red Sox,Fenway Park II,104,103
+1938,BOS,BOS,2,,,N,Boston Red Sox,Fenway Park II,105,103
+1939,BOS,BOS,2,,,N,Boston Red Sox,Fenway Park II,104,102
+1940,BOS,BOS,4,,,N,Boston Red Sox,Fenway Park II,104,102
+1941,BOS,BOS,2,,,N,Boston Red Sox,Fenway Park II,103,101
+1942,BOS,BOS,2,,,N,Boston Red Sox,Fenway Park II,104,102
+1943,BOS,BOS,7,,,N,Boston Red Sox,Fenway Park II,102,101
+1944,BOS,BOS,4,,,N,Boston Red Sox,Fenway Park II,99,100
+1945,BOS,BOS,7,,,N,Boston Red Sox,Fenway Park II,103,101
+1946,BOS,BOS,1,,,N,Boston Red Sox,Fenway Park II,106,105
+1947,BOS,BOS,3,,,N,Boston Red Sox,Fenway Park II,107,105
+1948,BOS,BOS,2,,,N,Boston Red Sox,Fenway Park II,105,102
+1949,BOS,BOS,2,,,N,Boston Red Sox,Fenway Park II,108,104
+1950,BOS,BOS,3,,,N,Boston Red Sox,Fenway Park II,111,108
+1951,BOS,BOS,3,,,N,Boston Red Sox,Fenway Park II,110,109
+1952,BOS,BOS,6,,,N,Boston Red Sox,Fenway Park II,108,107
+1953,BOS,BOS,4,,,N,Boston Red Sox,Fenway Park II,105,105
+1954,BOS,BOS,4,,,N,Boston Red Sox,Fenway Park II,111,110
+1955,BOS,BOS,4,,,N,Boston Red Sox,Fenway Park II,110,109
+1956,BOS,BOS,4,,,N,Boston Red Sox,Fenway Park II,113,111
+1957,BOS,BOS,3,,,N,Boston Red Sox,Fenway Park II,106,105
+1958,BOS,BOS,3,,,N,Boston Red Sox,Fenway Park II,106,106
+1959,BOS,BOS,5,,,N,Boston Red Sox,Fenway Park II,104,104
+1960,BOS,BOS,7,,,N,Boston Red Sox,Fenway Park II,103,103
+1961,BOS,BOS,6,,,N,Boston Red Sox,Fenway Park II,102,103
+1962,BOS,BOS,8,,,N,Boston Red Sox,Fenway Park II,103,104
+1963,BOS,BOS,7,,,N,Boston Red Sox,Fenway Park II,103,104
+1964,BOS,BOS,8,,,N,Boston Red Sox,Fenway Park II,105,106
+1965,BOS,BOS,9,,,N,Boston Red Sox,Fenway Park II,106,108
+1966,BOS,BOS,9,,,N,Boston Red Sox,Fenway Park II,111,112
+1967,BOS,BOS,1,,,N,Boston Red Sox,Fenway Park II,109,109
+1968,BOS,BOS,4,,,N,Boston Red Sox,Fenway Park II,108,107
+1969,BOS,BOS,3,N,,N,Boston Red Sox,Fenway Park II,107,106
+1970,BOS,BOS,3,N,,N,Boston Red Sox,Fenway Park II,108,107
+1971,BOS,BOS,3,N,,N,Boston Red Sox,Fenway Park II,108,108
+1972,BOS,BOS,2,N,,N,Boston Red Sox,Fenway Park II,106,106
+1973,BOS,BOS,2,N,,N,Boston Red Sox,Fenway Park II,106,106
+1974,BOS,BOS,3,N,,N,Boston Red Sox,Fenway Park II,108,107
+1975,BOS,BOS,1,Y,,N,Boston Red Sox,Fenway Park II,110,109
+1976,BOS,BOS,3,N,,N,Boston Red Sox,Fenway Park II,113,112
+1977,BOS,BOS,2,N,,N,Boston Red Sox,Fenway Park II,113,112
+1978,BOS,BOS,2,N,,N,Boston Red Sox,Fenway Park II,112,110
+1979,BOS,BOS,3,N,,N,Boston Red Sox,Fenway Park II,106,106
+1980,BOS,BOS,5,N,,N,Boston Red Sox,Fenway Park II,106,105
+1981,BOS,BOS,5,N,,N,Boston Red Sox,Fenway Park II,107,106
+1982,BOS,BOS,3,N,,N,Boston Red Sox,Fenway Park II,107,106
+1983,BOS,BOS,6,N,,N,Boston Red Sox,Fenway Park II,107,107
+1984,BOS,BOS,4,N,,N,Boston Red Sox,Fenway Park II,105,105
+1985,BOS,BOS,5,N,,N,Boston Red Sox,Fenway Park II,104,104
+1986,BOS,BOS,1,Y,,N,Boston Red Sox,Fenway Park II,101,100
+1987,BOS,BOS,5,N,,N,Boston Red Sox,Fenway Park II,103,102
+1988,BOS,BOS,1,Y,,N,Boston Red Sox,Fenway Park II,105,104
+1989,BOS,BOS,3,N,,N,Boston Red Sox,Fenway Park II,107,106
+1990,BOS,BOS,1,Y,,N,Boston Red Sox,Fenway Park II,105,105
+1991,BOS,BOS,2,N,,N,Boston Red Sox,Fenway Park II,105,105
+1992,BOS,BOS,7,N,,N,Boston Red Sox,Fenway Park II,106,107
+1993,BOS,BOS,5,N,,N,Boston Red Sox,Fenway Park II,106,107
+1994,BOS,BOS,4,,,,Boston Red Sox,Fenway Park II,105,105
+1995,BOS,BOS,1,Y,N,N,Boston Red Sox,Fenway Park II,103,103
+1996,BOS,BOS,3,N,N,N,Boston Red Sox,Fenway Park II,101,101
+1997,BOS,BOS,4,N,N,N,Boston Red Sox,Fenway Park II,102,102
+1998,BOS,BOS,2,N,Y,N,Boston Red Sox,Fenway Park II,102,101
+1999,BOS,BOS,2,N,Y,N,Boston Red Sox,Fenway Park II,104,103
+2000,BOS,BOS,2,N,N,N,Boston Red Sox,Fenway Park II,104,103
+2001,BOS,BOS,2,N,N,N,Boston Red Sox,Fenway Park II,102,101
+2002,BOS,BOS,2,N,N,N,Boston Red Sox,Fenway Park II,103,102
+2003,BOS,BOS,2,N,Y,N,Boston Red Sox,Fenway Park II,105,103
+2004,BOS,BOS,2,N,Y,Y,Boston Red Sox,Fenway Park II,106,105
+2005,BOS,BOS,2,N,Y,N,Boston Red Sox,Fenway Park II,104,104
+2006,BOS,BOS,3,N,N,N,Boston Red Sox,Fenway Park II,105,104
+2007,BOS,BOS,1,Y,N,Y,Boston Red Sox,Fenway Park II,106,105
+2008,BOS,BOS,2,N,Y,N,Boston Red Sox,Fenway Park II,108,106
+2009,BOS,BOS,2,N,Y,N,Boston Red Sox,Fenway Park II,106,105
+2010,BOS,BOS,3,N,N,N,Boston Red Sox,Fenway Park II,106,105
+2011,BOS,BOS,3,N,N,N,Boston Red Sox,Fenway Park II,106,105
+2012,BOS,BOS,5,N,N,N,Boston Red Sox,Fenway Park II,106,106
+2013,BOS,BOS,1,Y,N,Y,Boston Red Sox,Fenway Park II,102,102
+2014,BOS,BOS,5,N,N,N,Boston Red Sox,Fenway Park II,102,101
+2015,BOS,BOS,5,N,N,N,Boston Red Sox,Fenway Park II,104,107
+2016,BOS,BOS,1,Y,N,N,Boston Red Sox,Fenway Park II,108,106
+2017,BOS,BOS,1,Y,N,N,Boston Red Sox,Fenway Park II,105,104
+2018,BOS,BOS,1,Y,N,Y,Boston Red Sox,Fenway Park II,104,102
+2019,BOS,BOS,3,N,N,N,Boston Red Sox,Fenway Park II,105,104
+2020,BOS,BOS,5,N,N,N,Boston Red Sox,Fenway Park II,105,105
+1872,BR1,ECK,9,,,,Brooklyn Eckfords,Union Grounds,87,96
+1872,BR2,BRA,6,,,,Brooklyn Atlantics,Capitoline Grounds,115,122
+1873,BR2,BRA,6,,,,Brooklyn Atlantics,Union Grounds,90,94
+1874,BR2,BRA,6,,,,Brooklyn Atlantics,Union Grounds,89,94
+1875,BR2,BRA,11,,,,Brooklyn Atlantics,Union Grounds,88,94
+1884,BR3,LAD,9,,,N,Brooklyn Atlantics,Washington Park I,100,102
+1885,BR3,LAD,5,,,N,Brooklyn Grays,Washington Park I,100,102
+1886,BR3,LAD,3,,,N,Brooklyn Grays,Washington Park I,100,100
+1887,BR3,LAD,6,,,N,Brooklyn Grays,Washington Park I,101,100
+1888,BR3,LAD,2,,,N,Brooklyn Bridegrooms,Washington Park I,101,100
+1889,BR3,LAD,1,,,N,Brooklyn Bridegrooms,Washington Park I,95,91
+1890,BR4,BRG,9,,,N,Brooklyn Gladiators,Ridgewood Park,97,101
+1914,BRF,BTT,5,,,,Brooklyn Tip-Tops,,99,100
+1915,BRF,BTT,7,,,,Brooklyn Tip-Tops,,99,100
+1890,BRO,LAD,1,,,N,Brooklyn Bridegrooms,Washington Park II,101,97
+1891,BRO,LAD,6,,,,Brooklyn Grooms,Eastern Park,99,99
+1892,BRO,LAD,3,,,,Brooklyn Grooms,Eastern Park,96,96
+1893,BRO,LAD,7,,,,Brooklyn Grooms,Eastern Park,95,95
+1894,BRO,LAD,5,,,,Brooklyn Grooms,Eastern Park,93,93
+1895,BRO,LAD,5,,,,Brooklyn Grooms,Eastern Park,92,92
+1896,BRO,LAD,10,,,,Brooklyn Bridegrooms,Eastern Park,94,95
+1897,BRO,LAD,7,,,,Brooklyn Bridegrooms,Eastern Park,94,95
+1898,BRO,LAD,10,,,,Brooklyn Bridegrooms,Washington Park III,100,99
+1899,BRO,LAD,1,,,,Brooklyn Superbas,Washington Park III,102,102
+1900,BRO,LAD,1,,,,Brooklyn Superbas,Washington Park III,106,104
+1901,BRO,LAD,3,,,,Brooklyn Superbas,Washington Park III,103,101
+1902,BRO,LAD,2,,,,Brooklyn Superbas,Washington Park III,101,99
+1903,BRO,LAD,5,,,N,Brooklyn Superbas,Washington Park III,97,98
+1904,BRO,LAD,6,,,,Brooklyn Superbas,Washington Park III,97,100
+1905,BRO,LAD,8,,,N,Brooklyn Superbas,Washington Park III,93,96
+1906,BRO,LAD,5,,,N,Brooklyn Superbas,Washington Park III,92,96
+1907,BRO,LAD,5,,,N,Brooklyn Superbas,Washington Park III,92,95
+1908,BRO,LAD,7,,,N,Brooklyn Superbas,Washington Park III,96,99
+1909,BRO,LAD,6,,,N,Brooklyn Superbas,Washington Park III,96,100
+1910,BRO,LAD,6,,,N,Brooklyn Superbas,Washington Park III,97,100
+1911,BRO,LAD,7,,,N,Brooklyn Dodgers,Washington Park III,96,98
+1912,BRO,LAD,7,,,N,Brooklyn Dodgers,Washington Park III,96,98
+1913,BRO,LAD,6,,,N,Brooklyn Superbas,Ebbets Field,103,103
+1914,BRO,LAD,5,,,N,Brooklyn Robins,Ebbets Field,102,102
+1915,BRO,LAD,3,,,N,Brooklyn Robins,Ebbets Field,102,101
+1916,BRO,LAD,1,,,N,Brooklyn Robins,Ebbets Field,103,102
+1917,BRO,LAD,7,,,N,Brooklyn Robins,Ebbets Field,103,103
+1918,BRO,LAD,5,,,N,Brooklyn Robins,Ebbets Field,100,101
+1919,BRO,LAD,5,,,N,Brooklyn Robins,Ebbets Field,103,103
+1920,BRO,LAD,1,,,N,Brooklyn Robins,Ebbets Field,104,103
+1921,BRO,LAD,5,,,N,Brooklyn Robins,Ebbets Field,105,104
+1922,BRO,LAD,6,,,N,Brooklyn Robins,Ebbets Field,100,100
+1923,BRO,LAD,6,,,N,Brooklyn Robins,Ebbets Field,98,97
+1924,BRO,LAD,2,,,N,Brooklyn Robins,Ebbets Field,97,97
+1925,BRO,LAD,6,,,N,Brooklyn Robins,Ebbets Field,97,97
+1926,BRO,LAD,6,,,N,Brooklyn Robins,Ebbets Field,98,100
+1927,BRO,LAD,6,,,N,Brooklyn Robins,Ebbets Field,100,100
+1928,BRO,LAD,6,,,N,Brooklyn Robins,Ebbets Field,99,100
+1929,BRO,LAD,6,,,N,Brooklyn Robins,Ebbets Field,98,98
+1930,BRO,LAD,4,,,N,Brooklyn Robins,Ebbets Field,99,99
+1931,BRO,LAD,4,,,N,Brooklyn Robins,Ebbets Field,100,99
+1932,BRO,LAD,3,,,N,Brooklyn Dodgers,Ebbets Field,98,98
+1933,BRO,LAD,6,,,N,Brooklyn Dodgers,Ebbets Field,96,96
+1934,BRO,LAD,6,,,N,Brooklyn Dodgers,Ebbets Field,95,96
+1935,BRO,LAD,5,,,N,Brooklyn Dodgers,Ebbets Field,98,99
+1936,BRO,LAD,7,,,N,Brooklyn Dodgers,Ebbets Field,101,103
+1937,BRO,LAD,6,,,N,Brooklyn Dodgers,Ebbets Field,102,104
+1938,BRO,LAD,7,,,N,Brooklyn Dodgers,Ebbets Field,103,104
+1939,BRO,LAD,3,,,N,Brooklyn Dodgers,Ebbets Field,105,104
+1940,BRO,LAD,2,,,N,Brooklyn Dodgers,Ebbets Field,108,105
+1941,BRO,LAD,1,,,N,Brooklyn Dodgers,Ebbets Field,106,102
+1942,BRO,LAD,2,,,N,Brooklyn Dodgers,Ebbets Field,103,99
+1943,BRO,LAD,3,,,N,Brooklyn Dodgers,Ebbets Field,101,100
+1944,BRO,LAD,7,,,N,Brooklyn Dodgers,Ebbets Field,98,98
+1945,BRO,LAD,3,,,N,Brooklyn Dodgers,Ebbets Field,99,99
+1946,BRO,LAD,2,,,N,Brooklyn Dodgers,Ebbets Field,101,99
+1947,BRO,LAD,1,,,N,Brooklyn Dodgers,Ebbets Field,104,101
+1948,BRO,LAD,3,,,N,Brooklyn Dodgers,Ebbets Field,104,101
+1949,BRO,LAD,1,,,N,Brooklyn Dodgers,Ebbets Field,105,102
+1950,BRO,LAD,2,,,N,Brooklyn Dodgers,Ebbets Field,103,99
+1951,BRO,LAD,2,,,N,Brooklyn Dodgers,Ebbets Field,102,99
+1952,BRO,LAD,1,,,N,Brooklyn Dodgers,Ebbets Field,102,98
+1953,BRO,LAD,1,,,N,Brooklyn Dodgers,Ebbets Field,103,100
+1954,BRO,LAD,2,,,N,Brooklyn Dodgers,Ebbets Field,104,101
+1955,BRO,LAD,1,,,Y,Brooklyn Dodgers,Ebbets Field,104,101
+1956,BRO,LAD,1,,,N,Brooklyn Dodgers,Ebbets Field,109,107
+1957,BRO,LAD,3,,,N,Brooklyn Dodgers,Ebbets Field,109,107
+1890,BRP,BWW,2,,,,Brooklyn Ward's Wonders,,106,105
+1871,BS1,BNA,3,,,,Boston Red Stockings,South End Grounds I,103,98
+1872,BS1,BNA,1,,,,Boston Red Stockings,South End Grounds I,105,100
+1873,BS1,BNA,1,,,,Boston Red Stockings,South End Grounds I,106,100
+1874,BS1,BNA,1,,,,Boston Red Stockings,South End Grounds I,105,98
+1875,BS1,BNA,1,,,,Boston Red Stockings,South End Grounds I,103,96
+1891,BS2,BRS,1,,,,Boston Reds,Congress Street Grounds,103,99
+1876,BSN,ATL,4,,,,Boston Red Caps,South End Grounds I,102,98
+1877,BSN,ATL,1,,,,Boston Red Caps,South End Grounds I,104,100
+1878,BSN,ATL,1,,,,Boston Red Caps,South End Grounds I,108,102
+1879,BSN,ATL,2,,,,Boston Red Caps,South End Grounds I,102,100
+1880,BSN,ATL,6,,,,Boston Red Caps,South End Grounds I,97,96
+1881,BSN,ATL,6,,,,Boston Red Caps,South End Grounds I,96,96
+1882,BSN,ATL,3,,,,Boston Red Caps,South End Grounds I,100,98
+1883,BSN,ATL,1,,,,Boston Beaneaters,South End Grounds I,102,98
+1884,BSN,ATL,2,,,N,Boston Beaneaters,South End Grounds I,99,97
+1885,BSN,ATL,5,,,N,Boston Beaneaters,South End Grounds I,96,95
+1886,BSN,ATL,5,,,N,Boston Beaneaters,South End Grounds I,97,97
+1887,BSN,ATL,5,,,N,Boston Beaneaters,South End Grounds I,98,97
+1888,BSN,ATL,4,,,N,Boston Beaneaters,South End Grounds II,104,102
+1889,BSN,ATL,2,,,N,Boston Beaneaters,South End Grounds II,106,104
+1890,BSN,ATL,5,,,N,Boston Beaneaters,South End Grounds II,108,105
+1891,BSN,ATL,1,,,,Boston Beaneaters,South End Grounds II,112,109
+1892,BSN,ATL,1,,,,Boston Beaneaters,South End Grounds II,109,107
+1893,BSN,ATL,1,,,,Boston Beaneaters,South End Grounds II,108,106
+1894,BSN,ATL,3,,,,Boston Beaneaters,South End Grounds II / Congress Street Grounds / South End Grounds III,113,111
+1895,BSN,ATL,6,,,,Boston Beaneaters,South End Grounds III,105,104
+1896,BSN,ATL,4,,,,Boston Beaneaters,South End Grounds III,106,104
+1897,BSN,ATL,1,,,,Boston Beaneaters,South End Grounds III,106,104
+1898,BSN,ATL,1,,,,Boston Beaneaters,South End Grounds III,105,102
+1899,BSN,ATL,2,,,,Boston Beaneaters,South End Grounds III,109,108
+1900,BSN,ATL,4,,,,Boston Beaneaters,South End Grounds III,112,111
+1901,BSN,ATL,5,,,,Boston Beaneaters,South End Grounds III,109,109
+1902,BSN,ATL,3,,,,Boston Beaneaters,South End Grounds III,101,102
+1903,BSN,ATL,6,,,N,Boston Beaneaters,South End Grounds III,96,98
+1904,BSN,ATL,7,,,,Boston Beaneaters,South End Grounds III,96,101
+1905,BSN,ATL,7,,,N,Boston Beaneaters,South End Grounds III,98,103
+1906,BSN,ATL,8,,,N,Boston Beaneaters,South End Grounds III,97,102
+1907,BSN,ATL,7,,,N,Boston Doves,South End Grounds III,100,103
+1908,BSN,ATL,6,,,N,Boston Doves,South End Grounds III,98,102
+1909,BSN,ATL,8,,,N,Boston Doves,South End Grounds III,104,108
+1910,BSN,ATL,8,,,N,Boston Doves,South End Grounds III,103,109
+1911,BSN,ATL,8,,,N,Boston Rustlers,South End Grounds III,107,111
+1912,BSN,ATL,8,,,N,Boston Braves,South End Grounds III,100,104
+1913,BSN,ATL,5,,,N,Boston Braves,South End Grounds III,100,102
+1914,BSN,ATL,1,,,Y,Boston Braves,South End Grounds III,104,102
+1915,BSN,ATL,2,,,N,Boston Braves,Fenway Park I / Braves Field,98,97
+1916,BSN,ATL,3,,,N,Boston Braves,Braves Field,95,94
+1917,BSN,ATL,6,,,N,Boston Braves,Braves Field,94,94
+1918,BSN,ATL,7,,,N,Boston Braves,Braves Field,96,97
+1919,BSN,ATL,6,,,N,Boston Braves,Braves Field,95,98
+1920,BSN,ATL,7,,,N,Boston Braves,Braves Field,95,97
+1921,BSN,ATL,4,,,N,Boston Braves,Braves Field,94,96
+1922,BSN,ATL,8,,,N,Boston Braves,Braves Field,95,97
+1923,BSN,ATL,7,,,N,Boston Braves,Braves Field,95,99
+1924,BSN,ATL,8,,,N,Boston Braves,Braves Field,95,98
+1925,BSN,ATL,5,,,N,Boston Braves,Braves Field,91,94
+1926,BSN,ATL,7,,,N,Boston Braves,Braves Field,91,93
+1927,BSN,ATL,7,,,N,Boston Braves,Braves Field,92,94
+1928,BSN,ATL,7,,,N,Boston Braves,Braves Field,94,97
+1929,BSN,ATL,8,,,N,Boston Braves,Braves Field,95,98
+1930,BSN,ATL,6,,,N,Boston Braves,Braves Field,97,99
+1931,BSN,ATL,7,,,N,Boston Braves,Braves Field,97,99
+1932,BSN,ATL,5,,,N,Boston Braves,Braves Field,96,97
+1933,BSN,ATL,4,,,N,Boston Braves,Braves Field,92,92
+1934,BSN,ATL,4,,,N,Boston Braves,Braves Field,92,94
+1935,BSN,ATL,8,,,N,Boston Braves,Braves Field,92,94
+1936,BSN,ATL,6,,,N,Boston Bees,Braves Field,93,95
+1937,BSN,ATL,5,,,N,Boston Bees,Braves Field,91,91
+1938,BSN,ATL,5,,,N,Boston Bees,Braves Field,89,90
+1939,BSN,ATL,7,,,N,Boston Bees,Braves Field,92,94
+1940,BSN,ATL,7,,,N,Boston Bees,Braves Field,94,96
+1941,BSN,ATL,7,,,N,Boston Braves,Braves Field,94,97
+1942,BSN,ATL,7,,,N,Boston Braves,Braves Field,97,100
+1943,BSN,ATL,6,,,N,Boston Braves,Braves Field,98,100
+1944,BSN,ATL,6,,,N,Boston Braves,Braves Field,104,106
+1945,BSN,ATL,6,,,N,Boston Braves,Braves Field,100,101
+1946,BSN,ATL,4,,,N,Boston Braves,Braves Field,101,101
+1947,BSN,ATL,3,,,N,Boston Braves,Braves Field,98,97
+1948,BSN,ATL,1,,,N,Boston Braves,Braves Field,99,98
+1949,BSN,ATL,4,,,N,Boston Braves,Braves Field,95,94
+1950,BSN,ATL,4,,,N,Boston Braves,Braves Field,94,93
+1951,BSN,ATL,4,,,N,Boston Braves,Braves Field,93,93
+1952,BSN,ATL,7,,,N,Boston Braves,Braves Field,97,98
+1890,BSP,BRS,1,,,,Boston Reds,,103,99
+1884,BSU,BRD,5,,,,Boston Reds,,99,98
+1914,BUF,BFL,4,,,,Buffalo Buffeds,,102,103
+1915,BUF,BFL,6,,,,Buffalo Blues,,102,103
+1965,CAL,ANA,7,,,N,California Angels,Dodger Stadium,97,98
+1966,CAL,ANA,6,,,N,California Angels,Anaheim Stadium,97,97
+1967,CAL,ANA,5,,,N,California Angels,Anaheim Stadium,95,96
+1968,CAL,ANA,8,,,N,California Angels,Anaheim Stadium,95,97
+1969,CAL,ANA,3,N,,N,California Angels,Anaheim Stadium,94,95
+1970,CAL,ANA,3,N,,N,California Angels,Anaheim Stadium,96,97
+1971,CAL,ANA,4,N,,N,California Angels,Anaheim Stadium,93,93
+1972,CAL,ANA,5,N,,N,California Angels,Anaheim Stadium,94,95
+1973,CAL,ANA,4,N,,N,California Angels,Anaheim Stadium,92,92
+1974,CAL,ANA,6,N,,N,California Angels,Anaheim Stadium,94,94
+1975,CAL,ANA,6,N,,N,California Angels,Anaheim Stadium,92,93
+1976,CAL,ANA,4,N,,N,California Angels,Anaheim Stadium,93,94
+1977,CAL,ANA,5,N,,N,California Angels,Anaheim Stadium,96,96
+1978,CAL,ANA,2,N,,N,California Angels,Anaheim Stadium,96,96
+1979,CAL,ANA,1,Y,,N,California Angels,Anaheim Stadium,96,96
+1980,CAL,ANA,6,N,,N,California Angels,Anaheim Stadium,97,97
+1981,CAL,ANA,5,N,,N,California Angels,Anaheim Stadium,100,99
+1982,CAL,ANA,1,Y,,N,California Angels,Anaheim Stadium,100,99
+1983,CAL,ANA,5,N,,N,California Angels,Anaheim Stadium,99,99
+1984,CAL,ANA,2,N,,N,California Angels,Anaheim Stadium,100,100
+1985,CAL,ANA,2,N,,N,California Angels,Anaheim Stadium,100,100
+1986,CAL,ANA,1,Y,,N,California Angels,Anaheim Stadium,99,99
+1987,CAL,ANA,6,N,,N,California Angels,Anaheim Stadium,97,97
+1988,CAL,ANA,4,N,,N,California Angels,Anaheim Stadium,97,97
+1989,CAL,ANA,3,N,,N,California Angels,Anaheim Stadium,98,98
+1990,CAL,ANA,4,N,,N,California Angels,Anaheim Stadium,97,97
+1991,CAL,ANA,7,N,,N,California Angels,Anaheim Stadium,99,100
+1992,CAL,ANA,5,N,,N,California Angels,Anaheim Stadium,100,101
+1993,CAL,ANA,5,N,,N,California Angels,Anaheim Stadium,103,104
+1994,CAL,ANA,4,,,,California Angels,Anaheim Stadium,101,101
+1995,CAL,ANA,2,N,N,N,California Angels,Anaheim Stadium,99,99
+1996,CAL,ANA,4,N,N,N,California Angels,Anaheim Stadium,98,98
+1871,CH1,CNA,2,,,,Chicago White Stockings,Union Base-Ball Grounds,104,102
+1874,CH2,CNA,5,,,,Chicago White Stockings,23rd Street Grounds,101,102
+1875,CH2,CNA,6,,,,Chicago White Stockings,23rd Street Grounds,101,102
+1901,CHA,CHW,1,,,,Chicago White Sox,South Side Park II,97,95
+1902,CHA,CHW,4,,,,Chicago White Sox,South Side Park II,96,95
+1903,CHA,CHW,7,,,N,Chicago White Sox,South Side Park II,96,95
+1904,CHA,CHW,3,,,,Chicago White Sox,South Side Park II,96,95
+1905,CHA,CHW,2,,,N,Chicago White Sox,South Side Park II,96,93
+1906,CHA,CHW,1,,,Y,Chicago White Sox,South Side Park II,98,95
+1907,CHA,CHW,3,,,N,Chicago White Sox,South Side Park II,97,95
+1908,CHA,CHW,3,,,N,Chicago White Sox,South Side Park II,98,97
+1909,CHA,CHW,4,,,N,Chicago White Sox,South Side Park II,96,95
+1910,CHA,CHW,6,,,N,Chicago White Sox,South Side Park II/Comiskey Park,95,95
+1911,CHA,CHW,5,,,N,Chicago White Sox,Comiskey Park,98,97
+1912,CHA,CHW,4,,,N,Chicago White Sox,Comiskey Park,97,97
+1913,CHA,CHW,5,,,N,Chicago White Sox,Comiskey Park,99,100
+1914,CHA,CHW,6,,,N,Chicago White Sox,Comiskey Park,99,98
+1915,CHA,CHW,3,,,N,Chicago White Sox,Comiskey Park,103,102
+1916,CHA,CHW,2,,,N,Chicago White Sox,Comiskey Park,101,98
+1917,CHA,CHW,1,,,Y,Chicago White Sox,Comiskey Park,102,100
+1918,CHA,CHW,6,,,N,Chicago White Sox,Comiskey Park,101,98
+1919,CHA,CHW,1,,,N,Chicago White Sox,Comiskey Park,100,99
+1920,CHA,CHW,2,,,N,Chicago White Sox,Comiskey Park,99,99
+1921,CHA,CHW,7,,,N,Chicago White Sox,Comiskey Park,98,98
+1922,CHA,CHW,5,,,N,Chicago White Sox,Comiskey Park,99,100
+1923,CHA,CHW,7,,,N,Chicago White Sox,Comiskey Park,99,99
+1924,CHA,CHW,8,,,N,Chicago White Sox,Comiskey Park,97,97
+1925,CHA,CHW,5,,,N,Chicago White Sox,Comiskey Park,95,95
+1926,CHA,CHW,5,,,N,Chicago White Sox,Comiskey Park,97,97
+1927,CHA,CHW,5,,,N,Chicago White Sox,Comiskey Park,98,98
+1928,CHA,CHW,5,,,N,Chicago White Sox,Comiskey Park,98,100
+1929,CHA,CHW,7,,,N,Chicago White Sox,Comiskey Park,98,100
+1930,CHA,CHW,7,,,N,Chicago White Sox,Comiskey Park,96,99
+1931,CHA,CHW,8,,,N,Chicago White Sox,Comiskey Park,94,97
+1932,CHA,CHW,7,,,N,Chicago White Sox,Comiskey Park,93,96
+1933,CHA,CHW,6,,,N,Chicago White Sox,Comiskey Park,95,98
+1934,CHA,CHW,8,,,N,Chicago White Sox,Comiskey Park,103,105
+1935,CHA,CHW,5,,,N,Chicago White Sox,Comiskey Park,102,103
+1936,CHA,CHW,4,,,N,Chicago White Sox,Comiskey Park,104,103
+1937,CHA,CHW,3,,,N,Chicago White Sox,Comiskey Park,100,100
+1938,CHA,CHW,6,,,N,Chicago White Sox,Comiskey Park,103,103
+1939,CHA,CHW,4,,,N,Chicago White Sox,Comiskey Park,103,103
+1940,CHA,CHW,4,,,N,Chicago White Sox,Comiskey Park,102,101
+1941,CHA,CHW,3,,,N,Chicago White Sox,Comiskey Park,99,99
+1942,CHA,CHW,6,,,N,Chicago White Sox,Comiskey Park,97,98
+1943,CHA,CHW,4,,,N,Chicago White Sox,Comiskey Park,99,101
+1944,CHA,CHW,7,,,N,Chicago White Sox,Comiskey Park,98,99
+1945,CHA,CHW,6,,,N,Chicago White Sox,Comiskey Park,97,98
+1946,CHA,CHW,5,,,N,Chicago White Sox,Comiskey Park,96,97
+1947,CHA,CHW,6,,,N,Chicago White Sox,Comiskey Park,96,98
+1948,CHA,CHW,8,,,N,Chicago White Sox,Comiskey Park,96,99
+1949,CHA,CHW,6,,,N,Chicago White Sox,Comiskey Park,96,99
+1950,CHA,CHW,6,,,N,Chicago White Sox,Comiskey Park,97,98
+1951,CHA,CHW,4,,,N,Chicago White Sox,Comiskey Park,98,98
+1952,CHA,CHW,3,,,N,Chicago White Sox,Comiskey Park,101,99
+1953,CHA,CHW,3,,,N,Chicago White Sox,Comiskey Park,103,101
+1954,CHA,CHW,3,,,N,Chicago White Sox,Comiskey Park,103,100
+1955,CHA,CHW,3,,,N,Chicago White Sox,Comiskey Park,103,99
+1956,CHA,CHW,3,,,N,Chicago White Sox,Comiskey Park,101,99
+1957,CHA,CHW,2,,,N,Chicago White Sox,Comiskey Park,101,99
+1958,CHA,CHW,2,,,N,Chicago White Sox,Comiskey Park,99,97
+1959,CHA,CHW,1,,,N,Chicago White Sox,Comiskey Park,99,98
+1960,CHA,CHW,3,,,N,Chicago White Sox,Comiskey Park,100,98
+1961,CHA,CHW,4,,,N,Chicago White Sox,Comiskey Park,99,97
+1962,CHA,CHW,5,,,N,Chicago White Sox,Comiskey Park,100,99
+1963,CHA,CHW,2,,,N,Chicago White Sox,Comiskey Park,98,96
+1964,CHA,CHW,2,,,N,Chicago White Sox,Comiskey Park,97,95
+1965,CHA,CHW,2,,,N,Chicago White Sox,Comiskey Park,93,92
+1966,CHA,CHW,4,,,N,Chicago White Sox,Comiskey Park,93,92
+1967,CHA,CHW,4,,,N,Chicago White Sox,Comiskey Park,93,93
+1968,CHA,CHW,8,,,N,Chicago White Sox,Comiskey Park,106,107
+1969,CHA,CHW,5,N,,N,Chicago White Sox,Comiskey Park,106,107
+1970,CHA,CHW,6,N,,N,Chicago White Sox,Comiskey Park,101,102
+1971,CHA,CHW,3,N,,N,Chicago White Sox,Comiskey Park,104,104
+1972,CHA,CHW,2,N,,N,Chicago White Sox,Comiskey Park,103,103
+1973,CHA,CHW,5,N,,N,Chicago White Sox,Comiskey Park,105,105
+1974,CHA,CHW,4,N,,N,Chicago White Sox,Comiskey Park,103,104
+1975,CHA,CHW,5,N,,N,Chicago White Sox,Comiskey Park,102,103
+1976,CHA,CHW,6,N,,N,Chicago White Sox,Comiskey Park,101,102
+1977,CHA,CHW,3,N,,N,Chicago White Sox,Comiskey Park,100,101
+1978,CHA,CHW,5,N,,N,Chicago White Sox,Comiskey Park,101,102
+1979,CHA,CHW,5,N,,N,Chicago White Sox,Comiskey Park,100,101
+1980,CHA,CHW,5,N,,N,Chicago White Sox,Comiskey Park,100,100
+1981,CHA,CHW,3,N,,N,Chicago White Sox,Comiskey Park,98,98
+1982,CHA,CHW,3,N,,N,Chicago White Sox,Comiskey Park,100,99
+1983,CHA,CHW,1,Y,,N,Chicago White Sox,Comiskey Park,104,103
+1984,CHA,CHW,5,N,,N,Chicago White Sox,Comiskey Park,105,104
+1985,CHA,CHW,3,N,,N,Chicago White Sox,Comiskey Park,104,104
+1986,CHA,CHW,5,N,,N,Chicago White Sox,Comiskey Park,104,104
+1987,CHA,CHW,5,N,,N,Chicago White Sox,Comiskey Park,103,103
+1988,CHA,CHW,5,N,,N,Chicago White Sox,Comiskey Park,100,100
+1989,CHA,CHW,7,N,,N,Chicago White Sox,Comiskey Park,97,98
+1990,CHA,CHW,2,N,,N,Chicago White Sox,Comiskey Park,98,98
+1991,CHA,CHW,2,N,,N,Chicago White Sox,Comiskey Park II,98,97
+1992,CHA,CHW,3,N,,N,Chicago White Sox,Comiskey Park II,99,99
+1993,CHA,CHW,1,Y,,N,Chicago White Sox,Comiskey Park II,98,97
+1994,CHA,CHW,1,,,,Chicago White Sox,Comiskey Park II,99,98
+1995,CHA,CHW,3,N,N,N,Chicago White Sox,Comiskey Park II,96,95
+1996,CHA,CHW,2,N,N,N,Chicago White Sox,Comiskey Park II,95,95
+1997,CHA,CHW,2,N,N,N,Chicago White Sox,Comiskey Park II,96,96
+1998,CHA,CHW,2,N,N,N,Chicago White Sox,Comiskey Park II,98,98
+1999,CHA,CHW,2,N,N,N,Chicago White Sox,Comiskey Park II,101,101
+2000,CHA,CHW,1,Y,N,N,Chicago White Sox,Comiskey Park II,102,102
+2001,CHA,CHW,3,N,N,N,Chicago White Sox,Comiskey Park II,104,103
+2002,CHA,CHW,2,N,N,N,Chicago White Sox,Comiskey Park II,102,101
+2003,CHA,CHW,2,N,N,N,Chicago White Sox,U.S. Cellular Field,102,102
+2004,CHA,CHW,2,N,N,N,Chicago White Sox,U.S. Cellular Field,102,102
+2005,CHA,CHW,1,Y,N,Y,Chicago White Sox,U.S. Cellular Field,103,103
+2006,CHA,CHW,3,N,N,N,Chicago White Sox,U.S. Cellular Field,104,104
+2007,CHA,CHW,4,N,N,N,Chicago White Sox,U.S. Cellular Field,104,104
+2008,CHA,CHW,1,Y,N,N,Chicago White Sox,U.S. Cellular Field,105,105
+2009,CHA,CHW,3,N,N,N,Chicago White Sox,U.S. Cellular Field,105,105
+2010,CHA,CHW,2,N,N,N,Chicago White Sox,U.S. Cellular Field,105,105
+2011,CHA,CHW,3,N,N,N,Chicago White Sox,U.S. Cellular Field,99,100
+2012,CHA,CHW,2,N,N,N,Chicago White Sox,U.S. Cellular Field,106,106
+2013,CHA,CHW,5,N,N,N,Chicago White Sox,U.S. Cellular Field,107,107
+2014,CHA,CHW,4,N,N,N,Chicago White Sox,U.S. Cellular Field,100,101
+2015,CHA,CHW,4,N,N,N,Chicago White Sox,U.S. Cellular Field,92,93
+2016,CHA,CHW,4,N,N,N,Chicago White Sox,U.S. Cellular Field,96,97
+2017,CHA,CHW,4,N,N,N,Chicago White Sox,Guaranteed Rate Field,98,98
+2018,CHA,CHW,4,N,N,N,Chicago White Sox,Guaranteed Rate Field,97,98
+2019,CHA,CHW,3,N,N,N,Chicago White Sox,Guaranteed Rate Field,97,99
+2020,CHA,CHW,2,N,Y,N,Chicago White Sox,Guaranteed Rate Field,99,100
+1914,CHF,CHH,2,,,,Chicago Chi-Feds,Wrigley Field,94,92
+1915,CHF,CHH,2,,,,Chicago Whales,Wrigley Field,94,92
+1876,CHN,CHC,1,,,,Chicago White Stockings,23rd Street Grounds,112,106
+1877,CHN,CHC,5,,,,Chicago White Stockings,23rd Street Grounds,112,106
+1878,CHN,CHC,4,,,,Chicago White Stockings,Lake Front Park I,106,105
+1879,CHN,CHC,4,,,,Chicago White Stockings,Lake Front Park I,106,103
+1880,CHN,CHC,1,,,,Chicago White Stockings,Lake Front Park I,106,102
+1881,CHN,CHC,1,,,,Chicago White Stockings,Lake Front Park I,105,99
+1882,CHN,CHC,1,,,,Chicago White Stockings,Lake Front Park I/Lake Front Park II,105,99
+1883,CHN,CHC,2,,,,Chicago White Stockings,Lake Front Park II,108,105
+1884,CHN,CHC,5,,,N,Chicago White Stockings,Lake Front Park II,108,105
+1885,CHN,CHC,1,,,N,Chicago White Stockings,West Side Park I,114,107
+1886,CHN,CHC,1,,,N,Chicago White Stockings,West Side Park I,114,109
+1887,CHN,CHC,3,,,N,Chicago White Stockings,West Side Park I,113,110
+1888,CHN,CHC,2,,,N,Chicago White Stockings,West Side Park I,107,106
+1889,CHN,CHC,3,,,N,Chicago White Stockings,West Side Park I,105,103
+1890,CHN,CHC,2,,,N,Chicago Colts,West Side Park I,104,102
+1891,CHN,CHC,2,,,,Chicago Colts,South Side Park I,106,105
+1892,CHN,CHC,7,,,,Chicago Colts,South Side Park I,94,94
+1893,CHN,CHC,9,,,,Chicago Colts,South Side Park I,103,104
+1894,CHN,CHC,8,,,,Chicago Colts,West Side Park II,106,106
+1895,CHN,CHC,4,,,,Chicago Colts,West Side Park II,107,107
+1896,CHN,CHC,5,,,,Chicago Colts,West Side Park II,104,104
+1897,CHN,CHC,9,,,,Chicago Colts,West Side Park II,104,104
+1898,CHN,CHC,4,,,,Chicago Orphans,West Side Park II,100,99
+1899,CHN,CHC,8,,,,Chicago Orphans,West Side Park II,97,97
+1900,CHN,CHC,6,,,,Chicago Orphans,West Side Park II,96,98
+1901,CHN,CHC,6,,,,Chicago Orphans,West Side Park II,96,98
+1902,CHN,CHC,5,,,,Chicago Orphans,West Side Park II,97,97
+1903,CHN,CHC,3,,,N,Chicago Cubs,West Side Park II,97,96
+1904,CHN,CHC,2,,,,Chicago Cubs,West Side Park II,100,98
+1905,CHN,CHC,3,,,N,Chicago Cubs,West Side Park II,104,99
+1906,CHN,CHC,1,,,N,Chicago Cubs,West Side Park II,106,100
+1907,CHN,CHC,1,,,Y,Chicago Cubs,West Side Park II,106,101
+1908,CHN,CHC,1,,,Y,Chicago Cubs,West Side Park II,104,100
+1909,CHN,CHC,2,,,N,Chicago Cubs,West Side Park II,103,98
+1910,CHN,CHC,1,,,N,Chicago Cubs,West Side Park II,99,95
+1911,CHN,CHC,2,,,N,Chicago Cubs,West Side Park II,100,97
+1912,CHN,CHC,3,,,N,Chicago Cubs,West Side Park II,100,97
+1913,CHN,CHC,3,,,N,Chicago Cubs,West Side Park II,100,99
+1914,CHN,CHC,4,,,N,Chicago Cubs,West Side Park II,100,100
+1915,CHN,CHC,4,,,N,Chicago Cubs,West Side Park II,100,101
+1916,CHN,CHC,5,,,N,Chicago Cubs,Wrigley Field,110,111
+1917,CHN,CHC,5,,,N,Chicago Cubs,Wrigley Field,108,107
+1918,CHN,CHC,1,,,N,Chicago Cubs,Wrigley Field,102,101
+1919,CHN,CHC,3,,,N,Chicago Cubs,Wrigley Field,100,99
+1920,CHN,CHC,5,,,N,Chicago Cubs,Wrigley Field,101,102
+1921,CHN,CHC,7,,,N,Chicago Cubs,Wrigley Field,100,101
+1922,CHN,CHC,5,,,N,Chicago Cubs,Wrigley Field,102,102
+1923,CHN,CHC,4,,,N,Chicago Cubs,Wrigley Field,100,100
+1924,CHN,CHC,5,,,N,Chicago Cubs,Wrigley Field,101,101
+1925,CHN,CHC,8,,,N,Chicago Cubs,Wrigley Field,102,102
+1926,CHN,CHC,4,,,N,Chicago Cubs,Wrigley Field,102,101
+1927,CHN,CHC,4,,,N,Chicago Cubs,Wrigley Field,101,99
+1928,CHN,CHC,3,,,N,Chicago Cubs,Wrigley Field,99,97
+1929,CHN,CHC,1,,,N,Chicago Cubs,Wrigley Field,100,97
+1930,CHN,CHC,2,,,N,Chicago Cubs,Wrigley Field,101,98
+1931,CHN,CHC,3,,,N,Chicago Cubs,Wrigley Field,102,100
+1932,CHN,CHC,1,,,N,Chicago Cubs,Wrigley Field,100,98
+1933,CHN,CHC,3,,,N,Chicago Cubs,Wrigley Field,100,99
+1934,CHN,CHC,3,,,N,Chicago Cubs,Wrigley Field,99,96
+1935,CHN,CHC,1,,,N,Chicago Cubs,Wrigley Field,101,98
+1936,CHN,CHC,2,,,N,Chicago Cubs,Wrigley Field,103,99
+1937,CHN,CHC,2,,,N,Chicago Cubs,Wrigley Field,104,102
+1938,CHN,CHC,1,,,N,Chicago Cubs,Wrigley Field,103,101
+1939,CHN,CHC,4,,,N,Chicago Cubs,Wrigley Field,102,100
+1940,CHN,CHC,5,,,N,Chicago Cubs,Wrigley Field,98,97
+1941,CHN,CHC,6,,,N,Chicago Cubs,Wrigley Field,96,96
+1942,CHN,CHC,6,,,N,Chicago Cubs,Wrigley Field,96,96
+1943,CHN,CHC,5,,,N,Chicago Cubs,Wrigley Field,98,98
+1944,CHN,CHC,4,,,N,Chicago Cubs,Wrigley Field,99,97
+1945,CHN,CHC,1,,,N,Chicago Cubs,Wrigley Field,98,96
+1946,CHN,CHC,3,,,N,Chicago Cubs,Wrigley Field,98,97
+1947,CHN,CHC,6,,,N,Chicago Cubs,Wrigley Field,96,97
+1948,CHN,CHC,8,,,N,Chicago Cubs,Wrigley Field,95,98
+1949,CHN,CHC,8,,,N,Chicago Cubs,Wrigley Field,97,99
+1950,CHN,CHC,7,,,N,Chicago Cubs,Wrigley Field,99,102
+1951,CHN,CHC,8,,,N,Chicago Cubs,Wrigley Field,102,104
+1952,CHN,CHC,5,,,N,Chicago Cubs,Wrigley Field,101,103
+1953,CHN,CHC,7,,,N,Chicago Cubs,Wrigley Field,102,103
+1954,CHN,CHC,7,,,N,Chicago Cubs,Wrigley Field,101,103
+1955,CHN,CHC,6,,,N,Chicago Cubs,Wrigley Field,100,102
+1956,CHN,CHC,8,,,N,Chicago Cubs,Wrigley Field,99,101
+1957,CHN,CHC,7,,,N,Chicago Cubs,Wrigley Field,99,100
+1958,CHN,CHC,5,,,N,Chicago Cubs,Wrigley Field,98,99
+1959,CHN,CHC,5,,,N,Chicago Cubs,Wrigley Field,99,100
+1960,CHN,CHC,7,,,N,Chicago Cubs,Wrigley Field,99,100
+1961,CHN,CHC,7,,,N,Chicago Cubs,Wrigley Field,101,104
+1962,CHN,CHC,9,,,N,Chicago Cubs,Wrigley Field,104,105
+1963,CHN,CHC,7,,,N,Chicago Cubs,Wrigley Field,106,107
+1964,CHN,CHC,8,,,N,Chicago Cubs,Wrigley Field,104,105
+1965,CHN,CHC,8,,,N,Chicago Cubs,Wrigley Field,102,104
+1966,CHN,CHC,10,,,N,Chicago Cubs,Wrigley Field,101,102
+1967,CHN,CHC,3,,,N,Chicago Cubs,Wrigley Field,105,105
+1968,CHN,CHC,3,,,N,Chicago Cubs,Wrigley Field,107,106
+1969,CHN,CHC,2,N,,N,Chicago Cubs,Wrigley Field,113,112
+1970,CHN,CHC,2,N,,N,Chicago Cubs,Wrigley Field,111,110
+1971,CHN,CHC,3,N,,N,Chicago Cubs,Wrigley Field,113,113
+1972,CHN,CHC,2,N,,N,Chicago Cubs,Wrigley Field,110,110
+1973,CHN,CHC,5,N,,N,Chicago Cubs,Wrigley Field,107,107
+1974,CHN,CHC,6,N,,N,Chicago Cubs,Wrigley Field,103,105
+1975,CHN,CHC,5,N,,N,Chicago Cubs,Wrigley Field,104,106
+1976,CHN,CHC,4,N,,N,Chicago Cubs,Wrigley Field,108,109
+1977,CHN,CHC,4,N,,N,Chicago Cubs,Wrigley Field,111,112
+1978,CHN,CHC,3,N,,N,Chicago Cubs,Wrigley Field,112,112
+1979,CHN,CHC,5,N,,N,Chicago Cubs,Wrigley Field,110,111
+1980,CHN,CHC,6,N,,N,Chicago Cubs,Wrigley Field,107,109
+1981,CHN,CHC,6,N,,N,Chicago Cubs,Wrigley Field,104,106
+1982,CHN,CHC,5,N,,N,Chicago Cubs,Wrigley Field,102,103
+1983,CHN,CHC,5,N,,N,Chicago Cubs,Wrigley Field,104,104
+1984,CHN,CHC,1,Y,,N,Chicago Cubs,Wrigley Field,108,108
+1985,CHN,CHC,4,N,,N,Chicago Cubs,Wrigley Field,110,110
+1986,CHN,CHC,5,N,,N,Chicago Cubs,Wrigley Field,107,108
+1987,CHN,CHC,6,N,,N,Chicago Cubs,Wrigley Field,103,104
+1988,CHN,CHC,4,N,,N,Chicago Cubs,Wrigley Field,105,105
+1989,CHN,CHC,1,Y,,N,Chicago Cubs,Wrigley Field,108,108
+1990,CHN,CHC,4,N,,N,Chicago Cubs,Wrigley Field,108,108
+1991,CHN,CHC,4,N,,N,Chicago Cubs,Wrigley Field,104,105
+1992,CHN,CHC,4,N,,N,Chicago Cubs,Wrigley Field,102,103
+1993,CHN,CHC,4,N,,N,Chicago Cubs,Wrigley Field,98,98
+1994,CHN,CHC,5,,,,Chicago Cubs,Wrigley Field,99,99
+1995,CHN,CHC,3,N,N,N,Chicago Cubs,Wrigley Field,98,98
+1996,CHN,CHC,4,N,N,N,Chicago Cubs,Wrigley Field,103,103
+1997,CHN,CHC,5,N,N,N,Chicago Cubs,Wrigley Field,102,102
+1998,CHN,CHC,2,N,Y,N,Chicago Cubs,Wrigley Field,103,103
+1999,CHN,CHC,6,N,N,N,Chicago Cubs,Wrigley Field,97,98
+2000,CHN,CHC,6,N,N,N,Chicago Cubs,Wrigley Field,97,98
+2001,CHN,CHC,3,N,N,N,Chicago Cubs,Wrigley Field,95,95
+2002,CHN,CHC,5,N,N,N,Chicago Cubs,Wrigley Field,98,98
+2003,CHN,CHC,1,Y,N,N,Chicago Cubs,Wrigley Field,101,101
+2004,CHN,CHC,3,N,N,N,Chicago Cubs,Wrigley Field,103,102
+2005,CHN,CHC,4,N,N,N,Chicago Cubs,Wrigley Field,104,104
+2006,CHN,CHC,6,N,N,N,Chicago Cubs,Wrigley Field,103,103
+2007,CHN,CHC,1,Y,N,N,Chicago Cubs,Wrigley Field,105,104
+2008,CHN,CHC,1,Y,N,N,Chicago Cubs,Wrigley Field,108,107
+2009,CHN,CHC,2,N,N,N,Chicago Cubs,Wrigley Field,107,106
+2010,CHN,CHC,5,N,N,N,Chicago Cubs,Wrigley Field,108,108
+2011,CHN,CHC,5,N,N,N,Chicago Cubs,Wrigley Field,96,97
+2012,CHN,CHC,5,N,N,N,Chicago Cubs,Wrigley Field,98,99
+2013,CHN,CHC,5,N,N,N,Chicago Cubs,Wrigley Field,104,105
+2014,CHN,CHC,5,N,N,N,Chicago Cubs,Wrigley Field,103,104
+2015,CHN,CHC,3,N,Y,N,Chicago Cubs,Wrigley Field,100,100
+2016,CHN,CHC,1,Y,N,Y,Chicago Cubs,Wrigley Field,95,93
+2017,CHN,CHC,1,Y,N,N,Chicago Cubs,Wrigley Field,102,100
+2018,CHN,CHC,2,N,Y,N,Chicago Cubs,Wrigley Field,107,106
+2019,CHN,CHC,3,N,N,N,Chicago Cubs,Wrigley Field,102,101
+2020,CHN,CHC,1,Y,N,N,Chicago Cubs,Wrigley Field,100,99
+1890,CHP,CHP,4,,,,Chicago Pirates,,104,103
+1884,CHU,CPI,6,,,,Chicago/Pittsburgh (Union League),,98,99
+1890,CIN,CIN,4,,,N,Cincinnati Reds,League Park I in Cincinnati,101,101
+1891,CIN,CIN,7,,,,Cincinnati Reds,League Park I in Cincinnati,101,101
+1892,CIN,CIN,5,,,,Cincinnati Reds,League Park I in Cincinnati,99,99
+1893,CIN,CIN,6,,,,Cincinnati Reds,League Park I in Cincinnati,102,103
+1894,CIN,CIN,10,,,,Cincinnati Reds,League Park II in Cincinnati,103,104
+1895,CIN,CIN,8,,,,Cincinnati Reds,League Park II in Cincinnati,104,104
+1896,CIN,CIN,3,,,,Cincinnati Reds,League Park II in Cincinnati,107,106
+1897,CIN,CIN,4,,,,Cincinnati Reds,League Park II in Cincinnati,107,106
+1898,CIN,CIN,3,,,,Cincinnati Reds,League Park II in Cincinnati,107,106
+1899,CIN,CIN,6,,,,Cincinnati Reds,League Park II in Cincinnati,102,102
+1900,CIN,CIN,7,,,,Cincinnati Reds,League Park II in Cincinnati,98,99
+1901,CIN,CIN,8,,,,Cincinnati Reds,League Park II in Cincinnati,94,96
+1902,CIN,CIN,4,,,,Cincinnati Reds,Palace of the Fans,109,108
+1903,CIN,CIN,4,,,N,Cincinnati Reds,Palace of the Fans,111,109
+1904,CIN,CIN,3,,,,Cincinnati Reds,Palace of the Fans,109,107
+1905,CIN,CIN,5,,,N,Cincinnati Reds,Palace of the Fans,111,110
+1906,CIN,CIN,6,,,N,Cincinnati Reds,Palace of the Fans,104,104
+1907,CIN,CIN,6,,,N,Cincinnati Reds,Palace of the Fans,104,105
+1908,CIN,CIN,5,,,N,Cincinnati Reds,Palace of the Fans,97,98
+1909,CIN,CIN,4,,,N,Cincinnati Reds,Palace of the Fans,99,100
+1910,CIN,CIN,5,,,N,Cincinnati Reds,Palace of the Fans,96,97
+1911,CIN,CIN,6,,,N,Cincinnati Reds,Palace of the Fans,97,98
+1912,CIN,CIN,4,,,N,Cincinnati Reds,Crosley Field,97,99
+1913,CIN,CIN,7,,,N,Cincinnati Reds,Crosley Field,100,101
+1914,CIN,CIN,8,,,N,Cincinnati Reds,Crosley Field,103,105
+1915,CIN,CIN,7,,,N,Cincinnati Reds,Crosley Field,102,104
+1916,CIN,CIN,7,,,N,Cincinnati Reds,Crosley Field,98,99
+1917,CIN,CIN,4,,,N,Cincinnati Reds,Crosley Field,96,97
+1918,CIN,CIN,3,,,N,Cincinnati Reds,Crosley Field,98,97
+1919,CIN,CIN,1,,,Y,Cincinnati Reds,Crosley Field,97,95
+1920,CIN,CIN,3,,,N,Cincinnati Reds,Crosley Field,98,97
+1921,CIN,CIN,6,,,N,Cincinnati Reds,Crosley Field,95,94
+1922,CIN,CIN,2,,,N,Cincinnati Reds,Crosley Field,98,97
+1923,CIN,CIN,2,,,N,Cincinnati Reds,Crosley Field,98,97
+1924,CIN,CIN,4,,,N,Cincinnati Reds,Crosley Field,99,97
+1925,CIN,CIN,3,,,N,Cincinnati Reds,Crosley Field,98,96
+1926,CIN,CIN,2,,,N,Cincinnati Reds,Crosley Field,98,97
+1927,CIN,CIN,5,,,N,Cincinnati Reds,Crosley Field,97,97
+1928,CIN,CIN,5,,,N,Cincinnati Reds,Crosley Field,98,99
+1929,CIN,CIN,7,,,N,Cincinnati Reds,Crosley Field,95,97
+1930,CIN,CIN,7,,,N,Cincinnati Reds,Crosley Field,94,97
+1931,CIN,CIN,8,,,N,Cincinnati Reds,Crosley Field,93,96
+1932,CIN,CIN,8,,,N,Cincinnati Reds,Crosley Field,96,99
+1933,CIN,CIN,8,,,N,Cincinnati Reds,Crosley Field,97,101
+1934,CIN,CIN,8,,,N,Cincinnati Reds,Crosley Field,96,100
+1935,CIN,CIN,6,,,N,Cincinnati Reds,Crosley Field,96,98
+1936,CIN,CIN,5,,,N,Cincinnati Reds,Crosley Field,93,95
+1937,CIN,CIN,8,,,N,Cincinnati Reds,Crosley Field,95,95
+1938,CIN,CIN,4,,,N,Cincinnati Reds,Crosley Field,98,97
+1939,CIN,CIN,1,,,N,Cincinnati Reds,Crosley Field,102,99
+1940,CIN,CIN,1,,,Y,Cincinnati Reds,Crosley Field,102,99
+1941,CIN,CIN,3,,,N,Cincinnati Reds,Crosley Field,101,99
+1942,CIN,CIN,4,,,N,Cincinnati Reds,Crosley Field,100,99
+1943,CIN,CIN,2,,,N,Cincinnati Reds,Crosley Field,99,99
+1944,CIN,CIN,3,,,N,Cincinnati Reds,Crosley Field,96,97
+1945,CIN,CIN,7,,,N,Cincinnati Reds,Crosley Field,98,99
+1946,CIN,CIN,6,,,N,Cincinnati Reds,Crosley Field,97,99
+1947,CIN,CIN,5,,,N,Cincinnati Reds,Crosley Field,100,102
+1948,CIN,CIN,7,,,N,Cincinnati Reds,Crosley Field,97,99
+1949,CIN,CIN,7,,,N,Cincinnati Reds,Crosley Field,101,104
+1950,CIN,CIN,6,,,N,Cincinnati Reds,Crosley Field,100,102
+1951,CIN,CIN,6,,,N,Cincinnati Reds,Crosley Field,101,103
+1952,CIN,CIN,6,,,N,Cincinnati Reds,Crosley Field,99,100
+1953,CIN,CIN,6,,,N,Cincinnati Reds,Crosley Field,100,101
+1954,CIN,CIN,5,,,N,Cincinnati Redlegs,Crosley Field,102,103
+1955,CIN,CIN,5,,,N,Cincinnati Redlegs,Crosley Field,105,104
+1956,CIN,CIN,3,,,N,Cincinnati Redlegs,Crosley Field,106,105
+1957,CIN,CIN,4,,,N,Cincinnati Redlegs,Crosley Field,106,105
+1958,CIN,CIN,4,,,N,Cincinnati Redlegs,Crosley Field,106,105
+1959,CIN,CIN,5,,,N,Cincinnati Redlegs,Crosley Field,104,103
+1960,CIN,CIN,6,,,N,Cincinnati Reds,Crosley Field,102,102
+1961,CIN,CIN,1,,,N,Cincinnati Reds,Crosley Field,102,101
+1962,CIN,CIN,3,,,N,Cincinnati Reds,Crosley Field,104,102
+1963,CIN,CIN,5,,,N,Cincinnati Reds,Crosley Field,103,102
+1964,CIN,CIN,2,,,N,Cincinnati Reds,Crosley Field,103,102
+1965,CIN,CIN,4,,,N,Cincinnati Reds,Crosley Field,107,106
+1966,CIN,CIN,7,,,N,Cincinnati Reds,Crosley Field,110,109
+1967,CIN,CIN,4,,,N,Cincinnati Reds,Crosley Field,112,112
+1968,CIN,CIN,4,,,N,Cincinnati Reds,Crosley Field,106,106
+1969,CIN,CIN,3,N,,N,Cincinnati Reds,Crosley Field,105,105
+1970,CIN,CIN,1,Y,,N,Cincinnati Reds,Crosley Field/Riverfront Stadium,104,103
+1971,CIN,CIN,4,N,,N,Cincinnati Reds,Riverfront Stadium,95,94
+1972,CIN,CIN,1,Y,,N,Cincinnati Reds,Riverfront Stadium,94,93
+1973,CIN,CIN,1,Y,,N,Cincinnati Reds,Riverfront Stadium,95,93
+1974,CIN,CIN,2,N,,N,Cincinnati Reds,Riverfront Stadium,99,97
+1975,CIN,CIN,1,Y,,Y,Cincinnati Reds,Riverfront Stadium,102,99
+1976,CIN,CIN,1,Y,,Y,Cincinnati Reds,Riverfront Stadium,102,100
+1977,CIN,CIN,2,N,,N,Cincinnati Reds,Riverfront Stadium,102,101
+1978,CIN,CIN,2,N,,N,Cincinnati Reds,Riverfront Stadium,100,100
+1979,CIN,CIN,1,Y,,N,Cincinnati Reds,Riverfront Stadium,101,101
+1980,CIN,CIN,3,N,,N,Cincinnati Reds,Riverfront Stadium,101,100
+1981,CIN,CIN,1,N,,N,Cincinnati Reds,Riverfront Stadium,102,102
+1982,CIN,CIN,6,N,,N,Cincinnati Reds,Riverfront Stadium,102,102
+1983,CIN,CIN,6,N,,N,Cincinnati Reds,Riverfront Stadium,103,104
+1984,CIN,CIN,5,N,,N,Cincinnati Reds,Riverfront Stadium,104,105
+1985,CIN,CIN,2,N,,N,Cincinnati Reds,Riverfront Stadium,104,105
+1986,CIN,CIN,2,N,,N,Cincinnati Reds,Riverfront Stadium,104,104
+1987,CIN,CIN,2,N,,N,Cincinnati Reds,Riverfront Stadium,104,103
+1988,CIN,CIN,2,N,,N,Cincinnati Reds,Riverfront Stadium,104,104
+1989,CIN,CIN,5,N,,N,Cincinnati Reds,Riverfront Stadium,104,103
+1990,CIN,CIN,1,Y,,Y,Cincinnati Reds,Riverfront Stadium,105,105
+1991,CIN,CIN,5,N,,N,Cincinnati Reds,Riverfront Stadium,104,104
+1992,CIN,CIN,2,N,,N,Cincinnati Reds,Riverfront Stadium,103,103
+1993,CIN,CIN,5,N,,N,Cincinnati Reds,Riverfront Stadium,101,100
+1994,CIN,CIN,1,,,,Cincinnati Reds,Riverfront Stadium,99,99
+1995,CIN,CIN,1,Y,N,N,Cincinnati Reds,Riverfront Stadium,100,99
+1996,CIN,CIN,3,N,N,N,Cincinnati Reds,Riverfront Stadium,101,101
+1997,CIN,CIN,3,N,N,N,Cincinnati Reds,Cinergy Field,102,102
+1998,CIN,CIN,4,N,N,N,Cincinnati Reds,Cinergy Field,102,102
+1999,CIN,CIN,2,N,N,N,Cincinnati Reds,Cinergy Field,103,103
+2000,CIN,CIN,2,N,N,N,Cincinnati Reds,Cinergy Field,102,102
+2001,CIN,CIN,5,N,N,N,Cincinnati Reds,Cinergy Field,105,105
+2002,CIN,CIN,3,N,N,N,Cincinnati Reds,Cinergy Field,104,105
+2003,CIN,CIN,5,N,N,N,Cincinnati Reds,Great American Ball Park,95,96
+2004,CIN,CIN,4,N,N,N,Cincinnati Reds,Great American Ball Park,98,99
+2005,CIN,CIN,5,N,N,N,Cincinnati Reds,Great American Ball Park,100,101
+2006,CIN,CIN,3,N,N,N,Cincinnati Reds,Great American Ball Park,104,104
+2007,CIN,CIN,5,N,N,N,Cincinnati Reds,Great American Ball Park,104,104
+2008,CIN,CIN,5,N,N,N,Cincinnati Reds,Great American Ball Park,102,103
+2009,CIN,CIN,4,N,N,N,Cincinnati Reds,Great American Ball Park,100,100
+2010,CIN,CIN,1,Y,N,N,Cincinnati Reds,Great American Ball Park,99,99
+2011,CIN,CIN,3,N,N,N,Cincinnati Reds,Great American Ball Park,107,106
+2012,CIN,CIN,1,Y,N,N,Cincinnati Reds,Great American Ball Park,107,107
+2013,CIN,CIN,3,N,Y,N,Cincinnati Reds,Great American Ball Park,103,102
+2014,CIN,CIN,4,N,N,N,Cincinnati Reds,Great American Ball Park,98,98
+2015,CIN,CIN,5,N,N,N,Cincinnati Reds,Great American Ball Park,101,101
+2016,CIN,CIN,5,N,N,N,Cincinnati Reds,Great American Ball Park,99,100
+2017,CIN,CIN,5,N,N,N,Cincinnati Reds,Great American Ball Park,100,101
+2018,CIN,CIN,5,N,N,N,Cincinnati Reds,Great American Ball Park,103,104
+2019,CIN,CIN,4,N,N,N,Cincinnati Reds,Great American Ball Park,103,103
+2020,CIN,CIN,2,N,Y,N,Cincinnati Reds,Great American Ball Park,106,106
+1871,CL1,CFC,8,,,,Cleveland Forest Citys,National Association Grounds,96,100
+1872,CL1,CFC,7,,,,Cleveland Forest Citys,National Association Grounds,96,100
+1879,CL2,CBL,6,,,,Cleveland Blues,Kennard Street Park,99,100
+1880,CL2,CBL,3,,,,Cleveland Blues,Kennard Street Park,98,99
+1881,CL2,CBL,7,,,,Cleveland Blues,Kennard Street Park,95,95
+1882,CL2,CBL,5,,,,Cleveland Blues,Kennard Street Park,97,97
+1883,CL2,CBL,4,,,,Cleveland Blues,Kennard Street Park,99,100
+1884,CL2,CBL,7,,,N,Cleveland Blues,Kennard Street Park,103,106
+1887,CL3,CLV,8,,,N,Cleveland Blues,National League Park II,97,101
+1888,CL3,CLV,6,,,N,Cleveland Blues,National League Park II,97,101
+1889,CL4,CLV,6,,,N,Cleveland Spiders,National League Park,104,105
+1890,CL4,CLV,7,,,N,Cleveland Spiders,National League Park,94,97
+1891,CL4,CLV,5,,,,Cleveland Spiders,League Park I,104,103
+1892,CL4,CLV,2,,,,Cleveland Spiders,League Park I,104,103
+1893,CL4,CLV,3,,,,Cleveland Spiders,League Park I,106,105
+1894,CL4,CLV,6,,,,Cleveland Spiders,League Park I,104,103
+1895,CL4,CLV,2,,,,Cleveland Spiders,League Park I,106,104
+1896,CL4,CLV,2,,,,Cleveland Spiders,League Park I,106,104
+1897,CL4,CLV,5,,,,Cleveland Spiders,League Park I,110,109
+1898,CL4,CLV,5,,,,Cleveland Spiders,League Park I,96,95
+1899,CL4,CLV,12,,,,Cleveland Spiders,League Park I,89,96
+1883,CL5,CBK,6,,,,Columbus Buckeyes,Recreation Park I,92,93
+1884,CL5,CBK,2,,,N,Columbus Buckeyes,Recreation Park I,92,93
+1889,CL6,CLS,6,,,N,Columbus Solons,Recreation Park II,95,94
+1890,CL6,CLS,2,,,N,Columbus Solons,Recreation Park II,93,93
+1891,CL6,CLS,6,,,,Columbus Solons,Recreation Park II,95,93
+1901,CLE,CLE,7,,,,Cleveland Blues,League Park I,96,97
+1902,CLE,CLE,5,,,,Cleveland Bronchos,League Park I,96,96
+1903,CLE,CLE,3,,,N,Cleveland Naps,League Park I,98,96
+1904,CLE,CLE,4,,,,Cleveland Naps,League Park I,99,98
+1905,CLE,CLE,5,,,N,Cleveland Naps,League Park I,101,99
+1906,CLE,CLE,3,,,N,Cleveland Naps,League Park I,99,97
+1907,CLE,CLE,4,,,N,Cleveland Naps,League Park I,101,99
+1908,CLE,CLE,2,,,N,Cleveland Naps,League Park I,101,100
+1909,CLE,CLE,6,,,N,Cleveland Naps,League Park I,104,103
+1910,CLE,CLE,5,,,N,Cleveland Naps,League Park II,101,103
+1911,CLE,CLE,3,,,N,Cleveland Naps,League Park II,101,102
+1912,CLE,CLE,5,,,N,Cleveland Naps,League Park II,103,103
+1913,CLE,CLE,3,,,N,Cleveland Naps,League Park II,103,103
+1914,CLE,CLE,8,,,N,Cleveland Naps,League Park II,104,105
+1915,CLE,CLE,7,,,N,Cleveland Indians,League Park II,102,104
+1916,CLE,CLE,6,,,N,Cleveland Indians,League Park II,106,106
+1917,CLE,CLE,3,,,N,Cleveland Indians,League Park II,107,106
+1918,CLE,CLE,2,,,N,Cleveland Indians,League Park II,109,108
+1919,CLE,CLE,2,,,N,Cleveland Indians,League Park II,106,104
+1920,CLE,CLE,1,,,Y,Cleveland Indians,League Park II,104,101
+1921,CLE,CLE,2,,,N,Cleveland Indians,League Park II,102,100
+1922,CLE,CLE,4,,,N,Cleveland Indians,League Park II,102,100
+1923,CLE,CLE,3,,,N,Cleveland Indians,League Park II,100,100
+1924,CLE,CLE,6,,,N,Cleveland Indians,League Park II,102,101
+1925,CLE,CLE,6,,,N,Cleveland Indians,League Park II,101,101
+1926,CLE,CLE,2,,,N,Cleveland Indians,League Park II,101,101
+1927,CLE,CLE,6,,,N,Cleveland Indians,League Park II,101,102
+1928,CLE,CLE,7,,,N,Cleveland Indians,League Park II,101,102
+1929,CLE,CLE,3,,,N,Cleveland Indians,League Park II,103,105
+1930,CLE,CLE,4,,,N,Cleveland Indians,League Park II,103,103
+1931,CLE,CLE,4,,,N,Cleveland Indians,League Park II,105,105
+1932,CLE,CLE,4,,,N,Cleveland Indians,League Park II/Cleveland Stadium,109,107
+1933,CLE,CLE,4,,,N,Cleveland Indians,League Park II/Cleveland Stadium,106,106
+1934,CLE,CLE,3,,,N,Cleveland Indians,League Park II/Cleveland Stadium,101,100
+1935,CLE,CLE,3,,,N,Cleveland Indians,League Park II/Cleveland Stadium,102,102
+1936,CLE,CLE,5,,,N,Cleveland Indians,League Park II/Cleveland Stadium,103,102
+1937,CLE,CLE,4,,,N,Cleveland Indians,League Park II/Cleveland Stadium,98,97
+1938,CLE,CLE,3,,,N,Cleveland Indians,League Park II/Cleveland Stadium,98,97
+1939,CLE,CLE,3,,,N,Cleveland Indians,League Park II/Cleveland Stadium,97,96
+1940,CLE,CLE,2,,,N,Cleveland Indians,League Park II/Cleveland Stadium,98,97
+1941,CLE,CLE,4,,,N,Cleveland Indians,League Park II/Cleveland Stadium,95,95
+1942,CLE,CLE,4,,,N,Cleveland Indians,League Park II/Cleveland Stadium,94,94
+1943,CLE,CLE,3,,,N,Cleveland Indians,League Park II/Cleveland Stadium,93,94
+1944,CLE,CLE,5,,,N,Cleveland Indians,League Park II/Cleveland Stadium,96,96
+1945,CLE,CLE,5,,,N,Cleveland Indians,League Park II/Cleveland Stadium,95,96
+1946,CLE,CLE,6,,,N,Cleveland Indians,League Park II/Cleveland Stadium,93,94
+1947,CLE,CLE,4,,,N,Cleveland Indians,Cleveland Stadium,98,94
+1948,CLE,CLE,1,,,Y,Cleveland Indians,Cleveland Stadium,97,95
+1949,CLE,CLE,3,,,N,Cleveland Indians,Cleveland Stadium,98,95
+1950,CLE,CLE,4,,,N,Cleveland Indians,Cleveland Stadium,97,94
+1951,CLE,CLE,2,,,N,Cleveland Indians,Cleveland Stadium,95,92
+1952,CLE,CLE,2,,,N,Cleveland Indians,Cleveland Stadium,94,91
+1953,CLE,CLE,2,,,N,Cleveland Indians,Cleveland Stadium,98,94
+1954,CLE,CLE,1,,,N,Cleveland Indians,Cleveland Stadium,102,98
+1955,CLE,CLE,2,,,N,Cleveland Indians,Cleveland Stadium,104,101
+1956,CLE,CLE,2,,,N,Cleveland Indians,Cleveland Stadium,103,101
+1957,CLE,CLE,6,,,N,Cleveland Indians,Cleveland Stadium,100,99
+1958,CLE,CLE,4,,,N,Cleveland Indians,Cleveland Stadium,99,98
+1959,CLE,CLE,2,,,N,Cleveland Indians,Cleveland Stadium,97,96
+1960,CLE,CLE,4,,,N,Cleveland Indians,Cleveland Stadium,97,97
+1961,CLE,CLE,5,,,N,Cleveland Indians,Cleveland Stadium,97,98
+1962,CLE,CLE,6,,,N,Cleveland Indians,Cleveland Stadium,97,97
+1963,CLE,CLE,5,,,N,Cleveland Indians,Cleveland Stadium,100,100
+1964,CLE,CLE,6,,,N,Cleveland Indians,Cleveland Stadium,99,99
+1965,CLE,CLE,5,,,N,Cleveland Indians,Cleveland Stadium,101,101
+1966,CLE,CLE,5,,,N,Cleveland Indians,Cleveland Stadium,100,100
+1967,CLE,CLE,8,,,N,Cleveland Indians,Cleveland Stadium,102,102
+1968,CLE,CLE,3,,,N,Cleveland Indians,Cleveland Stadium,99,100
+1969,CLE,CLE,6,N,,N,Cleveland Indians,Cleveland Stadium,103,103
+1970,CLE,CLE,5,N,,N,Cleveland Indians,Cleveland Stadium,104,105
+1971,CLE,CLE,6,N,,N,Cleveland Indians,Cleveland Stadium,109,110
+1972,CLE,CLE,5,N,,N,Cleveland Indians,Cleveland Stadium,104,106
+1973,CLE,CLE,6,N,,N,Cleveland Indians,Cleveland Stadium,103,104
+1974,CLE,CLE,4,N,,N,Cleveland Indians,Cleveland Stadium,99,100
+1975,CLE,CLE,4,N,,N,Cleveland Indians,Cleveland Stadium,99,99
+1976,CLE,CLE,4,N,,N,Cleveland Indians,Cleveland Stadium,98,98
+1977,CLE,CLE,5,N,,N,Cleveland Indians,Cleveland Stadium,96,97
+1978,CLE,CLE,6,N,,N,Cleveland Indians,Cleveland Stadium,99,100
+1979,CLE,CLE,6,N,,N,Cleveland Indians,Cleveland Stadium,101,101
+1980,CLE,CLE,6,N,,N,Cleveland Indians,Cleveland Stadium,101,102
+1981,CLE,CLE,6,N,,N,Cleveland Indians,Cleveland Stadium,100,100
+1982,CLE,CLE,6,N,,N,Cleveland Indians,Cleveland Stadium,101,101
+1983,CLE,CLE,7,N,,N,Cleveland Indians,Cleveland Stadium,104,105
+1984,CLE,CLE,6,N,,N,Cleveland Indians,Cleveland Stadium,102,103
+1985,CLE,CLE,7,N,,N,Cleveland Indians,Cleveland Stadium,99,100
+1986,CLE,CLE,5,N,,N,Cleveland Indians,Cleveland Stadium,98,99
+1987,CLE,CLE,7,N,,N,Cleveland Indians,Cleveland Stadium,100,101
+1988,CLE,CLE,6,N,,N,Cleveland Indians,Cleveland Stadium,102,103
+1989,CLE,CLE,6,N,,N,Cleveland Indians,Cleveland Stadium,101,102
+1990,CLE,CLE,4,N,,N,Cleveland Indians,Cleveland Stadium,100,100
+1991,CLE,CLE,7,N,,N,Cleveland Indians,Cleveland Stadium,101,102
+1992,CLE,CLE,4,N,,N,Cleveland Indians,Cleveland Stadium,99,100
+1993,CLE,CLE,6,N,,N,Cleveland Indians,Cleveland Stadium,100,101
+1994,CLE,CLE,2,,,,Cleveland Indians,Jacobs Field,99,97
+1995,CLE,CLE,1,Y,N,N,Cleveland Indians,Jacobs Field,101,99
+1996,CLE,CLE,1,Y,N,N,Cleveland Indians,Jacobs Field,99,98
+1997,CLE,CLE,1,Y,N,N,Cleveland Indians,Jacobs Field,103,102
+1998,CLE,CLE,1,Y,N,N,Cleveland Indians,Jacobs Field,103,102
+1999,CLE,CLE,1,Y,N,N,Cleveland Indians,Jacobs Field,104,103
+2000,CLE,CLE,2,N,N,N,Cleveland Indians,Jacobs Field,101,100
+2001,CLE,CLE,1,Y,N,N,Cleveland Indians,Jacobs Field,100,100
+2002,CLE,CLE,3,N,N,N,Cleveland Indians,Jacobs Field,97,98
+2003,CLE,CLE,4,N,N,N,Cleveland Indians,Jacobs Field,96,97
+2004,CLE,CLE,3,N,N,N,Cleveland Indians,Jacobs Field,94,94
+2005,CLE,CLE,2,N,N,N,Cleveland Indians,Jacobs Field,96,96
+2006,CLE,CLE,4,N,N,N,Cleveland Indians,Jacobs Field,99,98
+2007,CLE,CLE,1,Y,N,N,Cleveland Indians,Jacobs Field,101,100
+2008,CLE,CLE,3,N,N,N,Cleveland Indians,Jacobs Field,98,98
+2009,CLE,CLE,4,N,N,N,Cleveland Indians,Jacobs Field,95,95
+2010,CLE,CLE,4,N,N,N,Cleveland Indians,Jacobs Field,93,93
+2011,CLE,CLE,2,N,N,N,Cleveland Indians,Jacobs Field,96,97
+2012,CLE,CLE,4,N,N,N,Cleveland Indians,Progressive Field,93,95
+2013,CLE,CLE,2,N,Y,N,Cleveland Indians,Progressive Field,93,94
+2014,CLE,CLE,3,N,N,N,Cleveland Indians,Progressive Field,97,97
+2015,CLE,CLE,3,N,N,N,Cleveland Indians,Progressive Field,106,106
+2016,CLE,CLE,1,Y,N,N,Cleveland Indians,Progressive Field,110,109
+2017,CLE,CLE,1,Y,N,N,Cleveland Indians,Progressive Field,106,104
+2018,CLE,CLE,1,Y,N,N,Cleveland Indians,Progressive Field,104,102
+2019,CLE,CLE,2,N,N,N,Cleveland Indians,Progressive Field,104,102
+2020,CLE,CLE,2,N,Y,N,Cleveland Indians,Progressive Field,104,103
+1890,CLP,CLI,7,,,,Cleveland Infants,,92,94
+1876,CN1,CNR,8,,,,Cincinnati Reds,Avenue Grounds,86,95
+1877,CN1,CNR,6,,,,Cincinnati Reds,Avenue Grounds,89,94
+1878,CN1,CNR,2,,,,Cincinnati Reds,Avenue Grounds,91,92
+1879,CN1,CNR,5,,,,Cincinnati Reds,Avenue Grounds,95,94
+1880,CN1,CNR,8,,,,Cincinnati Reds,Bank Street Grounds,98,104
+1882,CN2,CIN,1,,,,Cincinnati Red Stockings,Bank Street Grounds,106,99
+1883,CN2,CIN,3,,,,Cincinnati Red Stockings,Bank Street Grounds,106,99
+1884,CN2,CIN,5,,,N,Cincinnati Red Stockings,League Park I in Cincinnati,104,102
+1885,CN2,CIN,2,,,N,Cincinnati Red Stockings,League Park I in Cincinnati,102,100
+1886,CN2,CIN,5,,,N,Cincinnati Red Stockings,League Park I in Cincinnati,103,102
+1887,CN2,CIN,2,,,N,Cincinnati Red Stockings,League Park I in Cincinnati,102,101
+1888,CN2,CIN,4,,,N,Cincinnati Red Stockings,League Park I in Cincinnati,105,104
+1889,CN2,CIN,4,,,N,Cincinnati Red Stockings,League Park I in Cincinnati,105,103
+1891,CN3,CKK,7,,,,Cincinnati Kelly's Killers,East End Park,108,110
+1884,CNU,COR,3,,,,Cincinnati Outlaw Reds,,111,107
+1993,COL,COL,6,N,,N,Colorado Rockies,Mile High Stadium,117,118
+1994,COL,COL,3,,,,Colorado Rockies,Mile High Stadium,117,118
+1995,COL,COL,2,N,Y,N,Colorado Rockies,Coors Field,129,129
+1996,COL,COL,3,N,N,N,Colorado Rockies,Coors Field,123,124
+1997,COL,COL,3,N,N,N,Colorado Rockies,Coors Field,122,123
+1998,COL,COL,4,N,N,N,Colorado Rockies,Coors Field,121,122
+1999,COL,COL,5,N,N,N,Colorado Rockies,Coors Field,127,127
+2000,COL,COL,4,N,N,N,Colorado Rockies,Coors Field,125,125
+2001,COL,COL,5,N,N,N,Colorado Rockies,Coors Field,122,122
+2002,COL,COL,4,N,N,N,Colorado Rockies,Coors Field,116,116
+2003,COL,COL,4,N,N,N,Colorado Rockies,Coors Field,115,116
+2004,COL,COL,4,N,N,N,Colorado Rockies,Coors Field,113,114
+2005,COL,COL,5,N,N,N,Colorado Rockies,Coors Field,112,113
+2006,COL,COL,4,N,N,N,Colorado Rockies,Coors Field,109,109
+2007,COL,COL,2,N,Y,N,Colorado Rockies,Coors Field,107,108
+2008,COL,COL,3,N,N,N,Colorado Rockies,Coors Field,109,109
+2009,COL,COL,2,N,Y,N,Colorado Rockies,Coors Field,112,112
+2010,COL,COL,3,N,N,N,Colorado Rockies,Coors Field,115,115
+2011,COL,COL,4,N,N,N,Colorado Rockies,Coors Field,116,116
+2012,COL,COL,5,N,N,N,Colorado Rockies,Coors Field,120,121
+2013,COL,COL,5,N,N,N,Colorado Rockies,Coors Field,117,118
+2014,COL,COL,4,N,N,N,Colorado Rockies,Coors Field,115,116
+2015,COL,COL,5,N,N,N,Colorado Rockies,Coors Field,119,118
+2016,COL,COL,3,N,N,N,Colorado Rockies,Coors Field,117,117
+2017,COL,COL,3,N,Y,N,Colorado Rockies,Coors Field,115,115
+2018,COL,COL,2,N,Y,N,Colorado Rockies,Coors Field,117,116
+2019,COL,COL,4,N,N,N,Colorado Rockies,Coors Field,118,118
+2020,COL,COL,4,N,N,N,Colorado Rockies,Coors Field,116,117
+1901,DET,DET,3,,,,Detroit Tigers,Bennett Park,105,105
+1902,DET,DET,7,,,,Detroit Tigers,Bennett Park,105,105
+1903,DET,DET,5,,,N,Detroit Tigers,Bennett Park,96,97
+1904,DET,DET,7,,,,Detroit Tigers,Bennett Park,97,98
+1905,DET,DET,3,,,N,Detroit Tigers,Bennett Park,101,103
+1906,DET,DET,6,,,N,Detroit Tigers,Bennett Park,103,103
+1907,DET,DET,1,,,N,Detroit Tigers,Bennett Park,103,102
+1908,DET,DET,1,,,N,Detroit Tigers,Bennett Park,104,101
+1909,DET,DET,1,,,N,Detroit Tigers,Bennett Park,104,102
+1910,DET,DET,3,,,N,Detroit Tigers,Bennett Park,107,104
+1911,DET,DET,2,,,N,Detroit Tigers,Bennett Park,105,104
+1912,DET,DET,6,,,N,Detroit Tigers,Navin Field,97,98
+1913,DET,DET,6,,,N,Detroit Tigers,Navin Field,99,99
+1914,DET,DET,4,,,N,Detroit Tigers,Navin Field,103,102
+1915,DET,DET,2,,,N,Detroit Tigers,Navin Field,105,103
+1916,DET,DET,3,,,N,Detroit Tigers,Navin Field,104,101
+1917,DET,DET,4,,,N,Detroit Tigers,Navin Field,100,99
+1918,DET,DET,7,,,N,Detroit Tigers,Navin Field,96,96
+1919,DET,DET,4,,,N,Detroit Tigers,Navin Field,98,100
+1920,DET,DET,7,,,N,Detroit Tigers,Navin Field,97,98
+1921,DET,DET,6,,,N,Detroit Tigers,Navin Field,99,100
+1922,DET,DET,3,,,N,Detroit Tigers,Navin Field,97,96
+1923,DET,DET,2,,,N,Detroit Tigers,Navin Field,98,97
+1924,DET,DET,3,,,N,Detroit Tigers,Navin Field,98,97
+1925,DET,DET,4,,,N,Detroit Tigers,Navin Field,98,98
+1926,DET,DET,6,,,N,Detroit Tigers,Navin Field,101,100
+1927,DET,DET,4,,,N,Detroit Tigers,Navin Field,101,102
+1928,DET,DET,6,,,N,Detroit Tigers,Navin Field,102,102
+1929,DET,DET,6,,,N,Detroit Tigers,Navin Field,101,101
+1930,DET,DET,5,,,N,Detroit Tigers,Navin Field,102,104
+1931,DET,DET,7,,,N,Detroit Tigers,Navin Field,103,104
+1932,DET,DET,5,,,N,Detroit Tigers,Navin Field,104,105
+1933,DET,DET,5,,,N,Detroit Tigers,Navin Field,102,101
+1934,DET,DET,1,,,N,Detroit Tigers,Navin Field,100,98
+1935,DET,DET,1,,,Y,Detroit Tigers,Navin Field,96,93
+1936,DET,DET,2,,,N,Detroit Tigers,Navin Field,100,98
+1937,DET,DET,2,,,N,Detroit Tigers,Navin Field,102,101
+1938,DET,DET,4,,,N,Detroit Tigers,Briggs Stadium,107,106
+1939,DET,DET,5,,,N,Detroit Tigers,Briggs Stadium,107,106
+1940,DET,DET,1,,,N,Detroit Tigers,Briggs Stadium,109,108
+1941,DET,DET,4,,,N,Detroit Tigers,Briggs Stadium,110,110
+1942,DET,DET,5,,,N,Detroit Tigers,Briggs Stadium,108,108
+1943,DET,DET,5,,,N,Detroit Tigers,Briggs Stadium,107,106
+1944,DET,DET,2,,,N,Detroit Tigers,Briggs Stadium,105,103
+1945,DET,DET,1,,,Y,Detroit Tigers,Briggs Stadium,107,105
+1946,DET,DET,2,,,N,Detroit Tigers,Briggs Stadium,107,105
+1947,DET,DET,2,,,N,Detroit Tigers,Briggs Stadium,104,103
+1948,DET,DET,5,,,N,Detroit Tigers,Briggs Stadium,103,102
+1949,DET,DET,4,,,N,Detroit Tigers,Briggs Stadium,101,99
+1950,DET,DET,2,,,N,Detroit Tigers,Briggs Stadium,103,102
+1951,DET,DET,5,,,N,Detroit Tigers,Briggs Stadium,100,101
+1952,DET,DET,8,,,N,Detroit Tigers,Briggs Stadium,100,103
+1953,DET,DET,6,,,N,Detroit Tigers,Briggs Stadium,98,102
+1954,DET,DET,5,,,N,Detroit Tigers,Briggs Stadium,99,100
+1955,DET,DET,5,,,N,Detroit Tigers,Briggs Stadium,98,98
+1956,DET,DET,5,,,N,Detroit Tigers,Briggs Stadium,101,100
+1957,DET,DET,4,,,N,Detroit Tigers,Briggs Stadium,103,102
+1958,DET,DET,5,,,N,Detroit Tigers,Briggs Stadium,107,107
+1959,DET,DET,4,,,N,Detroit Tigers,Briggs Stadium,106,105
+1960,DET,DET,6,,,N,Detroit Tigers,Briggs Stadium,103,103
+1961,DET,DET,2,,,N,Detroit Tigers,Tiger Stadium,103,102
+1962,DET,DET,4,,,N,Detroit Tigers,Tiger Stadium,103,102
+1963,DET,DET,5,,,N,Detroit Tigers,Tiger Stadium,103,103
+1964,DET,DET,4,,,N,Detroit Tigers,Tiger Stadium,102,101
+1965,DET,DET,4,,,N,Detroit Tigers,Tiger Stadium,102,101
+1966,DET,DET,3,,,N,Detroit Tigers,Tiger Stadium,103,102
+1967,DET,DET,2,,,N,Detroit Tigers,Tiger Stadium,103,101
+1968,DET,DET,1,,,Y,Detroit Tigers,Tiger Stadium,103,101
+1969,DET,DET,2,N,,N,Detroit Tigers,Tiger Stadium,105,104
+1970,DET,DET,4,N,,N,Detroit Tigers,Tiger Stadium,101,101
+1971,DET,DET,2,N,,N,Detroit Tigers,Tiger Stadium,105,105
+1972,DET,DET,1,Y,,N,Detroit Tigers,Tiger Stadium,103,103
+1973,DET,DET,3,N,,N,Detroit Tigers,Tiger Stadium,106,107
+1974,DET,DET,6,N,,N,Detroit Tigers,Tiger Stadium,102,104
+1975,DET,DET,6,N,,N,Detroit Tigers,Tiger Stadium,104,106
+1976,DET,DET,5,N,,N,Detroit Tigers,Tiger Stadium,103,105
+1977,DET,DET,4,N,,N,Detroit Tigers,Tiger Stadium,105,105
+1978,DET,DET,5,N,,N,Detroit Tigers,Tiger Stadium,103,103
+1979,DET,DET,5,N,,N,Detroit Tigers,Tiger Stadium,103,103
+1980,DET,DET,4,N,,N,Detroit Tigers,Tiger Stadium,102,102
+1981,DET,DET,3,N,,N,Detroit Tigers,Tiger Stadium,104,103
+1982,DET,DET,4,N,,N,Detroit Tigers,Tiger Stadium,100,99
+1983,DET,DET,2,N,,N,Detroit Tigers,Tiger Stadium,97,96
+1984,DET,DET,1,Y,,Y,Detroit Tigers,Tiger Stadium,100,98
+1985,DET,DET,3,N,,N,Detroit Tigers,Tiger Stadium,100,98
+1986,DET,DET,3,N,,N,Detroit Tigers,Tiger Stadium,100,99
+1987,DET,DET,1,Y,,N,Detroit Tigers,Tiger Stadium,96,95
+1988,DET,DET,2,N,,N,Detroit Tigers,Tiger Stadium,97,97
+1989,DET,DET,7,N,,N,Detroit Tigers,Tiger Stadium,98,99
+1990,DET,DET,3,N,,N,Detroit Tigers,Tiger Stadium,101,102
+1991,DET,DET,2,N,,N,Detroit Tigers,Tiger Stadium,102,102
+1992,DET,DET,6,N,,N,Detroit Tigers,Tiger Stadium,101,100
+1993,DET,DET,3,N,,N,Detroit Tigers,Tiger Stadium,99,99
+1994,DET,DET,5,,,,Detroit Tigers,Tiger Stadium,101,101
+1995,DET,DET,4,N,N,N,Detroit Tigers,Tiger Stadium,100,101
+1996,DET,DET,5,N,N,N,Detroit Tigers,Tiger Stadium,100,102
+1997,DET,DET,3,N,N,N,Detroit Tigers,Tiger Stadium,99,100
+1998,DET,DET,5,N,N,N,Detroit Tigers,Tiger Stadium,100,101
+1999,DET,DET,3,N,N,N,Detroit Tigers,Tiger Stadium,99,101
+2000,DET,DET,3,N,N,N,Detroit Tigers,Comerica Park,95,95
+2001,DET,DET,4,N,N,N,Detroit Tigers,Comerica Park,93,95
+2002,DET,DET,5,N,N,N,Detroit Tigers,Comerica Park,92,95
+2003,DET,DET,5,N,N,N,Detroit Tigers,Comerica Park,93,95
+2004,DET,DET,4,N,N,N,Detroit Tigers,Comerica Park,95,96
+2005,DET,DET,4,N,N,N,Detroit Tigers,Comerica Park,98,98
+2006,DET,DET,2,N,Y,N,Detroit Tigers,Comerica Park,100,100
+2007,DET,DET,2,N,N,N,Detroit Tigers,Comerica Park,102,101
+2008,DET,DET,5,N,N,N,Detroit Tigers,Comerica Park,103,103
+2009,DET,DET,2,N,N,N,Detroit Tigers,Comerica Park,101,102
+2010,DET,DET,3,N,N,N,Detroit Tigers,Comerica Park,101,101
+2011,DET,DET,1,Y,N,N,Detroit Tigers,Comerica Park,103,102
+2012,DET,DET,1,Y,N,N,Detroit Tigers,Comerica Park,104,103
+2013,DET,DET,1,Y,N,N,Detroit Tigers,Comerica Park,106,105
+2014,DET,DET,1,Y,N,N,Detroit Tigers,Comerica Park,105,104
+2015,DET,DET,5,N,N,N,Detroit Tigers,Comerica Park,97,98
+2016,DET,DET,2,N,N,N,Detroit Tigers,Comerica Park,101,101
+2017,DET,DET,5,N,N,N,Detroit Tigers,Comerica Park,103,104
+2018,DET,DET,3,N,N,N,Detroit Tigers,Comerica Park,101,102
+2019,DET,DET,5,N,N,N,Detroit Tigers,Comerica Park,102,104
+2020,DET,DET,5,N,N,N,Detroit Tigers,Comerica Park,102,105
+1881,DTN,DTN,4,,,,Detroit Wolverines,Recreation Park,104,105
+1882,DTN,DTN,5,,,,Detroit Wolverines,Recreation Park,100,101
+1883,DTN,DTN,7,,,,Detroit Wolverines,Recreation Park,95,99
+1884,DTN,DTN,8,,,N,Detroit Wolverines,Recreation Park,94,97
+1885,DTN,DTN,6,,,N,Detroit Wolverines,Recreation Park,100,101
+1886,DTN,DTN,2,,,N,Detroit Wolverines,Recreation Park,103,100
+1887,DTN,DTN,1,,,Y,Detroit Wolverines,Recreation Park,104,100
+1888,DTN,DTN,5,,,N,Detroit Wolverines,Recreation Park,100,97
+1873,ELI,RES,8,,,,Elizabeth Resolutes,Waverly Fairgrounds,92,103
+1993,FLO,FLA,6,N,,N,Florida Marlins,Joe Robbie Stadium,104,106
+1994,FLO,FLA,5,,,,Florida Marlins,Joe Robbie Stadium,102,103
+1995,FLO,FLA,4,N,N,N,Florida Marlins,Joe Robbie Stadium,101,101
+1996,FLO,FLA,3,N,N,N,Florida Marlins,Joe Robbie Stadium,97,97
+1997,FLO,FLA,2,N,Y,Y,Florida Marlins,Joe Robbie Stadium,95,96
+1998,FLO,FLA,5,N,N,N,Florida Marlins,Joe Robbie Stadium,94,95
+1999,FLO,FLA,5,N,N,N,Florida Marlins,Pro Player Stadium,93,95
+2000,FLO,FLA,3,N,N,N,Florida Marlins,Pro Player Stadium,94,95
+2001,FLO,FLA,4,N,N,N,Florida Marlins,Pro Player Stadium,97,97
+2002,FLO,FLA,4,N,N,N,Florida Marlins,Pro Player Stadium,97,98
+2003,FLO,FLA,2,N,Y,Y,Florida Marlins,Pro Player Stadium,98,98
+2004,FLO,FLA,3,N,N,N,Florida Marlins,Pro Player Stadium,95,95
+2005,FLO,FLA,3,N,N,N,Florida Marlins,Dolphin Stadium,94,94
+2006,FLO,FLA,4,N,N,N,Florida Marlins,Dolphin Stadium,95,96
+2007,FLO,FLA,5,N,N,N,Florida Marlins,Dolphin Stadium,97,98
+2008,FLO,FLA,3,N,N,N,Florida Marlins,Dolphin Stadium,101,101
+2009,FLO,FLA,2,N,N,N,Florida Marlins,Dolphin Stadium,102,102
+2010,FLO,FLA,3,N,N,N,Florida Marlins,Dolphin Stadium,105,104
+2011,FLO,FLA,5,N,N,N,Florida Marlins,Sun Life Stadium,99,100
+1871,FW1,KEK,7,,,,Fort Wayne Kekiongas,Hamilton Field,101,107
+1876,HAR,HAR,2,,,,Hartford Dark Blues,Hartford Ball Club Grounds,110,106
+1877,HAR,HAR,3,,,,Hartford Dark Blues,Union Grounds (Brooklyn),90,87
+1962,HOU,HOU,8,,,N,Houston Colt .45's,Colt Stadium,93,95
+1963,HOU,HOU,9,,,N,Houston Colt .45's,Colt Stadium,94,96
+1964,HOU,HOU,9,,,N,Houston Colt .45's,Colt Stadium,95,97
+1965,HOU,HOU,9,,,N,Houston Astros,Astrodome,92,94
+1966,HOU,HOU,8,,,N,Houston Astros,Astrodome,93,94
+1967,HOU,HOU,9,,,N,Houston Astros,Astrodome,96,97
+1968,HOU,HOU,10,,,N,Houston Astros,Astrodome,97,99
+1969,HOU,HOU,5,N,,N,Houston Astros,Astrodome,98,98
+1970,HOU,HOU,4,N,,N,Houston Astros,Astrodome,96,96
+1971,HOU,HOU,4,N,,N,Houston Astros,Astrodome,98,97
+1972,HOU,HOU,3,N,,N,Houston Astros,Astrodome,98,97
+1973,HOU,HOU,4,N,,N,Houston Astros,Astrodome,99,99
+1974,HOU,HOU,4,N,,N,Houston Astros,Astrodome,96,96
+1975,HOU,HOU,6,N,,N,Houston Astros,Astrodome,93,93
+1976,HOU,HOU,3,N,,N,Houston Astros,Astrodome,91,91
+1977,HOU,HOU,3,N,,N,Houston Astros,Astrodome,91,91
+1978,HOU,HOU,5,N,,N,Houston Astros,Astrodome,92,92
+1979,HOU,HOU,2,N,,N,Houston Astros,Astrodome,94,94
+1980,HOU,HOU,1,Y,,N,Houston Astros,Astrodome,92,91
+1981,HOU,HOU,3,Y,,N,Houston Astros,Astrodome,95,94
+1982,HOU,HOU,5,N,,N,Houston Astros,Astrodome,92,92
+1983,HOU,HOU,3,N,,N,Houston Astros,Astrodome,93,93
+1984,HOU,HOU,2,N,,N,Houston Astros,Astrodome,92,92
+1985,HOU,HOU,3,N,,N,Houston Astros,Astrodome,97,96
+1986,HOU,HOU,1,Y,,N,Houston Astros,Astrodome,97,96
+1987,HOU,HOU,3,N,,N,Houston Astros,Astrodome,96,96
+1988,HOU,HOU,5,N,,N,Houston Astros,Astrodome,96,96
+1989,HOU,HOU,3,N,,N,Houston Astros,Astrodome,97,97
+1990,HOU,HOU,4,N,,N,Houston Astros,Astrodome,97,98
+1991,HOU,HOU,6,N,,N,Houston Astros,Astrodome,93,94
+1992,HOU,HOU,4,N,,N,Houston Astros,Astrodome,95,95
+1993,HOU,HOU,3,N,,N,Houston Astros,Astrodome,96,96
+1994,HOU,HOU,2,,,,Houston Astros,Astrodome,95,94
+1995,HOU,HOU,2,N,N,N,Houston Astros,Astrodome,93,93
+1996,HOU,HOU,2,N,N,N,Houston Astros,Astrodome,92,92
+1997,HOU,HOU,1,Y,N,N,Houston Astros,Astrodome,96,95
+1998,HOU,HOU,1,Y,N,N,Houston Astros,Astrodome,98,97
+1999,HOU,HOU,1,Y,N,N,Houston Astros,Astrodome,100,98
+2000,HOU,HOU,4,N,N,N,Houston Astros,Enron Field,107,107
+2001,HOU,HOU,1,Y,N,N,Houston Astros,Enron Field,107,106
+2002,HOU,HOU,2,N,N,N,Houston Astros,Minute Maid Park,106,105
+2003,HOU,HOU,2,N,N,N,Houston Astros,Minute Maid Park,103,102
+2004,HOU,HOU,2,N,Y,N,Houston Astros,Minute Maid Park,102,101
+2005,HOU,HOU,2,N,Y,N,Houston Astros,Minute Maid Park,101,100
+2006,HOU,HOU,2,N,N,N,Houston Astros,Minute Maid Park,100,99
+2007,HOU,HOU,4,N,N,N,Houston Astros,Minute Maid Park,100,100
+2008,HOU,HOU,3,N,N,N,Houston Astros,Minute Maid Park,98,98
+2009,HOU,HOU,5,N,N,N,Houston Astros,Minute Maid Park,98,98
+2010,HOU,HOU,4,N,N,N,Houston Astros,Minute Maid Park,95,96
+2011,HOU,HOU,6,N,N,N,Houston Astros,Minute Maid Park,102,104
+2012,HOU,HOU,6,N,N,N,Houston Astros,Minute Maid Park,99,101
+2013,HOU,HOU,5,N,N,N,Houston Astros,Minute Maid Park,99,101
+2014,HOU,HOU,4,N,N,N,Houston Astros,Minute Maid Park,101,102
+2015,HOU,HOU,2,N,Y,N,Houston Astros,Minute Maid Park,97,99
+2016,HOU,HOU,3,N,N,N,Houston Astros,Minute Maid Park,90,89
+2017,HOU,HOU,1,Y,N,Y,Houston Astros,Minute Maid Park,91,90
+2018,HOU,HOU,1,Y,N,N,Houston Astros,Minute Maid Park,96,94
+2019,HOU,HOU,1,Y,N,N,Houston Astros,Minute Maid Park,103,100
+2020,HOU,HOU,2,N,Y,N,Houston Astros,Minute Maid Park,103,101
+1874,HR1,HNA,7,,,,Hartford Dark Blues,Hartford Ball Club Grounds,106,106
+1875,HR1,HNA,3,,,,Hartford Dark Blues,Hartford Ball Club Grounds,107,105
+1878,IN1,IBL,5,,,,Indianapolis Blues,South Street Park,87,89
+1884,IN2,IHO,12,,,N,Indianapolis Hoosiers,Seventh Street Park,97,100
+1887,IN3,IND,8,,,N,Indianapolis Hoosiers,Athletic Park I,96,102
+1888,IN3,IND,7,,,N,Indianapolis Hoosiers,Athletic Park II,102,104
+1889,IN3,IND,7,,,N,Indianapolis Hoosiers,Athletic Park II,102,104
+1914,IND,NEW,1,,,,Indianapolis Hoosiers,,111,108
+1955,KC1,OAK,6,,,N,Kansas City Athletics,Municipal Stadium I,100,105
+1956,KC1,OAK,8,,,N,Kansas City Athletics,Municipal Stadium I,100,104
+1957,KC1,OAK,7,,,N,Kansas City Athletics,Municipal Stadium I,101,104
+1958,KC1,OAK,7,,,N,Kansas City Athletics,Municipal Stadium I,102,104
+1959,KC1,OAK,7,,,N,Kansas City Athletics,Municipal Stadium I,102,104
+1960,KC1,OAK,8,,,N,Kansas City Athletics,Municipal Stadium I,100,103
+1961,KC1,OAK,9,,,N,Kansas City Athletics,Municipal Stadium I,101,103
+1962,KC1,OAK,9,,,N,Kansas City Athletics,Municipal Stadium I,104,106
+1963,KC1,OAK,8,,,N,Kansas City Athletics,Municipal Stadium I,106,108
+1964,KC1,OAK,10,,,N,Kansas City Athletics,Municipal Stadium I,104,106
+1965,KC1,OAK,10,,,N,Kansas City Athletics,Municipal Stadium I,99,101
+1966,KC1,OAK,7,,,N,Kansas City Athletics,Municipal Stadium I,97,99
+1967,KC1,OAK,10,,,N,Kansas City Athletics,Municipal Stadium I,97,99
+1888,KC2,KCC,8,,,N,Kansas City Cowboys,Association Park I,106,112
+1889,KC2,KCC,7,,,N,Kansas City Cowboys,Exposition Park,105,108
+1969,KCA,KCR,4,N,,N,Kansas City Royals,Municipal Stadium II,100,101
+1970,KCA,KCR,4,N,,N,Kansas City Royals,Municipal Stadium II,99,100
+1971,KCA,KCR,2,N,,N,Kansas City Royals,Municipal Stadium II,99,99
+1972,KCA,KCR,4,N,,N,Kansas City Royals,Municipal Stadium II,99,98
+1973,KCA,KCR,2,N,,N,Kansas City Royals,Royals Stadium,106,106
+1974,KCA,KCR,5,N,,N,Kansas City Royals,Royals Stadium,105,105
+1975,KCA,KCR,2,N,,N,Kansas City Royals,Royals Stadium,103,102
+1976,KCA,KCR,1,Y,,N,Kansas City Royals,Royals Stadium,102,100
+1977,KCA,KCR,1,Y,,N,Kansas City Royals,Royals Stadium,102,100
+1978,KCA,KCR,1,Y,,N,Kansas City Royals,Royals Stadium,103,102
+1979,KCA,KCR,2,N,,N,Kansas City Royals,Royals Stadium,102,101
+1980,KCA,KCR,1,Y,,N,Kansas City Royals,Royals Stadium,100,100
+1981,KCA,KCR,4,Y,,N,Kansas City Royals,Royals Stadium,99,98
+1982,KCA,KCR,2,N,,N,Kansas City Royals,Royals Stadium,100,100
+1983,KCA,KCR,2,N,,N,Kansas City Royals,Royals Stadium,100,100
+1984,KCA,KCR,1,Y,,N,Kansas City Royals,Royals Stadium,100,101
+1985,KCA,KCR,1,Y,,Y,Kansas City Royals,Royals Stadium,100,100
+1986,KCA,KCR,3,N,,N,Kansas City Royals,Royals Stadium,102,101
+1987,KCA,KCR,2,N,,N,Kansas City Royals,Royals Stadium,102,102
+1988,KCA,KCR,3,N,,N,Kansas City Royals,Royals Stadium,101,101
+1989,KCA,KCR,2,N,,N,Kansas City Royals,Royals Stadium,100,100
+1990,KCA,KCR,6,N,,N,Kansas City Royals,Royals Stadium,98,98
+1991,KCA,KCR,6,N,,N,Kansas City Royals,Royals Stadium,100,101
+1992,KCA,KCR,5,N,,N,Kansas City Royals,Royals Stadium,102,103
+1993,KCA,KCR,3,N,,N,Kansas City Royals,Kauffman Stadium,106,106
+1994,KCA,KCR,3,,,,Kansas City Royals,Kauffman Stadium,104,104
+1995,KCA,KCR,2,N,N,N,Kansas City Royals,Kauffman Stadium,101,101
+1996,KCA,KCR,5,N,N,N,Kansas City Royals,Kauffman Stadium,99,100
+1997,KCA,KCR,5,N,N,N,Kansas City Royals,Kauffman Stadium,101,102
+1998,KCA,KCR,3,N,N,N,Kansas City Royals,Kauffman Stadium,101,102
+1999,KCA,KCR,4,N,N,N,Kansas City Royals,Kauffman Stadium,102,103
+2000,KCA,KCR,4,N,N,N,Kansas City Royals,Kauffman Stadium,103,103
+2001,KCA,KCR,5,N,N,N,Kansas City Royals,Kauffman Stadium,107,108
+2002,KCA,KCR,4,N,N,N,Kansas City Royals,Kauffman Stadium,110,111
+2003,KCA,KCR,3,N,N,N,Kansas City Royals,Kauffman Stadium,107,108
+2004,KCA,KCR,5,N,N,N,Kansas City Royals,Kauffman Stadium,102,103
+2005,KCA,KCR,5,N,N,N,Kansas City Royals,Kauffman Stadium,99,101
+2006,KCA,KCR,5,N,N,N,Kansas City Royals,Kauffman Stadium,101,103
+2007,KCA,KCR,5,N,N,N,Kansas City Royals,Kauffman Stadium,100,101
+2008,KCA,KCR,4,N,N,N,Kansas City Royals,Kauffman Stadium,98,100
+2009,KCA,KCR,4,N,N,N,Kansas City Royals,Kauffman Stadium,97,99
+2010,KCA,KCR,5,N,N,N,Kansas City Royals,Kauffman Stadium,99,101
+2011,KCA,KCR,4,N,N,N,Kansas City Royals,Kauffman Stadium,101,101
+2012,KCA,KCR,3,N,N,N,Kansas City Royals,Kauffman Stadium,100,100
+2013,KCA,KCR,3,N,N,N,Kansas City Royals,Kauffman Stadium,103,103
+2014,KCA,KCR,2,N,Y,N,Kansas City Royals,Kauffman Stadium,105,104
+2015,KCA,KCR,1,Y,N,Y,Kansas City Royals,Kauffman Stadium,104,103
+2016,KCA,KCR,3,N,N,N,Kansas City Royals,Kauffman Stadium,105,106
+2017,KCA,KCR,3,N,N,N,Kansas City Royals,Kauffman Stadium,102,102
+2018,KCA,KCR,5,N,N,N,Kansas City Royals,Kauffman Stadium,99,100
+2019,KCA,KCR,4,N,N,N,Kansas City Royals,Kauffman Stadium,101,102
+2020,KCA,KCR,4,N,N,N,Kansas City Royals,Kauffman Stadium,102,103
+1914,KCF,KCP,6,,,,Kansas City Packers,,97,97
+1915,KCF,KCP,4,,,,Kansas City Packers,,97,97
+1886,KCN,KCN,7,,,N,Kansas City Cowboys,Association Park,106,114
+1884,KCU,KCU,11,,,,Kansas City Cowboys,,87,92
+1875,KEO,WES,13,,,,Keokuk Westerns,Perry Park,105,109
+1961,LAA,ANA,8,,,N,Los Angeles Angels,Wrigley Field (LA),111,112
+1962,LAA,ANA,3,,,N,Los Angeles Angels,Dodger Stadium,97,97
+1963,LAA,ANA,9,,,N,Los Angeles Angels,Dodger Stadium,94,94
+1964,LAA,ANA,5,,,N,Los Angeles Angels,Dodger Stadium,90,90
+2005,LAA,ANA,1,Y,N,N,Los Angeles Angels of Anaheim,Angel Stadium,98,97
+2006,LAA,ANA,2,N,N,N,Los Angeles Angels of Anaheim,Angel Stadium,100,100
+2007,LAA,ANA,1,Y,N,N,Los Angeles Angels of Anaheim,Angel Stadium,101,100
+2008,LAA,ANA,1,Y,N,N,Los Angeles Angels of Anaheim,Angel Stadium,103,102
+2009,LAA,ANA,1,Y,N,N,Los Angeles Angels of Anaheim,Angel Stadium,99,98
+2010,LAA,ANA,3,N,N,N,Los Angeles Angels of Anaheim,Angel Stadium,98,98
+2011,LAA,ANA,2,N,N,N,Los Angeles Angels of Anaheim,Angel Stadium,93,93
+2012,LAA,ANA,3,N,N,N,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,92,92
+2013,LAA,ANA,3,N,N,N,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,94,94
+2014,LAA,ANA,1,Y,N,N,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,96,95
+2015,LAA,ANA,3,N,N,N,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,94,95
+2016,LAA,ANA,4,N,N,N,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,95,95
+2017,LAA,ANA,2,N,N,N,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,96,96
+2018,LAA,ANA,4,N,N,N,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,97,97
+2019,LAA,ANA,4,N,N,N,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,98,98
+2020,LAA,ANA,4,N,N,N,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,100,101
+1958,LAN,LAD,7,,,N,Los Angeles Dodgers,Los Angeles Memorial Coliseum,104,104
+1959,LAN,LAD,1,,,Y,Los Angeles Dodgers,Los Angeles Memorial Coliseum,107,107
+1960,LAN,LAD,4,,,N,Los Angeles Dodgers,Los Angeles Memorial Coliseum,106,105
+1961,LAN,LAD,2,,,N,Los Angeles Dodgers,Los Angeles Memorial Coliseum,108,107
+1962,LAN,LAD,2,,,N,Los Angeles Dodgers,Dodger Stadium,93,91
+1963,LAN,LAD,1,,,Y,Los Angeles Dodgers,Dodger Stadium,93,91
+1964,LAN,LAD,6,,,N,Los Angeles Dodgers,Dodger Stadium,93,92
+1965,LAN,LAD,1,,,Y,Los Angeles Dodgers,Dodger Stadium,93,92
+1966,LAN,LAD,1,,,N,Los Angeles Dodgers,Dodger Stadium,92,91
+1967,LAN,LAD,8,,,N,Los Angeles Dodgers,Dodger Stadium,91,91
+1968,LAN,LAD,7,,,N,Los Angeles Dodgers,Dodger Stadium,92,92
+1969,LAN,LAD,4,N,,N,Los Angeles Dodgers,Dodger Stadium,93,92
+1970,LAN,LAD,2,N,,N,Los Angeles Dodgers,Dodger Stadium,95,94
+1971,LAN,LAD,2,N,,N,Los Angeles Dodgers,Dodger Stadium,94,93
+1972,LAN,LAD,2,N,,N,Los Angeles Dodgers,Dodger Stadium,98,97
+1973,LAN,LAD,2,N,,N,Los Angeles Dodgers,Dodger Stadium,97,95
+1974,LAN,LAD,1,Y,,N,Los Angeles Dodgers,Dodger Stadium,96,94
+1975,LAN,LAD,2,N,,N,Los Angeles Dodgers,Dodger Stadium,96,94
+1976,LAN,LAD,2,N,,N,Los Angeles Dodgers,Dodger Stadium,98,97
+1977,LAN,LAD,1,Y,,N,Los Angeles Dodgers,Dodger Stadium,100,98
+1978,LAN,LAD,1,Y,,N,Los Angeles Dodgers,Dodger Stadium,100,98
+1979,LAN,LAD,3,N,,N,Los Angeles Dodgers,Dodger Stadium,99,98
+1980,LAN,LAD,2,N,,N,Los Angeles Dodgers,Dodger Stadium,99,98
+1981,LAN,LAD,2,Y,,Y,Los Angeles Dodgers,Dodger Stadium,97,96
+1982,LAN,LAD,2,N,,N,Los Angeles Dodgers,Dodger Stadium,98,97
+1983,LAN,LAD,1,Y,,N,Los Angeles Dodgers,Dodger Stadium,99,99
+1984,LAN,LAD,4,N,,N,Los Angeles Dodgers,Dodger Stadium,98,98
+1985,LAN,LAD,1,Y,,N,Los Angeles Dodgers,Dodger Stadium,97,96
+1986,LAN,LAD,5,N,,N,Los Angeles Dodgers,Dodger Stadium,93,93
+1987,LAN,LAD,4,N,,N,Los Angeles Dodgers,Dodger Stadium,98,98
+1988,LAN,LAD,1,Y,,Y,Los Angeles Dodgers,Dodger Stadium,98,97
+1989,LAN,LAD,4,N,,N,Los Angeles Dodgers,Dodger Stadium,99,98
+1990,LAN,LAD,2,N,,N,Los Angeles Dodgers,Dodger Stadium,98,97
+1991,LAN,LAD,2,N,,N,Los Angeles Dodgers,Dodger Stadium,98,97
+1992,LAN,LAD,6,N,,N,Los Angeles Dodgers,Dodger Stadium,99,99
+1993,LAN,LAD,4,N,,N,Los Angeles Dodgers,Dodger Stadium,95,95
+1994,LAN,LAD,1,,,,Los Angeles Dodgers,Dodger Stadium,94,94
+1995,LAN,LAD,1,Y,N,N,Los Angeles Dodgers,Dodger Stadium,91,91
+1996,LAN,LAD,2,N,Y,N,Los Angeles Dodgers,Dodger Stadium,93,92
+1997,LAN,LAD,2,N,N,N,Los Angeles Dodgers,Dodger Stadium,93,92
+1998,LAN,LAD,3,N,N,N,Los Angeles Dodgers,Dodger Stadium,95,95
+1999,LAN,LAD,3,N,N,N,Los Angeles Dodgers,Dodger Stadium,95,94
+2000,LAN,LAD,2,N,N,N,Los Angeles Dodgers,Dodger Stadium,94,94
+2001,LAN,LAD,3,N,N,N,Los Angeles Dodgers,Dodger Stadium,92,91
+2002,LAN,LAD,3,N,N,N,Los Angeles Dodgers,Dodger Stadium,92,92
+2003,LAN,LAD,2,N,N,N,Los Angeles Dodgers,Dodger Stadium,94,94
+2004,LAN,LAD,1,Y,N,N,Los Angeles Dodgers,Dodger Stadium,95,95
+2005,LAN,LAD,4,N,N,N,Los Angeles Dodgers,Dodger Stadium,98,97
+2006,LAN,LAD,2,N,Y,N,Los Angeles Dodgers,Dodger Stadium,101,100
+2007,LAN,LAD,4,N,N,N,Los Angeles Dodgers,Dodger Stadium,101,100
+2008,LAN,LAD,1,Y,N,N,Los Angeles Dodgers,Dodger Stadium,98,97
+2009,LAN,LAD,1,Y,N,N,Los Angeles Dodgers,Dodger Stadium,96,95
+2010,LAN,LAD,4,N,N,N,Los Angeles Dodgers,Dodger Stadium,95,95
+2011,LAN,LAD,3,N,N,N,Los Angeles Dodgers,Dodger Stadium,98,98
+2012,LAN,LAD,2,N,N,N,Los Angeles Dodgers,Dodger Stadium,96,96
+2013,LAN,LAD,1,Y,N,N,Los Angeles Dodgers,Dodger Stadium,95,95
+2014,LAN,LAD,1,Y,N,N,Los Angeles Dodgers,Dodger Stadium,96,95
+2015,LAN,LAD,1,Y,N,N,Los Angeles Dodgers,Dodger Stadium,101,98
+2016,LAN,LAD,1,Y,N,N,Los Angeles Dodgers,Dodger Stadium,93,92
+2017,LAN,LAD,1,Y,N,N,Los Angeles Dodgers,Dodger Stadium,97,96
+2018,LAN,LAD,1,Y,N,N,Los Angeles Dodgers,Dodger Stadium,98,96
+2019,LAN,LAD,1,Y,N,N,Los Angeles Dodgers,Dodger Stadium,96,94
+2020,LAN,LAD,1,Y,N,Y,Los Angeles Dodgers,Dodger Stadium,97,94
+1876,LS1,LGR,5,,,,Louisville Grays,Louisville Baseball Park,117,117
+1877,LS1,LGR,2,,,,Louisville Grays,Louisville Baseball Park,117,117
+1882,LS2,LOU,2,,,,Louisville Eclipse,Eclipse Park I,95,93
+1883,LS2,LOU,5,,,,Louisville Eclipse,Eclipse Park I,93,91
+1884,LS2,LOU,3,,,N,Louisville Eclipse,Eclipse Park I,95,95
+1885,LS2,LOU,6,,,N,Louisville Colonels,Eclipse Park I,100,100
+1886,LS2,LOU,4,,,N,Louisville Colonels,Eclipse Park I,106,106
+1887,LS2,LOU,4,,,N,Louisville Colonels,Eclipse Park I,102,102
+1888,LS2,LOU,7,,,N,Louisville Colonels,Eclipse Park I,98,100
+1889,LS2,LOU,8,,,N,Louisville Colonels,Eclipse Park I,98,100
+1890,LS2,LOU,1,,,N,Louisville Colonels,Eclipse Park I,98,99
+1891,LS2,LOU,8,,,,Louisville Colonels,Eclipse Park I,97,97
+1892,LS3,LOU,9,,,,Louisville Colonels,Eclipse Park I,91,93
+1893,LS3,LOU,11,,,,Louisville Colonels,Eclipse Park II,92,94
+1894,LS3,LOU,12,,,,Louisville Colonels,Eclipse Park II,93,96
+1895,LS3,LOU,12,,,,Louisville Colonels,Eclipse Park II,94,97
+1896,LS3,LOU,12,,,,Louisville Colonels,Eclipse Park II,96,99
+1897,LS3,LOU,11,,,,Louisville Colonels,Eclipse Park II,97,99
+1898,LS3,LOU,9,,,,Louisville Colonels,Eclipse Park II,99,99
+1899,LS3,LOU,9,,,,Louisville Colonels,Eclipse Park II,100,100
+2012,MIA,FLA,5,N,N,N,Miami Marlins,Marlins Park,100,100
+2013,MIA,FLA,5,N,N,N,Miami Marlins,Marlins Park,102,103
+2014,MIA,FLA,4,N,N,N,Miami Marlins,Marlins Park,103,104
+2015,MIA,FLA,3,N,N,N,Miami Marlins,Marlins Park,98,97
+2016,MIA,FLA,3,N,N,N,Miami Marlins,Marlins Park,93,93
+2017,MIA,FLA,2,N,N,N,Miami Marlins,Marlins Park,93,93
+2018,MIA,FLA,5,N,N,N,Miami Marlins,Marlins Park,89,90
+2019,MIA,FLA,5,N,N,N,Miami Marlins,Marlins Park,94,96
+2020,MIA,FLA,2,N,Y,N,Miami Marlins,Marlins Park,97,99
+1872,MID,MAN,8,,,,Middletown Mansfields,Mansfield Club Grounds,98,103
+1998,MIL,MIL,5,N,N,N,Milwaukee Brewers,County Stadium,100,101
+1999,MIL,MIL,5,N,N,N,Milwaukee Brewers,County Stadium,99,99
+2000,MIL,MIL,3,N,N,N,Milwaukee Brewers,County Stadium,97,98
+2001,MIL,MIL,4,N,N,N,Milwaukee Brewers,Miller Park,98,99
+2002,MIL,MIL,6,N,N,N,Milwaukee Brewers,Miller Park,98,99
+2003,MIL,MIL,6,N,N,N,Milwaukee Brewers,Miller Park,98,100
+2004,MIL,MIL,6,N,N,N,Milwaukee Brewers,Miller Park,100,101
+2005,MIL,MIL,3,N,N,N,Milwaukee Brewers,Miller Park,101,101
+2006,MIL,MIL,4,N,N,N,Milwaukee Brewers,Miller Park,101,101
+2007,MIL,MIL,2,N,N,N,Milwaukee Brewers,Miller Park,100,100
+2008,MIL,MIL,2,N,Y,N,Milwaukee Brewers,Miller Park,98,98
+2009,MIL,MIL,3,N,N,N,Milwaukee Brewers,Miller Park,98,98
+2010,MIL,MIL,3,N,N,N,Milwaukee Brewers,Miller Park,98,98
+2011,MIL,MIL,1,Y,N,N,Milwaukee Brewers,Miller Park,103,102
+2012,MIL,MIL,3,N,N,N,Milwaukee Brewers,Miller Park,104,104
+2013,MIL,MIL,4,N,N,N,Milwaukee Brewers,Miller Park,105,105
+2014,MIL,MIL,3,N,N,N,Milwaukee Brewers,Miller Park,102,103
+2015,MIL,MIL,4,N,N,N,Milwaukee Brewers,Miller Park,101,101
+2016,MIL,MIL,4,N,N,N,Milwaukee Brewers,Miller Park,99,99
+2017,MIL,MIL,2,N,N,N,Milwaukee Brewers,Miller Park,101,101
+2018,MIL,MIL,1,Y,N,N,Milwaukee Brewers,Miller Park,102,101
+2019,MIL,MIL,2,N,Y,N,Milwaukee Brewers,Miller Park,101,101
+2020,MIL,MIL,4,N,Y,N,Milwaukee Brewers,Miller Park,101,101
+1961,MIN,MIN,7,,,N,Minnesota Twins,Metropolitan Stadium,106,106
+1962,MIN,MIN,2,,,N,Minnesota Twins,Metropolitan Stadium,104,103
+1963,MIN,MIN,3,,,N,Minnesota Twins,Metropolitan Stadium,102,101
+1964,MIN,MIN,6,,,N,Minnesota Twins,Metropolitan Stadium,101,99
+1965,MIN,MIN,1,,,N,Minnesota Twins,Metropolitan Stadium,105,103
+1966,MIN,MIN,2,,,N,Minnesota Twins,Metropolitan Stadium,107,105
+1967,MIN,MIN,2,,,N,Minnesota Twins,Metropolitan Stadium,108,107
+1968,MIN,MIN,7,,,N,Minnesota Twins,Metropolitan Stadium,107,105
+1969,MIN,MIN,1,Y,,N,Minnesota Twins,Metropolitan Stadium,104,102
+1970,MIN,MIN,1,Y,,N,Minnesota Twins,Metropolitan Stadium,103,102
+1971,MIN,MIN,5,N,,N,Minnesota Twins,Metropolitan Stadium,103,102
+1972,MIN,MIN,3,N,,N,Minnesota Twins,Metropolitan Stadium,105,105
+1973,MIN,MIN,3,N,,N,Minnesota Twins,Metropolitan Stadium,104,104
+1974,MIN,MIN,3,N,,N,Minnesota Twins,Metropolitan Stadium,104,104
+1975,MIN,MIN,4,N,,N,Minnesota Twins,Metropolitan Stadium,102,102
+1976,MIN,MIN,3,N,,N,Minnesota Twins,Metropolitan Stadium,103,102
+1977,MIN,MIN,4,N,,N,Minnesota Twins,Metropolitan Stadium,99,99
+1978,MIN,MIN,4,N,,N,Minnesota Twins,Metropolitan Stadium,102,102
+1979,MIN,MIN,4,N,,N,Minnesota Twins,Metropolitan Stadium,104,104
+1980,MIN,MIN,3,N,,N,Minnesota Twins,Metropolitan Stadium,108,108
+1981,MIN,MIN,7,N,,N,Minnesota Twins,Metropolitan Stadium,107,108
+1982,MIN,MIN,7,N,,N,Minnesota Twins,Hubert H Humphrey Metrodome,103,104
+1983,MIN,MIN,5,N,,N,Minnesota Twins,Hubert H Humphrey Metrodome,104,105
+1984,MIN,MIN,2,N,,N,Minnesota Twins,Hubert H Humphrey Metrodome,104,105
+1985,MIN,MIN,4,N,,N,Minnesota Twins,Hubert H Humphrey Metrodome,105,105
+1986,MIN,MIN,6,N,,N,Minnesota Twins,Hubert H Humphrey Metrodome,102,102
+1987,MIN,MIN,1,Y,,Y,Minnesota Twins,Hubert H Humphrey Metrodome,103,103
+1988,MIN,MIN,2,N,,N,Minnesota Twins,Hubert H Humphrey Metrodome,103,102
+1989,MIN,MIN,5,N,,N,Minnesota Twins,Hubert H Humphrey Metrodome,107,107
+1990,MIN,MIN,7,N,,N,Minnesota Twins,Hubert H Humphrey Metrodome,107,107
+1991,MIN,MIN,1,Y,,Y,Minnesota Twins,Hubert H Humphrey Metrodome,105,104
+1992,MIN,MIN,2,N,,N,Minnesota Twins,Hubert H Humphrey Metrodome,103,102
+1993,MIN,MIN,5,N,,N,Minnesota Twins,Hubert H Humphrey Metrodome,100,100
+1994,MIN,MIN,4,,,,Minnesota Twins,Hubert H Humphrey Metrodome,100,102
+1995,MIN,MIN,5,N,N,N,Minnesota Twins,Hubert H Humphrey Metrodome,101,102
+1996,MIN,MIN,4,N,N,N,Minnesota Twins,Hubert H Humphrey Metrodome,101,102
+1997,MIN,MIN,4,N,N,N,Minnesota Twins,Hubert H Humphrey Metrodome,101,101
+1998,MIN,MIN,4,N,N,N,Minnesota Twins,Hubert H Humphrey Metrodome,101,102
+1999,MIN,MIN,5,N,N,N,Minnesota Twins,Hubert H Humphrey Metrodome,103,104
+2000,MIN,MIN,5,N,N,N,Minnesota Twins,Hubert H Humphrey Metrodome,104,105
+2001,MIN,MIN,2,N,N,N,Minnesota Twins,Hubert H Humphrey Metrodome,102,102
+2002,MIN,MIN,1,Y,N,N,Minnesota Twins,Hubert H Humphrey Metrodome,100,100
+2003,MIN,MIN,1,Y,N,N,Minnesota Twins,Hubert H Humphrey Metrodome,101,100
+2004,MIN,MIN,1,Y,N,N,Minnesota Twins,Hubert H Humphrey Metrodome,103,102
+2005,MIN,MIN,3,N,N,N,Minnesota Twins,Hubert H Humphrey Metrodome,102,102
+2006,MIN,MIN,1,Y,N,N,Minnesota Twins,Hubert H Humphrey Metrodome,98,98
+2007,MIN,MIN,3,N,N,N,Minnesota Twins,Hubert H Humphrey Metrodome,95,95
+2008,MIN,MIN,2,N,N,N,Minnesota Twins,Hubert H Humphrey Metrodome,96,96
+2009,MIN,MIN,1,Y,N,N,Minnesota Twins,Hubert H Humphrey Metrodome,99,98
+2010,MIN,MIN,1,Y,N,N,Minnesota Twins,Target Field,101,100
+2011,MIN,MIN,5,N,N,N,Minnesota Twins,Target Field,95,97
+2012,MIN,MIN,5,N,N,N,Minnesota Twins,Target Field,97,99
+2013,MIN,MIN,4,N,N,N,Minnesota Twins,Target Field,99,101
+2014,MIN,MIN,5,N,N,N,Minnesota Twins,Target Field,102,103
+2015,MIN,MIN,2,N,N,N,Minnesota Twins,Target Field,103,104
+2016,MIN,MIN,5,N,N,N,Minnesota Twins,Target Field,96,98
+2017,MIN,MIN,2,N,Y,N,Minnesota Twins,Target Field,99,100
+2018,MIN,MIN,2,N,N,N,Minnesota Twins,Target Field,102,102
+2019,MIN,MIN,1,Y,N,N,Minnesota Twins,Target Field,100,99
+2020,MIN,MIN,1,Y,N,N,Minnesota Twins,Target Field,99,98
+1953,ML1,ATL,2,,,N,Milwaukee Braves,County Stadium,94,92
+1954,ML1,ATL,3,,,N,Milwaukee Braves,County Stadium,94,92
+1955,ML1,ATL,2,,,N,Milwaukee Braves,County Stadium,96,93
+1956,ML1,ATL,2,,,N,Milwaukee Braves,County Stadium,94,92
+1957,ML1,ATL,1,,,Y,Milwaukee Braves,County Stadium,93,90
+1958,ML1,ATL,1,,,N,Milwaukee Braves,County Stadium,92,89
+1959,ML1,ATL,2,,,N,Milwaukee Braves,County Stadium,92,90
+1960,ML1,ATL,2,,,N,Milwaukee Braves,County Stadium,93,91
+1961,ML1,ATL,4,,,N,Milwaukee Braves,County Stadium,94,92
+1962,ML1,ATL,5,,,N,Milwaukee Braves,County Stadium,97,96
+1963,ML1,ATL,6,,,N,Milwaukee Braves,County Stadium,99,98
+1964,ML1,ATL,5,,,N,Milwaukee Braves,County Stadium,101,100
+1965,ML1,ATL,5,,,N,Milwaukee Braves,County Stadium,101,99
+1878,ML2,MLG,6,,,,Milwaukee Grays,Eclipse Park II,106,113
+1891,ML3,MLA,3,,,,Milwaukee Brewers,Athletic Field,120,118
+1970,ML4,MIL,4,N,,N,Milwaukee Brewers,County Stadium,100,101
+1971,ML4,MIL,6,N,,N,Milwaukee Brewers,County Stadium,98,100
+1972,ML4,MIL,6,N,,N,Milwaukee Brewers,County Stadium,97,98
+1973,ML4,MIL,5,N,,N,Milwaukee Brewers,County Stadium,97,98
+1974,ML4,MIL,5,N,,N,Milwaukee Brewers,County Stadium,99,99
+1975,ML4,MIL,5,N,,N,Milwaukee Brewers,County Stadium,100,101
+1976,ML4,MIL,6,N,,N,Milwaukee Brewers,County Stadium,98,99
+1977,ML4,MIL,6,N,,N,Milwaukee Brewers,County Stadium,100,100
+1978,ML4,MIL,3,N,,N,Milwaukee Brewers,County Stadium,100,100
+1979,ML4,MIL,2,N,,N,Milwaukee Brewers,County Stadium,100,99
+1980,ML4,MIL,3,N,,N,Milwaukee Brewers,County Stadium,97,96
+1981,ML4,MIL,1,Y,,N,Milwaukee Brewers,County Stadium,95,94
+1982,ML4,MIL,1,Y,,N,Milwaukee Brewers,County Stadium,94,93
+1983,ML4,MIL,5,N,,N,Milwaukee Brewers,County Stadium,93,92
+1984,ML4,MIL,7,N,,N,Milwaukee Brewers,County Stadium,96,97
+1985,ML4,MIL,6,N,,N,Milwaukee Brewers,County Stadium,100,101
+1986,ML4,MIL,6,N,,N,Milwaukee Brewers,County Stadium,103,104
+1987,ML4,MIL,3,N,,N,Milwaukee Brewers,County Stadium,103,103
+1988,ML4,MIL,3,N,,N,Milwaukee Brewers,County Stadium,101,100
+1989,ML4,MIL,4,N,,N,Milwaukee Brewers,County Stadium,99,99
+1990,ML4,MIL,6,N,,N,Milwaukee Brewers,County Stadium,99,99
+1991,ML4,MIL,4,N,,N,Milwaukee Brewers,County Stadium,98,98
+1992,ML4,MIL,2,N,,N,Milwaukee Brewers,County Stadium,99,98
+1993,ML4,MIL,7,N,,N,Milwaukee Brewers,County Stadium,99,99
+1994,ML4,MIL,5,,,,Milwaukee Brewers,County Stadium,104,105
+1995,ML4,MIL,4,N,N,N,Milwaukee Brewers,County Stadium,105,105
+1996,ML4,MIL,3,N,N,N,Milwaukee Brewers,County Stadium,104,104
+1997,ML4,MIL,3,N,N,N,Milwaukee Brewers,County Stadium,101,102
+1901,MLA,BAL,8,,,,Milwaukee Brewers,Lloyd Street Grounds,95,98
+1884,MLU,MLU,2,,,,Milwaukee Brewers,,60,60
+1969,MON,WSN,6,N,,N,Montreal Expos,Jarry Park,100,102
+1970,MON,WSN,6,N,,N,Montreal Expos,Jarry Park,99,101
+1971,MON,WSN,5,N,,N,Montreal Expos,Jarry Park,100,101
+1972,MON,WSN,5,N,,N,Montreal Expos,Jarry Park,101,102
+1973,MON,WSN,4,N,,N,Montreal Expos,Jarry Park,103,104
+1974,MON,WSN,4,N,,N,Montreal Expos,Jarry Park,105,106
+1975,MON,WSN,5,N,,N,Montreal Expos,Jarry Park,104,106
+1976,MON,WSN,6,N,,N,Montreal Expos,Jarry Park,105,107
+1977,MON,WSN,5,N,,N,Montreal Expos,Stade Olympique,97,97
+1978,MON,WSN,4,N,,N,Montreal Expos,Stade Olympique,99,98
+1979,MON,WSN,2,N,,N,Montreal Expos,Stade Olympique,99,98
+1980,MON,WSN,2,N,,N,Montreal Expos,Stade Olympique,100,99
+1981,MON,WSN,2,Y,,N,Montreal Expos,Stade Olympique,101,100
+1982,MON,WSN,3,N,,N,Montreal Expos,Stade Olympique,102,101
+1983,MON,WSN,3,N,,N,Montreal Expos,Stade Olympique,99,99
+1984,MON,WSN,5,N,,N,Montreal Expos,Stade Olympique,96,96
+1985,MON,WSN,3,N,,N,Montreal Expos,Stade Olympique,95,95
+1986,MON,WSN,4,N,,N,Montreal Expos,Stade Olympique,100,100
+1987,MON,WSN,3,N,,N,Montreal Expos,Stade Olympique,103,103
+1988,MON,WSN,3,N,,N,Montreal Expos,Stade Olympique,104,104
+1989,MON,WSN,4,N,,N,Montreal Expos,Stade Olympique,102,101
+1990,MON,WSN,3,N,,N,Montreal Expos,Stade Olympique,96,96
+1991,MON,WSN,6,N,,N,Montreal Expos,Stade Olympique,99,99
+1992,MON,WSN,2,N,,N,Montreal Expos,Stade Olympique,99,99
+1993,MON,WSN,2,N,,N,Montreal Expos,Stade Olympique,105,104
+1994,MON,WSN,1,,,,Montreal Expos,Stade Olympique,101,101
+1995,MON,WSN,5,N,N,N,Montreal Expos,Stade Olympique,104,103
+1996,MON,WSN,2,N,N,N,Montreal Expos,Stade Olympique,102,102
+1997,MON,WSN,4,N,N,N,Montreal Expos,Stade Olympique,99,99
+1998,MON,WSN,4,N,N,N,Montreal Expos,Stade Olympique,98,99
+1999,MON,WSN,4,N,N,N,Montreal Expos,Stade Olympique,97,98
+2000,MON,WSN,4,N,N,N,Montreal Expos,Stade Olympique,103,104
+2001,MON,WSN,5,N,N,N,Montreal Expos,Stade Olympique,101,102
+2002,MON,WSN,2,N,N,N,Montreal Expos,Stade Olympique,103,103
+2003,MON,WSN,4,N,N,N,Montreal Expos,Stade Olympique/Hiram Bithorn Stadium,105,105
+2004,MON,WSN,5,N,N,N,Montreal Expos,Stade Olympique/Hiram Bithorn Stadium,105,105
+1915,NEW,NEW,5,,,,Newark Pepper,,94,94
+1875,NH1,NHV,8,,,,New Haven Elm Citys,Hamilton Park,87,93
+1883,NY1,SFG,6,,,,New York Gothams,Polo Grounds I,99,99
+1884,NY1,SFG,4,,,N,New York Gothams,Polo Grounds I,105,102
+1885,NY1,SFG,2,,,N,New York Giants,Polo Grounds I,101,97
+1886,NY1,SFG,3,,,N,New York Giants,Polo Grounds I,103,99
+1887,NY1,SFG,4,,,N,New York Giants,Polo Grounds I,96,93
+1888,NY1,SFG,1,,,Y,New York Giants,Polo Grounds I,99,96
+1889,NY1,SFG,1,,,Y,New York Giants,Polo Grounds II,104,101
+1890,NY1,SFG,6,,,N,New York Giants,Polo Grounds II,95,95
+1891,NY1,SFG,3,,,,New York Giants,Polo Grounds III,96,96
+1892,NY1,SFG,8,,,,New York Giants,Polo Grounds III,99,98
+1893,NY1,SFG,5,,,,New York Giants,Polo Grounds III,101,100
+1894,NY1,SFG,2,,,,New York Giants,Polo Grounds III,99,99
+1895,NY1,SFG,9,,,,New York Giants,Polo Grounds III,98,97
+1896,NY1,SFG,7,,,,New York Giants,Polo Grounds III,97,96
+1897,NY1,SFG,3,,,,New York Giants,Polo Grounds III,97,96
+1898,NY1,SFG,7,,,,New York Giants,Polo Grounds III,97,96
+1899,NY1,SFG,10,,,,New York Giants,Polo Grounds III,97,97
+1900,NY1,SFG,8,,,,New York Giants,Polo Grounds III,95,98
+1901,NY1,SFG,7,,,,New York Giants,Polo Grounds III,96,100
+1902,NY1,SFG,8,,,,New York Giants,Polo Grounds III,99,101
+1903,NY1,SFG,2,,,N,New York Giants,Polo Grounds III,104,102
+1904,NY1,SFG,1,,,,New York Giants,Polo Grounds III,104,100
+1905,NY1,SFG,1,,,Y,New York Giants,Polo Grounds III,102,98
+1906,NY1,SFG,2,,,N,New York Giants,Polo Grounds III,102,99
+1907,NY1,SFG,4,,,N,New York Giants,Polo Grounds III,103,100
+1908,NY1,SFG,2,,,N,New York Giants,Polo Grounds III,105,102
+1909,NY1,SFG,3,,,N,New York Giants,Polo Grounds III,102,98
+1910,NY1,SFG,2,,,N,New York Giants,Polo Grounds III,100,98
+1911,NY1,SFG,1,,,N,New York Giants,Polo Grounds III/Polo Grounds IV,103,99
+1912,NY1,SFG,1,,,N,New York Giants,Polo Grounds IV,104,100
+1913,NY1,SFG,1,,,N,New York Giants,Polo Grounds IV,101,98
+1914,NY1,SFG,2,,,N,New York Giants,Polo Grounds IV,97,95
+1915,NY1,SFG,8,,,N,New York Giants,Polo Grounds IV,94,93
+1916,NY1,SFG,4,,,N,New York Giants,Polo Grounds IV,95,93
+1917,NY1,SFG,1,,,N,New York Giants,Polo Grounds IV,97,94
+1918,NY1,SFG,2,,,N,New York Giants,Polo Grounds IV,98,95
+1919,NY1,SFG,2,,,N,New York Giants,Polo Grounds IV,100,97
+1920,NY1,SFG,2,,,N,New York Giants,Polo Grounds IV,100,97
+1921,NY1,SFG,1,,,Y,New York Giants,Polo Grounds IV,102,98
+1922,NY1,SFG,1,,,Y,New York Giants,Polo Grounds IV,102,98
+1923,NY1,SFG,1,,,N,New York Giants,Polo Grounds IV,100,96
+1924,NY1,SFG,1,,,N,New York Giants,Polo Grounds IV,98,95
+1925,NY1,SFG,2,,,N,New York Giants,Polo Grounds IV,96,95
+1926,NY1,SFG,5,,,N,New York Giants,Polo Grounds IV,99,98
+1927,NY1,SFG,3,,,N,New York Giants,Polo Grounds IV,99,98
+1928,NY1,SFG,2,,,N,New York Giants,Polo Grounds IV,100,98
+1929,NY1,SFG,3,,,N,New York Giants,Polo Grounds IV,100,97
+1930,NY1,SFG,3,,,N,New York Giants,Polo Grounds IV,98,95
+1931,NY1,SFG,2,,,N,New York Giants,Polo Grounds IV,97,95
+1932,NY1,SFG,6,,,N,New York Giants,Polo Grounds IV,98,96
+1933,NY1,SFG,1,,,Y,New York Giants,Polo Grounds IV,99,97
+1934,NY1,SFG,2,,,N,New York Giants,Polo Grounds IV,98,96
+1935,NY1,SFG,3,,,N,New York Giants,Polo Grounds IV,99,96
+1936,NY1,SFG,1,,,N,New York Giants,Polo Grounds IV,100,97
+1937,NY1,SFG,1,,,N,New York Giants,Polo Grounds IV,102,100
+1938,NY1,SFG,3,,,N,New York Giants,Polo Grounds IV,101,100
+1939,NY1,SFG,5,,,N,New York Giants,Polo Grounds IV,101,101
+1940,NY1,SFG,6,,,N,New York Giants,Polo Grounds IV,101,101
+1941,NY1,SFG,5,,,N,New York Giants,Polo Grounds IV,103,102
+1942,NY1,SFG,3,,,N,New York Giants,Polo Grounds IV,101,102
+1943,NY1,SFG,8,,,N,New York Giants,Polo Grounds IV,100,101
+1944,NY1,SFG,5,,,N,New York Giants,Polo Grounds IV,99,101
+1945,NY1,SFG,5,,,N,New York Giants,Polo Grounds IV,101,102
+1946,NY1,SFG,8,,,N,New York Giants,Polo Grounds IV,100,101
+1947,NY1,SFG,4,,,N,New York Giants,Polo Grounds IV,101,100
+1948,NY1,SFG,5,,,N,New York Giants,Polo Grounds IV,101,100
+1949,NY1,SFG,5,,,N,New York Giants,Polo Grounds IV,101,99
+1950,NY1,SFG,3,,,N,New York Giants,Polo Grounds IV,101,99
+1951,NY1,SFG,1,,,N,New York Giants,Polo Grounds IV,101,99
+1952,NY1,SFG,2,,,N,New York Giants,Polo Grounds IV,101,99
+1953,NY1,SFG,5,,,N,New York Giants,Polo Grounds IV,103,101
+1954,NY1,SFG,1,,,Y,New York Giants,Polo Grounds IV,101,100
+1955,NY1,SFG,3,,,N,New York Giants,Polo Grounds IV,101,101
+1956,NY1,SFG,6,,,N,New York Giants,Polo Grounds IV,99,100
+1957,NY1,SFG,6,,,N,New York Giants,Polo Grounds IV,100,102
+1871,NY2,NNA,5,,,,New York Mutuals,Union Grounds (Brooklyn),90,88
+1872,NY2,NNA,3,,,,New York Mutuals,Union Grounds (Brooklyn),93,92
+1873,NY2,NNA,4,,,,New York Mutuals,Union Grounds (Brooklyn),98,96
+1874,NY2,NNA,2,,,,New York Mutuals,Union Grounds (Brooklyn),103,102
+1875,NY2,NNA,6,,,,New York Mutuals,Union Grounds (Brooklyn),99,100
+1876,NY3,NYU,6,,,,New York Mutuals,Union Grounds (Brooklyn),96,100
+1883,NY4,NYP,4,,,,New York Metropolitans,Polo Grounds I West Diamond,109,106
+1884,NY4,NYP,1,,,N,New York Metropolitans,Polo Grounds I West Diamond,100,96
+1885,NY4,NYP,7,,,N,New York Metropolitans,Polo Grounds I West Diamond,84,86
+1886,NY4,NYP,7,,,N,New York Metropolitans,St. George Cricket Grounds,96,100
+1887,NY4,NYP,7,,,N,New York Metropolitans,St. George Cricket Grounds,96,100
+1903,NYA,NYY,4,,,N,New York Highlanders,Hilltop Park,106,105
+1904,NYA,NYY,2,,,,New York Highlanders,Hilltop Park,105,104
+1905,NYA,NYY,6,,,N,New York Highlanders,Hilltop Park,111,110
+1906,NYA,NYY,2,,,N,New York Highlanders,Hilltop Park,110,110
+1907,NYA,NYY,5,,,N,New York Highlanders,Hilltop Park,108,110
+1908,NYA,NYY,8,,,N,New York Highlanders,Hilltop Park,101,103
+1909,NYA,NYY,5,,,N,New York Highlanders,Hilltop Park,101,102
+1910,NYA,NYY,2,,,N,New York Highlanders,Hilltop Park,106,105
+1911,NYA,NYY,6,,,N,New York Highlanders,Hilltop Park,106,107
+1912,NYA,NYY,8,,,N,New York Highlanders,Hilltop Park,106,108
+1913,NYA,NYY,7,,,N,New York Yankees,Polo Grounds IV,100,102
+1914,NYA,NYY,6,,,N,New York Yankees,Polo Grounds IV,100,101
+1915,NYA,NYY,5,,,N,New York Yankees,Polo Grounds IV,100,100
+1916,NYA,NYY,4,,,N,New York Yankees,Polo Grounds IV,102,102
+1917,NYA,NYY,6,,,N,New York Yankees,Polo Grounds IV,101,101
+1918,NYA,NYY,4,,,N,New York Yankees,Polo Grounds IV,102,102
+1919,NYA,NYY,3,,,N,New York Yankees,Polo Grounds IV,101,99
+1920,NYA,NYY,3,,,N,New York Yankees,Polo Grounds IV,104,101
+1921,NYA,NYY,1,,,N,New York Yankees,Polo Grounds IV,102,98
+1922,NYA,NYY,1,,,N,New York Yankees,Polo Grounds IV,102,98
+1923,NYA,NYY,1,,,Y,New York Yankees,Yankee Stadium I,103,100
+1924,NYA,NYY,2,,,N,New York Yankees,Yankee Stadium I,100,99
+1925,NYA,NYY,7,,,N,New York Yankees,Yankee Stadium I,98,97
+1926,NYA,NYY,1,,,N,New York Yankees,Yankee Stadium I,99,96
+1927,NYA,NYY,1,,,Y,New York Yankees,Yankee Stadium I,98,94
+1928,NYA,NYY,1,,,Y,New York Yankees,Yankee Stadium I,98,94
+1929,NYA,NYY,2,,,N,New York Yankees,Yankee Stadium I,94,92
+1930,NYA,NYY,3,,,N,New York Yankees,Yankee Stadium I,96,93
+1931,NYA,NYY,2,,,N,New York Yankees,Yankee Stadium I,95,91
+1932,NYA,NYY,1,,,Y,New York Yankees,Yankee Stadium I,96,92
+1933,NYA,NYY,2,,,N,New York Yankees,Yankee Stadium I,95,91
+1934,NYA,NYY,2,,,N,New York Yankees,Yankee Stadium I,94,91
+1935,NYA,NYY,2,,,N,New York Yankees,Yankee Stadium I,95,91
+1936,NYA,NYY,1,,,Y,New York Yankees,Yankee Stadium I,97,93
+1937,NYA,NYY,1,,,Y,New York Yankees,Yankee Stadium I,102,97
+1938,NYA,NYY,1,,,Y,New York Yankees,Yankee Stadium I,100,95
+1939,NYA,NYY,1,,,Y,New York Yankees,Yankee Stadium I,99,95
+1940,NYA,NYY,3,,,N,New York Yankees,Yankee Stadium I,96,92
+1941,NYA,NYY,1,,,Y,New York Yankees,Yankee Stadium I,99,95
+1942,NYA,NYY,1,,,N,New York Yankees,Yankee Stadium I,98,94
+1943,NYA,NYY,1,,,Y,New York Yankees,Yankee Stadium I,101,98
+1944,NYA,NYY,3,,,N,New York Yankees,Yankee Stadium I,104,102
+1945,NYA,NYY,4,,,N,New York Yankees,Yankee Stadium I,105,103
+1946,NYA,NYY,3,,,N,New York Yankees,Yankee Stadium I,101,98
+1947,NYA,NYY,1,,,Y,New York Yankees,Yankee Stadium I,99,95
+1948,NYA,NYY,3,,,N,New York Yankees,Yankee Stadium I,99,95
+1949,NYA,NYY,1,,,Y,New York Yankees,Yankee Stadium I,100,96
+1950,NYA,NYY,1,,,Y,New York Yankees,Yankee Stadium I,97,94
+1951,NYA,NYY,1,,,Y,New York Yankees,Yankee Stadium I,97,93
+1952,NYA,NYY,1,,,Y,New York Yankees,Yankee Stadium I,95,91
+1953,NYA,NYY,1,,,Y,New York Yankees,Yankee Stadium I,97,93
+1954,NYA,NYY,2,,,N,New York Yankees,Yankee Stadium I,97,93
+1955,NYA,NYY,1,,,N,New York Yankees,Yankee Stadium I,99,95
+1956,NYA,NYY,1,,,Y,New York Yankees,Yankee Stadium I,97,93
+1957,NYA,NYY,1,,,N,New York Yankees,Yankee Stadium I,99,95
+1958,NYA,NYY,1,,,Y,New York Yankees,Yankee Stadium I,96,94
+1959,NYA,NYY,3,,,N,New York Yankees,Yankee Stadium I,96,94
+1960,NYA,NYY,1,,,N,New York Yankees,Yankee Stadium I,94,92
+1961,NYA,NYY,1,,,Y,New York Yankees,Yankee Stadium I,95,93
+1962,NYA,NYY,1,,,Y,New York Yankees,Yankee Stadium I,97,95
+1963,NYA,NYY,1,,,N,New York Yankees,Yankee Stadium I,100,97
+1964,NYA,NYY,1,,,N,New York Yankees,Yankee Stadium I,101,100
+1965,NYA,NYY,6,,,N,New York Yankees,Yankee Stadium I,99,98
+1966,NYA,NYY,10,,,N,New York Yankees,Yankee Stadium I,95,96
+1967,NYA,NYY,9,,,N,New York Yankees,Yankee Stadium I,95,96
+1968,NYA,NYY,5,,,N,New York Yankees,Yankee Stadium I,96,96
+1969,NYA,NYY,5,N,,N,New York Yankees,Yankee Stadium I,96,96
+1970,NYA,NYY,2,N,,N,New York Yankees,Yankee Stadium I,95,95
+1971,NYA,NYY,4,N,,N,New York Yankees,Yankee Stadium I,94,94
+1972,NYA,NYY,4,N,,N,New York Yankees,Yankee Stadium I,97,96
+1973,NYA,NYY,4,N,,N,New York Yankees,Yankee Stadium I,97,96
+1974,NYA,NYY,2,N,,N,New York Yankees,Shea Stadium,99,98
+1975,NYA,NYY,3,N,,N,New York Yankees,Shea Stadium,99,98
+1976,NYA,NYY,1,Y,,N,New York Yankees,Yankee Stadium II,100,98
+1977,NYA,NYY,1,Y,,Y,New York Yankees,Yankee Stadium II,99,97
+1978,NYA,NYY,1,Y,,Y,New York Yankees,Yankee Stadium II,97,96
+1979,NYA,NYY,4,N,,N,New York Yankees,Yankee Stadium II,98,96
+1980,NYA,NYY,1,Y,,N,New York Yankees,Yankee Stadium II,98,97
+1981,NYA,NYY,4,Y,,N,New York Yankees,Yankee Stadium II,98,97
+1982,NYA,NYY,5,N,,N,New York Yankees,Yankee Stadium II,98,97
+1983,NYA,NYY,3,N,,N,New York Yankees,Yankee Stadium II,96,95
+1984,NYA,NYY,3,N,,N,New York Yankees,Yankee Stadium II,96,95
+1985,NYA,NYY,2,N,,N,New York Yankees,Yankee Stadium II,98,97
+1986,NYA,NYY,2,N,,N,New York Yankees,Yankee Stadium II,99,98
+1987,NYA,NYY,4,N,,N,New York Yankees,Yankee Stadium II,99,99
+1988,NYA,NYY,5,N,,N,New York Yankees,Yankee Stadium II,99,100
+1989,NYA,NYY,5,N,,N,New York Yankees,Yankee Stadium II,99,99
+1990,NYA,NYY,7,N,,N,New York Yankees,Yankee Stadium II,100,102
+1991,NYA,NYY,5,N,,N,New York Yankees,Yankee Stadium II,100,101
+1992,NYA,NYY,4,N,,N,New York Yankees,Yankee Stadium II,100,100
+1993,NYA,NYY,2,N,,N,New York Yankees,Yankee Stadium II,97,96
+1994,NYA,NYY,1,,,,New York Yankees,Yankee Stadium II,97,96
+1995,NYA,NYY,2,N,Y,N,New York Yankees,Yankee Stadium II,99,98
+1996,NYA,NYY,1,Y,N,Y,New York Yankees,Yankee Stadium II,101,100
+1997,NYA,NYY,2,N,Y,N,New York Yankees,Yankee Stadium II,100,98
+1998,NYA,NYY,1,Y,N,Y,New York Yankees,Yankee Stadium II,97,95
+1999,NYA,NYY,1,Y,N,Y,New York Yankees,Yankee Stadium II,98,97
+2000,NYA,NYY,1,Y,N,Y,New York Yankees,Yankee Stadium II,99,98
+2001,NYA,NYY,1,Y,N,N,New York Yankees,Yankee Stadium II,102,100
+2002,NYA,NYY,1,Y,N,N,New York Yankees,Yankee Stadium II,100,99
+2003,NYA,NYY,1,Y,N,N,New York Yankees,Yankee Stadium II,98,97
+2004,NYA,NYY,1,Y,N,N,New York Yankees,Yankee Stadium II,98,97
+2005,NYA,NYY,1,Y,N,N,New York Yankees,Yankee Stadium II,98,97
+2006,NYA,NYY,1,Y,N,N,New York Yankees,Yankee Stadium II,101,99
+2007,NYA,NYY,2,N,Y,N,New York Yankees,Yankee Stadium II,101,100
+2008,NYA,NYY,3,N,N,N,New York Yankees,Yankee Stadium II,103,102
+2009,NYA,NYY,1,Y,N,Y,New York Yankees,Yankee Stadium III,105,103
+2010,NYA,NYY,2,N,Y,N,New York Yankees,Yankee Stadium III,105,103
+2011,NYA,NYY,1,Y,N,N,New York Yankees,Yankee Stadium III,108,106
+2012,NYA,NYY,1,Y,N,N,New York Yankees,Yankee Stadium III,103,102
+2013,NYA,NYY,4,N,N,N,New York Yankees,Yankee Stadium III,102,101
+2014,NYA,NYY,2,N,N,N,New York Yankees,Yankee Stadium III,100,101
+2015,NYA,NYY,2,N,Y,N,New York Yankees,Yankee Stadium III,99,101
+2016,NYA,NYY,4,N,N,N,New York Yankees,Yankee Stadium III,105,105
+2017,NYA,NYY,2,N,Y,N,New York Yankees,Yankee Stadium III,104,103
+2018,NYA,NYY,2,N,Y,N,New York Yankees,Yankee Stadium III,104,102
+2019,NYA,NYY,1,Y,N,N,New York Yankees,Yankee Stadium III,98,96
+2020,NYA,NYY,2,N,Y,N,New York Yankees,Yankee Stadium III,98,96
+1962,NYN,NYM,10,,,N,New York Mets,Polo Grounds IV,100,105
+1963,NYN,NYM,10,,,N,New York Mets,Polo Grounds IV,100,105
+1964,NYN,NYM,10,,,N,New York Mets,Shea Stadium,97,100
+1965,NYN,NYM,10,,,N,New York Mets,Shea Stadium,96,99
+1966,NYN,NYM,9,,,N,New York Mets,Shea Stadium,97,100
+1967,NYN,NYM,10,,,N,New York Mets,Shea Stadium,98,100
+1968,NYN,NYM,9,,,N,New York Mets,Shea Stadium,100,101
+1969,NYN,NYM,1,Y,,Y,New York Mets,Shea Stadium,102,101
+1970,NYN,NYM,3,N,,N,New York Mets,Shea Stadium,100,99
+1971,NYN,NYM,3,N,,N,New York Mets,Shea Stadium,98,98
+1972,NYN,NYM,3,N,,N,New York Mets,Shea Stadium,97,97
+1973,NYN,NYM,1,Y,,N,New York Mets,Shea Stadium,98,99
+1974,NYN,NYM,5,N,,N,New York Mets,Shea Stadium,99,99
+1975,NYN,NYM,3,N,,N,New York Mets,Shea Stadium,96,95
+1976,NYN,NYM,3,N,,N,New York Mets,Shea Stadium,94,94
+1977,NYN,NYM,6,N,,N,New York Mets,Shea Stadium,95,95
+1978,NYN,NYM,6,N,,N,New York Mets,Shea Stadium,96,97
+1979,NYN,NYM,6,N,,N,New York Mets,Shea Stadium,96,97
+1980,NYN,NYM,5,N,,N,New York Mets,Shea Stadium,97,98
+1981,NYN,NYM,5,N,,N,New York Mets,Shea Stadium,98,99
+1982,NYN,NYM,6,N,,N,New York Mets,Shea Stadium,99,101
+1983,NYN,NYM,6,N,,N,New York Mets,Shea Stadium,99,100
+1984,NYN,NYM,2,N,,N,New York Mets,Shea Stadium,99,99
+1985,NYN,NYM,2,N,,N,New York Mets,Shea Stadium,99,97
+1986,NYN,NYM,1,Y,,Y,New York Mets,Shea Stadium,98,96
+1987,NYN,NYM,2,N,,N,New York Mets,Shea Stadium,95,93
+1988,NYN,NYM,1,Y,,N,New York Mets,Shea Stadium,95,94
+1989,NYN,NYM,2,N,,N,New York Mets,Shea Stadium,95,93
+1990,NYN,NYM,2,N,,N,New York Mets,Shea Stadium,100,99
+1991,NYN,NYM,5,N,,N,New York Mets,Shea Stadium,99,99
+1992,NYN,NYM,5,N,,N,New York Mets,Shea Stadium,99,99
+1993,NYN,NYM,7,N,,N,New York Mets,Shea Stadium,99,100
+1994,NYN,NYM,3,,,,New York Mets,Shea Stadium,99,99
+1995,NYN,NYM,2,N,N,N,New York Mets,Shea Stadium,96,97
+1996,NYN,NYM,4,N,N,N,New York Mets,Shea Stadium,95,95
+1997,NYN,NYM,3,N,N,N,New York Mets,Shea Stadium,97,97
+1998,NYN,NYM,2,N,N,N,New York Mets,Shea Stadium,99,99
+1999,NYN,NYM,2,N,Y,N,New York Mets,Shea Stadium,98,97
+2000,NYN,NYM,2,N,Y,N,New York Mets,Shea Stadium,96,96
+2001,NYN,NYM,3,N,N,N,New York Mets,Shea Stadium,96,96
+2002,NYN,NYM,5,N,N,N,New York Mets,Shea Stadium,97,97
+2003,NYN,NYM,5,N,N,N,New York Mets,Shea Stadium,97,98
+2004,NYN,NYM,4,N,N,N,New York Mets,Shea Stadium,99,99
+2005,NYN,NYM,3,N,N,N,New York Mets,Shea Stadium,98,97
+2006,NYN,NYM,1,Y,N,N,New York Mets,Shea Stadium,98,97
+2007,NYN,NYM,2,N,N,N,New York Mets,Shea Stadium,98,97
+2008,NYN,NYM,2,N,N,N,New York Mets,Shea Stadium,99,98
+2009,NYN,NYM,4,N,N,N,New York Mets,Citi Field,97,97
+2010,NYN,NYM,4,N,N,N,New York Mets,Citi Field,97,97
+2011,NYN,NYM,4,N,N,N,New York Mets,Citi Field,98,98
+2012,NYN,NYM,4,N,N,N,New York Mets,Citi Field,96,97
+2013,NYN,NYM,4,N,N,N,New York Mets,Citi Field,94,95
+2014,NYN,NYM,3,N,N,N,New York Mets,Citi Field,94,95
+2015,NYN,NYM,1,Y,N,N,New York Mets,Citi Field,94,92
+2016,NYN,NYM,2,N,Y,N,New York Mets,Citi Field,102,102
+2017,NYN,NYM,4,N,N,N,New York Mets,Citi Field,97,97
+2018,NYN,NYM,4,N,N,N,New York Mets,Citi Field,90,91
+2019,NYN,NYM,3,N,N,N,New York Mets,Citi Field,92,92
+2020,NYN,NYM,4,N,N,N,New York Mets,Citi Field,94,94
+1890,NYP,NYI,3,,,,New York Giants,,108,107
+1968,OAK,OAK,6,,,N,Oakland Athletics,Oakland Coliseum,94,94
+1969,OAK,OAK,2,N,,N,Oakland Athletics,Oakland Coliseum,95,95
+1970,OAK,OAK,2,N,,N,Oakland Athletics,Oakland Coliseum,97,95
+1971,OAK,OAK,1,Y,,N,Oakland Athletics,Oakland Coliseum,98,97
+1972,OAK,OAK,1,Y,,Y,Oakland Athletics,Oakland Coliseum,95,93
+1973,OAK,OAK,1,Y,,Y,Oakland Athletics,Oakland Coliseum,95,93
+1974,OAK,OAK,1,Y,,Y,Oakland Athletics,Oakland Coliseum,94,92
+1975,OAK,OAK,1,Y,,N,Oakland Athletics,Oakland Coliseum,98,96
+1976,OAK,OAK,2,N,,N,Oakland Athletics,Oakland Coliseum,95,95
+1977,OAK,OAK,7,N,,N,Oakland Athletics,Oakland Coliseum,97,98
+1978,OAK,OAK,6,N,,N,Oakland Athletics,Oakland Coliseum,94,96
+1979,OAK,OAK,7,N,,N,Oakland Athletics,Oakland Coliseum,94,96
+1980,OAK,OAK,2,N,,N,Oakland Athletics,Oakland Coliseum,93,93
+1981,OAK,OAK,1,Y,,N,Oakland Athletics,Oakland Coliseum,95,95
+1982,OAK,OAK,5,N,,N,Oakland Athletics,Oakland Coliseum,94,95
+1983,OAK,OAK,4,N,,N,Oakland Athletics,Oakland Coliseum,93,94
+1984,OAK,OAK,4,N,,N,Oakland Athletics,Oakland Coliseum,93,93
+1985,OAK,OAK,4,N,,N,Oakland Athletics,Oakland Coliseum,92,92
+1986,OAK,OAK,3,N,,N,Oakland Athletics,Oakland Coliseum,92,92
+1987,OAK,OAK,3,N,,N,Oakland Athletics,Oakland Coliseum,93,93
+1988,OAK,OAK,1,Y,,N,Oakland Athletics,Oakland Coliseum,97,96
+1989,OAK,OAK,1,Y,,Y,Oakland Athletics,Oakland Coliseum,97,95
+1990,OAK,OAK,1,Y,,N,Oakland Athletics,Oakland Coliseum,96,95
+1991,OAK,OAK,4,N,,N,Oakland Athletics,Oakland Coliseum,94,93
+1992,OAK,OAK,1,Y,,N,Oakland Athletics,Oakland Coliseum,94,95
+1993,OAK,OAK,7,N,,N,Oakland Athletics,Oakland Coliseum,94,94
+1994,OAK,OAK,2,,,,Oakland Athletics,Oakland Coliseum,91,92
+1995,OAK,OAK,4,N,N,N,Oakland Athletics,Oakland Coliseum,91,91
+1996,OAK,OAK,3,N,N,N,Oakland Athletics,Oakland Coliseum,101,102
+1997,OAK,OAK,4,N,N,N,Oakland Athletics,Oakland Coliseum,96,97
+1998,OAK,OAK,4,N,N,N,Oakland Athletics,Oakland Coliseum,96,97
+1999,OAK,OAK,2,N,N,N,Oakland Athletics,Oakland Coliseum,94,94
+2000,OAK,OAK,1,Y,N,N,Oakland Athletics,Oakland Coliseum,96,95
+2001,OAK,OAK,2,N,Y,N,Oakland Athletics,Oakland Coliseum,99,97
+2002,OAK,OAK,1,Y,N,N,Oakland Athletics,Oakland Coliseum,98,97
+2003,OAK,OAK,1,Y,N,N,Oakland Athletics,Oakland Coliseum,99,98
+2004,OAK,OAK,2,N,N,N,Oakland Athletics,Network Associates Coliseum,99,98
+2005,OAK,OAK,2,N,N,N,Oakland Athletics,McAfee Coliseum,101,100
+2006,OAK,OAK,1,Y,N,N,Oakland Athletics,McAfee Coliseum,97,97
+2007,OAK,OAK,3,N,N,N,Oakland Athletics,McAfee Coliseum,94,94
+2008,OAK,OAK,3,N,N,N,Oakland Athletics,McAfee Coliseum,95,95
+2009,OAK,OAK,4,N,N,N,Oakland Athletics,Oakland-Alameda County Coliseum,99,99
+2010,OAK,OAK,2,N,N,N,Oakland Athletics,Oakland-Alameda County Coliseum,100,100
+2011,OAK,OAK,3,N,N,N,Oakland Athletics,Oakland-Alameda County Coliseum,97,98
+2012,OAK,OAK,1,Y,N,N,Oakland Athletics,O.co Coliseum,97,97
+2013,OAK,OAK,1,Y,N,N,Oakland Athletics,O.co Coliseum,95,93
+2014,OAK,OAK,2,N,Y,N,Oakland Athletics,O.co Coliseum,99,97
+2015,OAK,OAK,5,N,N,N,Oakland Athletics,O.co Coliseum,97,98
+2016,OAK,OAK,5,N,N,N,Oakland Athletics,O.co Coliseum,90,91
+2017,OAK,OAK,5,N,N,N,Oakland Athletics,O.co Coliseum,96,97
+2018,OAK,OAK,2,N,Y,N,Oakland Athletics,O.co Coliseum,98,97
+2019,OAK,OAK,2,N,Y,N,Oakland Athletics,O.co Coliseum,95,93
+2020,OAK,OAK,1,Y,N,N,Oakland Athletics,O.co Coliseum,94,93
+1871,PH1,PNA,1,,,,Philadelphia Athletics,Jefferson Street Grounds,102,98
+1872,PH1,PNA,4,,,,Philadelphia Athletics,Jefferson Street Grounds,102,100
+1873,PH1,PNA,5,,,,Philadelphia Athletics,Jefferson Street Grounds,108,105
+1874,PH1,PNA,3,,,,Philadelphia Athletics,Jefferson Street Grounds,108,105
+1875,PH1,PNA,2,,,,Philadelphia Athletics,Jefferson Street Grounds,107,106
+1873,PH2,PWS,2,,,,Philadelphia Whites,Jefferson Street Grounds,103,101
+1874,PH2,PWS,4,,,,Philadelphia Whites,Jefferson Street Grounds,103,101
+1875,PH2,PWS,5,,,,Philadelphia Whites,Jefferson Street Grounds,104,102
+1875,PH3,CEN,11,,,,Philadelphia Centennials,Centennial Grounds,92,98
+1882,PH4,PHA,3,,,,Philadelphia Athletics,Oakdale Park,110,110
+1883,PH4,PHA,1,,,,Philadelphia Athletics,Jefferson Street Grounds,108,105
+1884,PH4,PHA,7,,,N,Philadelphia Athletics,Jefferson Street Grounds,107,104
+1885,PH4,PHA,4,,,N,Philadelphia Athletics,Jefferson Street Grounds,106,106
+1886,PH4,PHA,6,,,N,Philadelphia Athletics,Jefferson Street Grounds,101,102
+1887,PH4,PHA,5,,,N,Philadelphia Athletics,Jefferson Street Grounds,100,100
+1888,PH4,PHA,3,,,N,Philadelphia Athletics,Jefferson Street Grounds,100,98
+1889,PH4,PHA,3,,,N,Philadelphia Athletics,Jefferson Street Grounds,98,99
+1890,PH4,PHA,8,,,N,Philadelphia Athletics,Jefferson Street Grounds,98,99
+1891,PH4,PHQ,5,,,,Philadelphia Athletics,Athletic Park,103,103
+1901,PHA,OAK,4,,,,Philadelphia Athletics,Columbia Park,104,103
+1902,PHA,OAK,1,,,,Philadelphia Athletics,Columbia Park,104,103
+1903,PHA,OAK,2,,,N,Philadelphia Athletics,Columbia Park,105,103
+1904,PHA,OAK,5,,,,Philadelphia Athletics,Columbia Park,105,103
+1905,PHA,OAK,1,,,N,Philadelphia Athletics,Columbia Park,102,100
+1906,PHA,OAK,4,,,N,Philadelphia Athletics,Columbia Park,103,101
+1907,PHA,OAK,2,,,N,Philadelphia Athletics,Columbia Park,102,102
+1908,PHA,OAK,6,,,N,Philadelphia Athletics,Columbia Park,107,107
+1909,PHA,OAK,2,,,N,Philadelphia Athletics,Shibe Park,102,97
+1910,PHA,OAK,1,,,Y,Philadelphia Athletics,Shibe Park,99,94
+1911,PHA,OAK,1,,,Y,Philadelphia Athletics,Shibe Park,98,95
+1912,PHA,OAK,3,,,N,Philadelphia Athletics,Shibe Park,97,93
+1913,PHA,OAK,1,,,Y,Philadelphia Athletics,Shibe Park,98,94
+1914,PHA,OAK,1,,,N,Philadelphia Athletics,Shibe Park,96,95
+1915,PHA,OAK,8,,,N,Philadelphia Athletics,Shibe Park,96,99
+1916,PHA,OAK,8,,,N,Philadelphia Athletics,Shibe Park,95,101
+1917,PHA,OAK,8,,,N,Philadelphia Athletics,Shibe Park,98,103
+1918,PHA,OAK,8,,,N,Philadelphia Athletics,Shibe Park,101,105
+1919,PHA,OAK,8,,,N,Philadelphia Athletics,Shibe Park,101,106
+1920,PHA,OAK,8,,,N,Philadelphia Athletics,Shibe Park,101,106
+1921,PHA,OAK,8,,,N,Philadelphia Athletics,Shibe Park,100,104
+1922,PHA,OAK,7,,,N,Philadelphia Athletics,Shibe Park,102,105
+1923,PHA,OAK,6,,,N,Philadelphia Athletics,Shibe Park,101,103
+1924,PHA,OAK,5,,,N,Philadelphia Athletics,Shibe Park,101,101
+1925,PHA,OAK,2,,,N,Philadelphia Athletics,Shibe Park,107,106
+1926,PHA,OAK,3,,,N,Philadelphia Athletics,Shibe Park,106,104
+1927,PHA,OAK,2,,,N,Philadelphia Athletics,Shibe Park,105,102
+1928,PHA,OAK,2,,,N,Philadelphia Athletics,Shibe Park,103,99
+1929,PHA,OAK,1,,,Y,Philadelphia Athletics,Shibe Park,104,100
+1930,PHA,OAK,1,,,Y,Philadelphia Athletics,Shibe Park,105,101
+1931,PHA,OAK,1,,,N,Philadelphia Athletics,Shibe Park,106,103
+1932,PHA,OAK,2,,,N,Philadelphia Athletics,Shibe Park,104,101
+1933,PHA,OAK,3,,,N,Philadelphia Athletics,Shibe Park,101,100
+1934,PHA,OAK,5,,,N,Philadelphia Athletics,Shibe Park,96,98
+1935,PHA,OAK,8,,,N,Philadelphia Athletics,Shibe Park,99,102
+1936,PHA,OAK,8,,,N,Philadelphia Athletics,Shibe Park,97,101
+1937,PHA,OAK,7,,,N,Philadelphia Athletics,Shibe Park,98,101
+1938,PHA,OAK,8,,,N,Philadelphia Athletics,Shibe Park,96,100
+1939,PHA,OAK,7,,,N,Philadelphia Athletics,Shibe Park,97,101
+1940,PHA,OAK,8,,,N,Philadelphia Athletics,Shibe Park,97,101
+1941,PHA,OAK,8,,,N,Philadelphia Athletics,Shibe Park,98,101
+1942,PHA,OAK,8,,,N,Philadelphia Athletics,Shibe Park,100,104
+1943,PHA,OAK,8,,,N,Philadelphia Athletics,Shibe Park,99,103
+1944,PHA,OAK,5,,,N,Philadelphia Athletics,Shibe Park,97,101
+1945,PHA,OAK,8,,,N,Philadelphia Athletics,Shibe Park,98,101
+1946,PHA,OAK,8,,,N,Philadelphia Athletics,Shibe Park,98,100
+1947,PHA,OAK,5,,,N,Philadelphia Athletics,Shibe Park,102,103
+1948,PHA,OAK,4,,,N,Philadelphia Athletics,Shibe Park,101,101
+1949,PHA,OAK,5,,,N,Philadelphia Athletics,Shibe Park,97,98
+1950,PHA,OAK,8,,,N,Philadelphia Athletics,Shibe Park,98,99
+1951,PHA,OAK,6,,,N,Philadelphia Athletics,Shibe Park,101,103
+1952,PHA,OAK,4,,,N,Philadelphia Athletics,Shibe Park,106,108
+1953,PHA,OAK,7,,,N,Philadelphia Athletics,Connie Mack Stadium,104,107
+1954,PHA,OAK,8,,,N,Philadelphia Athletics,Connie Mack Stadium,100,105
+1883,PHI,PHI,8,,,,Philadelphia Quakers,Recreation Park,91,98
+1884,PHI,PHI,6,,,N,Philadelphia Quakers,Recreation Park,94,99
+1885,PHI,PHI,3,,,N,Philadelphia Quakers,Recreation Park,97,98
+1886,PHI,PHI,4,,,N,Philadelphia Quakers,Recreation Park,100,99
+1887,PHI,PHI,2,,,N,Philadelphia Quakers,Philadelphia Baseball Grounds,106,104
+1888,PHI,PHI,3,,,N,Philadelphia Quakers,Philadelphia Baseball Grounds,105,104
+1889,PHI,PHI,4,,,N,Philadelphia Quakers,Philadelphia Baseball Grounds,109,108
+1890,PHI,PHI,3,,,N,Philadelphia Phillies,Philadelphia Baseball Grounds,103,102
+1891,PHI,PHI,4,,,,Philadelphia Phillies,Philadelphia Baseball Grounds,103,102
+1892,PHI,PHI,4,,,,Philadelphia Phillies,Philadelphia Baseball Grounds,100,99
+1893,PHI,PHI,4,,,,Philadelphia Phillies,Philadelphia Baseball Grounds,102,101
+1894,PHI,PHI,4,,,,Philadelphia Phillies,Philadelphia Baseball Grounds,96,94
+1895,PHI,PHI,3,,,,Philadelphia Phillies,Baker Bowl,100,100
+1896,PHI,PHI,8,,,,Philadelphia Phillies,Baker Bowl,99,99
+1897,PHI,PHI,10,,,,Philadelphia Phillies,Baker Bowl,97,97
+1898,PHI,PHI,6,,,,Philadelphia Phillies,Baker Bowl,96,95
+1899,PHI,PHI,3,,,,Philadelphia Phillies,Baker Bowl,97,96
+1900,PHI,PHI,3,,,,Philadelphia Phillies,Baker Bowl,99,98
+1901,PHI,PHI,2,,,,Philadelphia Phillies,Baker Bowl,102,102
+1902,PHI,PHI,7,,,,Philadelphia Phillies,Baker Bowl,104,105
+1903,PHI,PHI,7,,,N,Philadelphia Phillies,Baker Bowl,92,95
+1904,PHI,PHI,8,,,,Philadelphia Phillies,Baker Bowl,99,100
+1905,PHI,PHI,4,,,N,Philadelphia Phillies,Baker Bowl,96,97
+1906,PHI,PHI,4,,,N,Philadelphia Phillies,Baker Bowl,100,99
+1907,PHI,PHI,3,,,N,Philadelphia Phillies,Baker Bowl,99,98
+1908,PHI,PHI,4,,,N,Philadelphia Phillies,Baker Bowl,103,102
+1909,PHI,PHI,5,,,N,Philadelphia Phillies,Baker Bowl,101,100
+1910,PHI,PHI,4,,,N,Philadelphia Phillies,Baker Bowl,103,103
+1911,PHI,PHI,4,,,N,Philadelphia Phillies,Baker Bowl,101,101
+1912,PHI,PHI,5,,,N,Philadelphia Phillies,Baker Bowl,106,106
+1913,PHI,PHI,2,,,N,Philadelphia Phillies,Baker Bowl,104,104
+1914,PHI,PHI,6,,,N,Philadelphia Phillies,Baker Bowl,106,105
+1915,PHI,PHI,1,,,N,Philadelphia Phillies,Baker Bowl,101,100
+1916,PHI,PHI,2,,,N,Philadelphia Phillies,Baker Bowl,104,101
+1917,PHI,PHI,2,,,N,Philadelphia Phillies,Baker Bowl,104,104
+1918,PHI,PHI,6,,,N,Philadelphia Phillies,Baker Bowl,107,108
+1919,PHI,PHI,8,,,N,Philadelphia Phillies,Baker Bowl,107,111
+1920,PHI,PHI,8,,,N,Philadelphia Phillies,Baker Bowl,104,109
+1921,PHI,PHI,8,,,N,Philadelphia Phillies,Baker Bowl,107,111
+1922,PHI,PHI,7,,,N,Philadelphia Phillies,Baker Bowl,108,113
+1923,PHI,PHI,8,,,N,Philadelphia Phillies,Baker Bowl,111,115
+1924,PHI,PHI,7,,,N,Philadelphia Phillies,Baker Bowl,112,115
+1925,PHI,PHI,6,,,N,Philadelphia Phillies,Baker Bowl,108,112
+1926,PHI,PHI,8,,,N,Philadelphia Phillies,Baker Bowl,108,112
+1927,PHI,PHI,8,,,N,Philadelphia Phillies,Baker Bowl,95,99
+1928,PHI,PHI,8,,,N,Philadelphia Phillies,Baker Bowl,106,110
+1929,PHI,PHI,5,,,N,Philadelphia Phillies,Baker Bowl,106,110
+1930,PHI,PHI,8,,,N,Philadelphia Phillies,Baker Bowl,107,110
+1931,PHI,PHI,6,,,N,Philadelphia Phillies,Baker Bowl,108,110
+1932,PHI,PHI,4,,,N,Philadelphia Phillies,Baker Bowl,112,114
+1933,PHI,PHI,7,,,N,Philadelphia Phillies,Baker Bowl,112,114
+1934,PHI,PHI,7,,,N,Philadelphia Phillies,Baker Bowl,113,116
+1935,PHI,PHI,7,,,N,Philadelphia Phillies,Baker Bowl,110,113
+1936,PHI,PHI,8,,,N,Philadelphia Phillies,Baker Bowl,111,114
+1937,PHI,PHI,7,,,N,Philadelphia Phillies,Baker Bowl,109,112
+1938,PHI,PHI,8,,,N,Philadelphia Phillies,Baker Bowl/Shibe Park,99,105
+1939,PHI,PHI,8,,,N,Philadelphia Phillies,Shibe Park,94,100
+1940,PHI,PHI,8,,,N,Philadelphia Phillies,Shibe Park,95,101
+1941,PHI,PHI,8,,,N,Philadelphia Phillies,Shibe Park,95,101
+1942,PHI,PHI,8,,,N,Philadelphia Phillies,Shibe Park,94,99
+1943,PHI,PHI,7,,,N,Philadelphia Blue Jays,Shibe Park,95,99
+1944,PHI,PHI,8,,,N,Philadelphia Blue Jays,Shibe Park,96,99
+1945,PHI,PHI,8,,,N,Philadelphia Phillies,Shibe Park,96,100
+1946,PHI,PHI,5,,,N,Philadelphia Phillies,Shibe Park,97,100
+1947,PHI,PHI,7,,,N,Philadelphia Phillies,Shibe Park,96,98
+1948,PHI,PHI,6,,,N,Philadelphia Phillies,Shibe Park,98,99
+1949,PHI,PHI,3,,,N,Philadelphia Phillies,Shibe Park,97,97
+1950,PHI,PHI,1,,,N,Philadelphia Phillies,Shibe Park,98,97
+1951,PHI,PHI,5,,,N,Philadelphia Phillies,Shibe Park,99,97
+1952,PHI,PHI,4,,,N,Philadelphia Phillies,Shibe Park,99,98
+1953,PHI,PHI,3,,,N,Philadelphia Phillies,Connie Mack Stadium,99,98
+1954,PHI,PHI,4,,,N,Philadelphia Phillies,Connie Mack Stadium,100,99
+1955,PHI,PHI,4,,,N,Philadelphia Phillies,Connie Mack Stadium,98,98
+1956,PHI,PHI,5,,,N,Philadelphia Phillies,Connie Mack Stadium,98,99
+1957,PHI,PHI,5,,,N,Philadelphia Phillies,Connie Mack Stadium,97,98
+1958,PHI,PHI,8,,,N,Philadelphia Phillies,Connie Mack Stadium,99,100
+1959,PHI,PHI,8,,,N,Philadelphia Phillies,Connie Mack Stadium,101,104
+1960,PHI,PHI,8,,,N,Philadelphia Phillies,Connie Mack Stadium,100,103
+1961,PHI,PHI,8,,,N,Philadelphia Phillies,Connie Mack Stadium,98,101
+1962,PHI,PHI,7,,,N,Philadelphia Phillies,Connie Mack Stadium,97,98
+1963,PHI,PHI,4,,,N,Philadelphia Phillies,Connie Mack Stadium,99,99
+1964,PHI,PHI,2,,,N,Philadelphia Phillies,Connie Mack Stadium,99,98
+1965,PHI,PHI,6,,,N,Philadelphia Phillies,Connie Mack Stadium,98,98
+1966,PHI,PHI,4,,,N,Philadelphia Phillies,Connie Mack Stadium,100,99
+1967,PHI,PHI,5,,,N,Philadelphia Phillies,Connie Mack Stadium,101,101
+1968,PHI,PHI,7,,,N,Philadelphia Phillies,Connie Mack Stadium,100,101
+1969,PHI,PHI,5,N,,N,Philadelphia Phillies,Connie Mack Stadium,98,99
+1970,PHI,PHI,5,N,,N,Philadelphia Phillies,Connie Mack Stadium,98,99
+1971,PHI,PHI,6,N,,N,Philadelphia Phillies,Veterans Stadium,100,102
+1972,PHI,PHI,6,N,,N,Philadelphia Phillies,Veterans Stadium,102,104
+1973,PHI,PHI,6,N,,N,Philadelphia Phillies,Veterans Stadium,102,103
+1974,PHI,PHI,3,N,,N,Philadelphia Phillies,Veterans Stadium,104,104
+1975,PHI,PHI,2,N,,N,Philadelphia Phillies,Veterans Stadium,104,103
+1976,PHI,PHI,1,Y,,N,Philadelphia Phillies,Veterans Stadium,104,102
+1977,PHI,PHI,1,Y,,N,Philadelphia Phillies,Veterans Stadium,105,103
+1978,PHI,PHI,1,Y,,N,Philadelphia Phillies,Veterans Stadium,101,100
+1979,PHI,PHI,4,N,,N,Philadelphia Phillies,Veterans Stadium,103,102
+1980,PHI,PHI,1,Y,,Y,Philadelphia Phillies,Veterans Stadium,105,105
+1981,PHI,PHI,3,Y,,N,Philadelphia Phillies,Veterans Stadium,104,104
+1982,PHI,PHI,2,N,,N,Philadelphia Phillies,Veterans Stadium,103,102
+1983,PHI,PHI,1,Y,,N,Philadelphia Phillies,Veterans Stadium,99,99
+1984,PHI,PHI,4,N,,N,Philadelphia Phillies,Veterans Stadium,102,101
+1985,PHI,PHI,5,N,,N,Philadelphia Phillies,Veterans Stadium,103,103
+1986,PHI,PHI,2,N,,N,Philadelphia Phillies,Veterans Stadium,104,104
+1987,PHI,PHI,4,N,,N,Philadelphia Phillies,Veterans Stadium,103,104
+1988,PHI,PHI,6,N,,N,Philadelphia Phillies,Veterans Stadium,101,103
+1989,PHI,PHI,6,N,,N,Philadelphia Phillies,Veterans Stadium,99,101
+1990,PHI,PHI,4,N,,N,Philadelphia Phillies,Veterans Stadium,99,100
+1991,PHI,PHI,3,N,,N,Philadelphia Phillies,Veterans Stadium,99,99
+1992,PHI,PHI,6,N,,N,Philadelphia Phillies,Veterans Stadium,100,100
+1993,PHI,PHI,1,Y,,N,Philadelphia Phillies,Veterans Stadium,99,98
+1994,PHI,PHI,4,,,,Philadelphia Phillies,Veterans Stadium,102,102
+1995,PHI,PHI,2,N,N,N,Philadelphia Phillies,Veterans Stadium,100,101
+1996,PHI,PHI,5,N,N,N,Philadelphia Phillies,Veterans Stadium,100,101
+1997,PHI,PHI,5,N,N,N,Philadelphia Phillies,Veterans Stadium,100,101
+1998,PHI,PHI,3,N,N,N,Philadelphia Phillies,Veterans Stadium,102,103
+1999,PHI,PHI,3,N,N,N,Philadelphia Phillies,Veterans Stadium,105,105
+2000,PHI,PHI,5,N,N,N,Philadelphia Phillies,Veterans Stadium,100,101
+2001,PHI,PHI,2,N,N,N,Philadelphia Phillies,Veterans Stadium,98,98
+2002,PHI,PHI,3,N,N,N,Philadelphia Phillies,Veterans Stadium,94,94
+2003,PHI,PHI,3,N,N,N,Philadelphia Phillies,Veterans Stadium,93,93
+2004,PHI,PHI,2,N,N,N,Philadelphia Phillies,Citizens Bank Park,105,104
+2005,PHI,PHI,2,N,N,N,Philadelphia Phillies,Citizens Bank Park,105,104
+2006,PHI,PHI,2,N,N,N,Philadelphia Phillies,Citizens Bank Park,105,104
+2007,PHI,PHI,1,Y,N,N,Philadelphia Phillies,Citizens Bank Park,104,103
+2008,PHI,PHI,1,Y,N,Y,Philadelphia Phillies,Citizens Bank Park,103,102
+2009,PHI,PHI,1,Y,N,N,Philadelphia Phillies,Citizens Bank Park,101,100
+2010,PHI,PHI,1,Y,N,N,Philadelphia Phillies,Citizens Bank Park,101,100
+2011,PHI,PHI,1,Y,N,N,Philadelphia Phillies,Citizens Bank Park,105,103
+2012,PHI,PHI,3,N,N,N,Philadelphia Phillies,Citizens Bank Park,102,101
+2013,PHI,PHI,4,N,N,N,Philadelphia Phillies,Citizens Bank Park,101,102
+2014,PHI,PHI,5,N,N,N,Philadelphia Phillies,Citizens Bank Park,100,101
+2015,PHI,PHI,5,N,N,N,Philadelphia Phillies,Citizens Bank Park,98,98
+2016,PHI,PHI,4,N,N,N,Philadelphia Phillies,Citizens Bank Park,91,93
+2017,PHI,PHI,5,N,N,N,Philadelphia Phillies,Citizens Bank Park,96,97
+2018,PHI,PHI,3,N,N,N,Philadelphia Phillies,Citizens Bank Park,102,103
+2019,PHI,PHI,4,N,N,N,Philadelphia Phillies,Citizens Bank Park,102,102
+2020,PHI,PHI,3,N,N,N,Philadelphia Phillies,Citizens Bank Park,101,101
+1876,PHN,ATH,7,,,,Philadelphia Athletics,Jefferson Street Grounds,104,104
+1890,PHP,PHQ,5,,,,Philadelphia Athletics,,103,101
+1884,PHU,PHK,8,,,,Philadelphia Keystones,,91,94
+1887,PIT,PIT,6,,,N,Pittsburg Alleghenys,Recreation Park,93,93
+1888,PIT,PIT,6,,,N,Pittsburg Alleghenys,Recreation Park,92,93
+1889,PIT,PIT,5,,,N,Pittsburg Alleghenys,Recreation Park,91,93
+1890,PIT,PIT,8,,,N,Pittsburg Alleghenys,Recreation Park,88,92
+1891,PIT,PIT,8,,,,Pittsburgh Pirates,Exposition Park,97,98
+1892,PIT,PIT,6,,,,Pittsburgh Pirates,Exposition Park,100,100
+1893,PIT,PIT,2,,,,Pittsburgh Pirates,Exposition Park,98,98
+1894,PIT,PIT,7,,,,Pittsburgh Pirates,Exposition Park,99,98
+1895,PIT,PIT,7,,,,Pittsburgh Pirates,Exposition Park,95,95
+1896,PIT,PIT,6,,,,Pittsburgh Pirates,Exposition Park,96,96
+1897,PIT,PIT,8,,,,Pittsburgh Pirates,Exposition Park,96,97
+1898,PIT,PIT,8,,,,Pittsburgh Pirates,Exposition Park,98,99
+1899,PIT,PIT,7,,,,Pittsburgh Pirates,Exposition Park,100,99
+1900,PIT,PIT,2,,,,Pittsburgh Pirates,Exposition Park,101,98
+1901,PIT,PIT,1,,,,Pittsburgh Pirates,Exposition Park,103,98
+1902,PIT,PIT,1,,,,Pittsburgh Pirates,Exposition Park,104,99
+1903,PIT,PIT,1,,,N,Pittsburgh Pirates,Exposition Park,103,99
+1904,PIT,PIT,4,,,,Pittsburgh Pirates,Exposition Park,103,100
+1905,PIT,PIT,2,,,N,Pittsburgh Pirates,Exposition Park,103,100
+1906,PIT,PIT,3,,,N,Pittsburgh Pirates,Exposition Park,104,102
+1907,PIT,PIT,2,,,N,Pittsburgh Pirates,Exposition Park,102,99
+1908,PIT,PIT,2,,,N,Pittsburgh Pirates,Exposition Park,100,98
+1909,PIT,PIT,1,,,Y,Pittsburgh Pirates,Exposition Park/Forbes Field,105,99
+1910,PIT,PIT,3,,,N,Pittsburgh Pirates,Forbes Field,107,104
+1911,PIT,PIT,3,,,N,Pittsburgh Pirates,Forbes Field,104,101
+1912,PIT,PIT,2,,,N,Pittsburgh Pirates,Forbes Field,99,96
+1913,PIT,PIT,4,,,N,Pittsburgh Pirates,Forbes Field,96,94
+1914,PIT,PIT,7,,,N,Pittsburgh Pirates,Forbes Field,96,95
+1915,PIT,PIT,5,,,N,Pittsburgh Pirates,Forbes Field,99,99
+1916,PIT,PIT,6,,,N,Pittsburgh Pirates,Forbes Field,101,102
+1917,PIT,PIT,8,,,N,Pittsburgh Pirates,Forbes Field,103,105
+1918,PIT,PIT,4,,,N,Pittsburgh Pirates,Forbes Field,103,104
+1919,PIT,PIT,4,,,N,Pittsburgh Pirates,Forbes Field,104,103
+1920,PIT,PIT,4,,,N,Pittsburgh Pirates,Forbes Field,103,103
+1921,PIT,PIT,2,,,N,Pittsburgh Pirates,Forbes Field,102,101
+1922,PIT,PIT,3,,,N,Pittsburgh Pirates,Forbes Field,102,100
+1923,PIT,PIT,3,,,N,Pittsburgh Pirates,Forbes Field,102,100
+1924,PIT,PIT,3,,,N,Pittsburgh Pirates,Forbes Field,102,99
+1925,PIT,PIT,1,,,Y,Pittsburgh Pirates,Forbes Field,106,104
+1926,PIT,PIT,3,,,N,Pittsburgh Pirates,Forbes Field,105,102
+1927,PIT,PIT,1,,,N,Pittsburgh Pirates,Forbes Field,107,105
+1928,PIT,PIT,4,,,N,Pittsburgh Pirates,Forbes Field,104,102
+1929,PIT,PIT,2,,,N,Pittsburgh Pirates,Forbes Field,103,102
+1930,PIT,PIT,5,,,N,Pittsburgh Pirates,Forbes Field,100,100
+1931,PIT,PIT,5,,,N,Pittsburgh Pirates,Forbes Field,98,99
+1932,PIT,PIT,2,,,N,Pittsburgh Pirates,Forbes Field,97,97
+1933,PIT,PIT,2,,,N,Pittsburgh Pirates,Forbes Field,100,99
+1934,PIT,PIT,5,,,N,Pittsburgh Pirates,Forbes Field,103,102
+1935,PIT,PIT,4,,,N,Pittsburgh Pirates,Forbes Field,103,102
+1936,PIT,PIT,4,,,N,Pittsburgh Pirates,Forbes Field,102,101
+1937,PIT,PIT,3,,,N,Pittsburgh Pirates,Forbes Field,100,98
+1938,PIT,PIT,2,,,N,Pittsburgh Pirates,Forbes Field,100,100
+1939,PIT,PIT,6,,,N,Pittsburgh Pirates,Forbes Field,98,98
+1940,PIT,PIT,4,,,N,Pittsburgh Pirates,Forbes Field,99,99
+1941,PIT,PIT,4,,,N,Pittsburgh Pirates,Forbes Field,100,100
+1942,PIT,PIT,5,,,N,Pittsburgh Pirates,Forbes Field,103,102
+1943,PIT,PIT,4,,,N,Pittsburgh Pirates,Forbes Field,104,103
+1944,PIT,PIT,2,,,N,Pittsburgh Pirates,Forbes Field,105,103
+1945,PIT,PIT,4,,,N,Pittsburgh Pirates,Forbes Field,104,104
+1946,PIT,PIT,7,,,N,Pittsburgh Pirates,Forbes Field,103,104
+1947,PIT,PIT,7,,,N,Pittsburgh Pirates,Forbes Field,103,104
+1948,PIT,PIT,4,,,N,Pittsburgh Pirates,Forbes Field,102,103
+1949,PIT,PIT,6,,,N,Pittsburgh Pirates,Forbes Field,102,104
+1950,PIT,PIT,8,,,N,Pittsburgh Pirates,Forbes Field,103,106
+1951,PIT,PIT,7,,,N,Pittsburgh Pirates,Forbes Field,102,106
+1952,PIT,PIT,8,,,N,Pittsburgh Pirates,Forbes Field,102,107
+1953,PIT,PIT,8,,,N,Pittsburgh Pirates,Forbes Field,99,104
+1954,PIT,PIT,8,,,N,Pittsburgh Pirates,Forbes Field,98,102
+1955,PIT,PIT,8,,,N,Pittsburgh Pirates,Forbes Field,98,101
+1956,PIT,PIT,7,,,N,Pittsburgh Pirates,Forbes Field,97,100
+1957,PIT,PIT,7,,,N,Pittsburgh Pirates,Forbes Field,97,98
+1958,PIT,PIT,2,,,N,Pittsburgh Pirates,Forbes Field,97,98
+1959,PIT,PIT,4,,,N,Pittsburgh Pirates,Forbes Field,99,98
+1960,PIT,PIT,1,,,Y,Pittsburgh Pirates,Forbes Field,101,100
+1961,PIT,PIT,6,,,N,Pittsburgh Pirates,Forbes Field,101,99
+1962,PIT,PIT,4,,,N,Pittsburgh Pirates,Forbes Field,101,100
+1963,PIT,PIT,8,,,N,Pittsburgh Pirates,Forbes Field,101,100
+1964,PIT,PIT,6,,,N,Pittsburgh Pirates,Forbes Field,100,99
+1965,PIT,PIT,3,,,N,Pittsburgh Pirates,Forbes Field,101,99
+1966,PIT,PIT,3,,,N,Pittsburgh Pirates,Forbes Field,100,99
+1967,PIT,PIT,6,,,N,Pittsburgh Pirates,Forbes Field,100,99
+1968,PIT,PIT,6,,,N,Pittsburgh Pirates,Forbes Field,98,97
+1969,PIT,PIT,3,N,,N,Pittsburgh Pirates,Forbes Field,98,97
+1970,PIT,PIT,1,Y,,N,Pittsburgh Pirates,Forbes Field/Three Rivers Stadium,97,96
+1971,PIT,PIT,1,Y,,Y,Pittsburgh Pirates,Three Rivers Stadium,102,100
+1972,PIT,PIT,1,Y,,N,Pittsburgh Pirates,Three Rivers Stadium,99,97
+1973,PIT,PIT,3,N,,N,Pittsburgh Pirates,Three Rivers Stadium,98,96
+1974,PIT,PIT,1,Y,,N,Pittsburgh Pirates,Three Rivers Stadium,97,95
+1975,PIT,PIT,1,Y,,N,Pittsburgh Pirates,Three Rivers Stadium,99,97
+1976,PIT,PIT,2,N,,N,Pittsburgh Pirates,Three Rivers Stadium,100,99
+1977,PIT,PIT,2,N,,N,Pittsburgh Pirates,Three Rivers Stadium,102,101
+1978,PIT,PIT,2,N,,N,Pittsburgh Pirates,Three Rivers Stadium,105,104
+1979,PIT,PIT,1,Y,,Y,Pittsburgh Pirates,Three Rivers Stadium,105,105
+1980,PIT,PIT,3,N,,N,Pittsburgh Pirates,Three Rivers Stadium,103,102
+1981,PIT,PIT,4,N,,N,Pittsburgh Pirates,Three Rivers Stadium,104,104
+1982,PIT,PIT,4,N,,N,Pittsburgh Pirates,Three Rivers Stadium,104,104
+1983,PIT,PIT,2,N,,N,Pittsburgh Pirates,Three Rivers Stadium,103,102
+1984,PIT,PIT,6,N,,N,Pittsburgh Pirates,Three Rivers Stadium,101,101
+1985,PIT,PIT,6,N,,N,Pittsburgh Pirates,Three Rivers Stadium,99,100
+1986,PIT,PIT,6,N,,N,Pittsburgh Pirates,Three Rivers Stadium,102,103
+1987,PIT,PIT,4,N,,N,Pittsburgh Pirates,Three Rivers Stadium,100,100
+1988,PIT,PIT,2,N,,N,Pittsburgh Pirates,Three Rivers Stadium,98,98
+1989,PIT,PIT,5,N,,N,Pittsburgh Pirates,Three Rivers Stadium,96,96
+1990,PIT,PIT,1,Y,,N,Pittsburgh Pirates,Three Rivers Stadium,96,95
+1991,PIT,PIT,1,Y,,N,Pittsburgh Pirates,Three Rivers Stadium,99,98
+1992,PIT,PIT,1,Y,,N,Pittsburgh Pirates,Three Rivers Stadium,99,98
+1993,PIT,PIT,5,N,,N,Pittsburgh Pirates,Three Rivers Stadium,99,100
+1994,PIT,PIT,3,,,,Pittsburgh Pirates,Three Rivers Stadium,101,102
+1995,PIT,PIT,5,N,N,N,Pittsburgh Pirates,Three Rivers Stadium,102,103
+1996,PIT,PIT,5,N,N,N,Pittsburgh Pirates,Three Rivers Stadium,104,104
+1997,PIT,PIT,2,N,N,N,Pittsburgh Pirates,Three Rivers Stadium,103,103
+1998,PIT,PIT,6,N,N,N,Pittsburgh Pirates,Three Rivers Stadium,102,103
+1999,PIT,PIT,3,N,N,N,Pittsburgh Pirates,Three Rivers Stadium,101,101
+2000,PIT,PIT,5,N,N,N,Pittsburgh Pirates,Three Rivers Stadium,99,100
+2001,PIT,PIT,6,N,N,N,Pittsburgh Pirates,PNC Park,103,105
+2002,PIT,PIT,4,N,N,N,Pittsburgh Pirates,PNC Park,102,103
+2003,PIT,PIT,4,N,N,N,Pittsburgh Pirates,PNC Park,102,102
+2004,PIT,PIT,5,N,N,N,Pittsburgh Pirates,PNC Park,99,100
+2005,PIT,PIT,6,N,N,N,Pittsburgh Pirates,PNC Park,99,100
+2006,PIT,PIT,5,N,N,N,Pittsburgh Pirates,PNC Park,98,99
+2007,PIT,PIT,6,N,N,N,Pittsburgh Pirates,PNC Park,97,98
+2008,PIT,PIT,6,N,N,N,Pittsburgh Pirates,PNC Park,96,98
+2009,PIT,PIT,6,N,N,N,Pittsburgh Pirates,PNC Park,98,99
+2010,PIT,PIT,6,N,N,N,Pittsburgh Pirates,PNC Park,99,101
+2011,PIT,PIT,4,N,N,N,Pittsburgh Pirates,PNC Park,96,97
+2012,PIT,PIT,4,N,N,N,Pittsburgh Pirates,PNC Park,93,94
+2013,PIT,PIT,2,N,Y,N,Pittsburgh Pirates,PNC Park,94,94
+2014,PIT,PIT,2,N,Y,N,Pittsburgh Pirates,PNC Park,98,97
+2015,PIT,PIT,2,N,Y,N,Pittsburgh Pirates,PNC Park,99,97
+2016,PIT,PIT,3,N,N,N,Pittsburgh Pirates,PNC Park,100,101
+2017,PIT,PIT,4,N,N,N,Pittsburgh Pirates,PNC Park,99,99
+2018,PIT,PIT,4,N,N,N,Pittsburgh Pirates,PNC Park,96,96
+2019,PIT,PIT,5,N,N,N,Pittsburgh Pirates,PNC Park,96,97
+2020,PIT,PIT,5,N,N,N,Pittsburgh Pirates,PNC Park,97,99
+1878,PRO,PRO,3,,,,Providence Grays,Messer Street Grounds,100,96
+1879,PRO,PRO,1,,,,Providence Grays,Messer Street Grounds,99,95
+1880,PRO,PRO,2,,,,Providence Grays,Messer Street Grounds,97,93
+1881,PRO,PRO,2,,,,Providence Grays,Messer Street Grounds,98,96
+1882,PRO,PRO,2,,,,Providence Grays,Messer Street Grounds,100,98
+1883,PRO,PRO,3,,,,Providence Grays,Messer Street Grounds,103,99
+1884,PRO,PRO,1,,,Y,Providence Grays,Messer Street Grounds,99,96
+1885,PRO,PRO,4,,,N,Providence Grays,Messer Street Grounds,97,95
+1882,PT1,PIT,4,,,,Pittsburg Alleghenys,Exposition Park I,100,99
+1883,PT1,PIT,7,,,,Pittsburg Alleghenys,Exposition Park I,94,98
+1884,PT1,PIT,11,,,N,Pittsburg Alleghenys,Recreation Park,97,101
+1885,PT1,PIT,3,,,N,Pittsburg Alleghenys,Recreation Park,100,99
+1886,PT1,PIT,2,,,N,Pittsburg Alleghenys,Recreation Park,98,97
+1914,PTF,PBS,7,,,,Pittsburgh Rebels,,99,99
+1915,PTF,PBS,3,,,,Pittsburgh Rebels,,99,99
+1890,PTP,PBB,6,,,,Pittsburgh Burghers,,92,92
+1871,RC1,ROK,9,,,,Rockford Forest Citys,Agricultural Society Fair Grounds,97,99
+1890,RC2,ROC,5,,,N,Rochester Broncos,Culver Field I,93,92
+1884,RIC,RIC,10,,,N,Richmond Virginians,Allen Pasture,99,102
+1969,SDN,SDP,6,N,,N,San Diego Padres,Jack Murphy Stadium,96,98
+1970,SDN,SDP,6,N,,N,San Diego Padres,Jack Murphy Stadium,96,98
+1971,SDN,SDP,6,N,,N,San Diego Padres,Jack Murphy Stadium,93,95
+1972,SDN,SDP,6,N,,N,San Diego Padres,Jack Murphy Stadium,92,95
+1973,SDN,SDP,6,N,,N,San Diego Padres,Jack Murphy Stadium,91,94
+1974,SDN,SDP,6,N,,N,San Diego Padres,Jack Murphy Stadium,95,98
+1975,SDN,SDP,4,N,,N,San Diego Padres,Jack Murphy Stadium,94,96
+1976,SDN,SDP,5,N,,N,San Diego Padres,Jack Murphy Stadium,92,94
+1977,SDN,SDP,5,N,,N,San Diego Padres,Jack Murphy Stadium,90,91
+1978,SDN,SDP,4,N,,N,San Diego Padres,Jack Murphy Stadium,91,92
+1979,SDN,SDP,5,N,,N,San Diego Padres,Jack Murphy Stadium,93,94
+1980,SDN,SDP,6,N,,N,San Diego Padres,Jack Murphy Stadium,94,95
+1981,SDN,SDP,6,N,,N,San Diego Padres,Jack Murphy Stadium,93,94
+1982,SDN,SDP,4,N,,N,San Diego Padres,Jack Murphy Stadium,96,96
+1983,SDN,SDP,4,N,,N,San Diego Padres,Jack Murphy Stadium,97,97
+1984,SDN,SDP,1,Y,,N,San Diego Padres,Jack Murphy Stadium,100,100
+1985,SDN,SDP,3,N,,N,San Diego Padres,Jack Murphy Stadium,99,99
+1986,SDN,SDP,4,N,,N,San Diego Padres,Jack Murphy Stadium,98,98
+1987,SDN,SDP,6,N,,N,San Diego Padres,Jack Murphy Stadium,96,97
+1988,SDN,SDP,3,N,,N,San Diego Padres,Jack Murphy Stadium,99,99
+1989,SDN,SDP,2,N,,N,San Diego Padres,Jack Murphy Stadium,101,101
+1990,SDN,SDP,4,N,,N,San Diego Padres,Jack Murphy Stadium,101,101
+1991,SDN,SDP,3,N,,N,San Diego Padres,Jack Murphy Stadium,103,103
+1992,SDN,SDP,3,N,,N,San Diego Padres,Jack Murphy Stadium,101,102
+1993,SDN,SDP,7,N,,N,San Diego Padres,Jack Murphy Stadium,102,102
+1994,SDN,SDP,4,,,,San Diego Padres,Jack Murphy Stadium,97,98
+1995,SDN,SDP,3,N,N,N,San Diego Padres,Jack Murphy Stadium,97,97
+1996,SDN,SDP,1,Y,N,N,San Diego Padres,Jack Murphy Stadium,95,95
+1997,SDN,SDP,4,N,N,N,San Diego Padres,Qualcomm Stadium,93,93
+1998,SDN,SDP,1,Y,N,N,San Diego Padres,Qualcomm Stadium,92,92
+1999,SDN,SDP,4,N,N,N,San Diego Padres,Qualcomm Stadium,92,92
+2000,SDN,SDP,5,N,N,N,San Diego Padres,Qualcomm Stadium,92,92
+2001,SDN,SDP,4,N,N,N,San Diego Padres,Qualcomm Stadium,91,92
+2002,SDN,SDP,5,N,N,N,San Diego Padres,Qualcomm Stadium,90,91
+2003,SDN,SDP,5,N,N,N,San Diego Padres,Qualcomm Stadium,91,92
+2004,SDN,SDP,3,N,N,N,San Diego Padres,Petco Park,90,90
+2005,SDN,SDP,1,Y,N,N,San Diego Padres,Petco Park,92,91
+2006,SDN,SDP,1,Y,N,N,San Diego Padres,Petco Park,91,90
+2007,SDN,SDP,3,N,N,N,San Diego Padres,Petco Park,90,90
+2008,SDN,SDP,5,N,N,N,San Diego Padres,Petco Park,88,88
+2009,SDN,SDP,4,N,N,N,San Diego Padres,Petco Park,90,90
+2010,SDN,SDP,2,N,N,N,San Diego Padres,Petco Park,91,91
+2011,SDN,SDP,5,N,N,N,San Diego Padres,Petco Park,92,92
+2012,SDN,SDP,4,N,N,N,San Diego Padres,Petco Park,92,92
+2013,SDN,SDP,3,N,N,N,San Diego Padres,Petco Park,91,91
+2014,SDN,SDP,3,N,N,N,San Diego Padres,Petco Park,91,91
+2015,SDN,SDP,4,N,N,N,San Diego Padres,Petco Park,98,97
+2016,SDN,SDP,5,N,N,N,San Diego Padres,Petco Park,99,99
+2017,SDN,SDP,4,N,N,N,San Diego Padres,Petco Park,94,95
+2018,SDN,SDP,5,N,N,N,San Diego Padres,Petco Park,94,95
+2019,SDN,SDP,5,N,N,N,San Diego Padres,Petco Park,95,96
+2020,SDN,SDP,2,N,Y,N,San Diego Padres,Petco Park,94,95
+1969,SE1,MIL,6,N,,N,Seattle Pilots,Sicks Stadium,97,100
+1977,SEA,SEA,6,N,,N,Seattle Mariners,Kingdome,99,101
+1978,SEA,SEA,7,N,,N,Seattle Mariners,Kingdome,100,101
+1979,SEA,SEA,6,N,,N,Seattle Mariners,Kingdome,102,104
+1980,SEA,SEA,7,N,,N,Seattle Mariners,Kingdome,101,103
+1981,SEA,SEA,6,N,,N,Seattle Mariners,Kingdome,105,106
+1982,SEA,SEA,4,N,,N,Seattle Mariners,Kingdome,103,105
+1983,SEA,SEA,7,N,,N,Seattle Mariners,Kingdome,104,105
+1984,SEA,SEA,5,N,,N,Seattle Mariners,Kingdome,98,100
+1985,SEA,SEA,6,N,,N,Seattle Mariners,Kingdome,100,101
+1986,SEA,SEA,7,N,,N,Seattle Mariners,Kingdome,100,101
+1987,SEA,SEA,4,N,,N,Seattle Mariners,Kingdome,105,106
+1988,SEA,SEA,7,N,,N,Seattle Mariners,Kingdome,104,105
+1989,SEA,SEA,6,N,,N,Seattle Mariners,Kingdome,103,104
+1990,SEA,SEA,5,N,,N,Seattle Mariners,Kingdome,101,101
+1991,SEA,SEA,5,N,,N,Seattle Mariners,Kingdome,100,100
+1992,SEA,SEA,7,N,,N,Seattle Mariners,Kingdome,100,100
+1993,SEA,SEA,4,N,,N,Seattle Mariners,Kingdome,101,102
+1994,SEA,SEA,3,,,,Seattle Mariners,Kingdome,102,102
+1995,SEA,SEA,1,Y,N,N,Seattle Mariners,Kingdome,101,101
+1996,SEA,SEA,2,N,N,N,Seattle Mariners,Kingdome,100,99
+1997,SEA,SEA,1,Y,N,N,Seattle Mariners,Kingdome,98,98
+1998,SEA,SEA,3,N,N,N,Seattle Mariners,Kingdome,99,99
+1999,SEA,SEA,3,N,N,N,Seattle Mariners,Kingdome / Safeco Field,102,103
+2000,SEA,SEA,2,N,Y,N,Seattle Mariners,Safeco Field,95,93
+2001,SEA,SEA,1,Y,N,N,Seattle Mariners,Safeco Field,94,93
+2002,SEA,SEA,3,N,N,N,Seattle Mariners,Safeco Field,97,95
+2003,SEA,SEA,2,N,N,N,Seattle Mariners,Safeco Field,95,95
+2004,SEA,SEA,4,N,N,N,Seattle Mariners,Safeco Field,97,98
+2005,SEA,SEA,4,N,N,N,Seattle Mariners,Safeco Field,95,96
+2006,SEA,SEA,4,N,N,N,Seattle Mariners,Safeco Field,97,97
+2007,SEA,SEA,2,N,N,N,Seattle Mariners,Safeco Field,96,97
+2008,SEA,SEA,4,N,N,N,Seattle Mariners,Safeco Field,97,97
+2009,SEA,SEA,3,N,N,N,Seattle Mariners,Safeco Field,94,96
+2010,SEA,SEA,4,N,N,N,Seattle Mariners,Safeco Field,93,95
+2011,SEA,SEA,4,N,N,N,Seattle Mariners,Safeco Field,94,95
+2012,SEA,SEA,4,N,N,N,Seattle Mariners,Safeco Field,90,91
+2013,SEA,SEA,4,N,N,N,Seattle Mariners,Safeco Field,92,92
+2014,SEA,SEA,3,N,N,N,Seattle Mariners,Safeco Field,95,95
+2015,SEA,SEA,4,N,N,N,Seattle Mariners,Safeco Field,92,94
+2016,SEA,SEA,2,N,N,N,Seattle Mariners,Safeco Field,98,97
+2017,SEA,SEA,3,N,N,N,Seattle Mariners,Safeco Field,97,97
+2018,SEA,SEA,3,N,N,N,Seattle Mariners,Safeco Field,94,95
+2019,SEA,SEA,5,N,N,N,Seattle Mariners,T-Mobile Park,93,94
+2020,SEA,SEA,3,N,N,N,Seattle Mariners,T-Mobile Park,94,95
+1958,SFN,SFG,3,,,N,San Francisco Giants,Seals Stadium,98,96
+1959,SFN,SFG,3,,,N,San Francisco Giants,Seals Stadium,98,96
+1960,SFN,SFG,5,,,N,San Francisco Giants,Candlestick Park,95,93
+1961,SFN,SFG,3,,,N,San Francisco Giants,Candlestick Park,97,95
+1962,SFN,SFG,1,,,N,San Francisco Giants,Candlestick Park,99,96
+1963,SFN,SFG,3,,,N,San Francisco Giants,Candlestick Park,99,97
+1964,SFN,SFG,4,,,N,San Francisco Giants,Candlestick Park,102,101
+1965,SFN,SFG,2,,,N,San Francisco Giants,Candlestick Park,104,102
+1966,SFN,SFG,2,,,N,San Francisco Giants,Candlestick Park,104,103
+1967,SFN,SFG,2,,,N,San Francisco Giants,Candlestick Park,100,99
+1968,SFN,SFG,2,,,N,San Francisco Giants,Candlestick Park,101,100
+1969,SFN,SFG,2,N,,N,San Francisco Giants,Candlestick Park,99,98
+1970,SFN,SFG,3,N,,N,San Francisco Giants,Candlestick Park,100,99
+1971,SFN,SFG,1,Y,,N,San Francisco Giants,Candlestick Park,99,99
+1972,SFN,SFG,5,N,,N,San Francisco Giants,Candlestick Park,102,102
+1973,SFN,SFG,3,N,,N,San Francisco Giants,Candlestick Park,105,105
+1974,SFN,SFG,5,N,,N,San Francisco Giants,Candlestick Park,105,105
+1975,SFN,SFG,3,N,,N,San Francisco Giants,Candlestick Park,104,105
+1976,SFN,SFG,4,N,,N,San Francisco Giants,Candlestick Park,103,103
+1977,SFN,SFG,4,N,,N,San Francisco Giants,Candlestick Park,99,100
+1978,SFN,SFG,3,N,,N,San Francisco Giants,Candlestick Park,96,96
+1979,SFN,SFG,4,N,,N,San Francisco Giants,Candlestick Park,93,94
+1980,SFN,SFG,5,N,,N,San Francisco Giants,Candlestick Park,97,98
+1981,SFN,SFG,4,N,,N,San Francisco Giants,Candlestick Park,98,98
+1982,SFN,SFG,3,N,,N,San Francisco Giants,Candlestick Park,99,99
+1983,SFN,SFG,5,N,,N,San Francisco Giants,Candlestick Park,97,98
+1984,SFN,SFG,6,N,,N,San Francisco Giants,Candlestick Park,97,98
+1985,SFN,SFG,6,N,,N,San Francisco Giants,Candlestick Park,95,96
+1986,SFN,SFG,3,N,,N,San Francisco Giants,Candlestick Park,95,95
+1987,SFN,SFG,1,Y,,N,San Francisco Giants,Candlestick Park,96,95
+1988,SFN,SFG,4,N,,N,San Francisco Giants,Candlestick Park,96,95
+1989,SFN,SFG,1,Y,,N,San Francisco Giants,Candlestick Park,97,96
+1990,SFN,SFG,3,N,,N,San Francisco Giants,Candlestick Park,96,96
+1991,SFN,SFG,4,N,,N,San Francisco Giants,Candlestick Park,96,97
+1992,SFN,SFG,5,N,,N,San Francisco Giants,Candlestick Park,94,94
+1993,SFN,SFG,2,N,,N,San Francisco Giants,Candlestick Park,97,96
+1994,SFN,SFG,2,,,,San Francisco Giants,Candlestick Park,94,94
+1995,SFN,SFG,4,N,N,N,San Francisco Giants,Candlestick Park,96,97
+1996,SFN,SFG,4,N,N,N,San Francisco Giants,Candlestick Park,95,96
+1997,SFN,SFG,1,Y,N,N,San Francisco Giants,3Com Park,98,98
+1998,SFN,SFG,2,N,N,N,San Francisco Giants,3Com Park,95,95
+1999,SFN,SFG,2,N,N,N,San Francisco Giants,3Com Park,95,94
+2000,SFN,SFG,1,Y,N,N,San Francisco Giants,PacBell Park,93,92
+2001,SFN,SFG,2,N,N,N,San Francisco Giants,PacBell Park,93,92
+2002,SFN,SFG,2,N,Y,N,San Francisco Giants,PacBell Park,95,94
+2003,SFN,SFG,1,Y,N,N,San Francisco Giants,PacBell Park,99,98
+2004,SFN,SFG,2,N,N,N,San Francisco Giants,SBC Park,101,101
+2005,SFN,SFG,3,N,N,N,San Francisco Giants,SBC Park,101,101
+2006,SFN,SFG,3,N,N,N,San Francisco Giants,AT&T Park,100,100
+2007,SFN,SFG,5,N,N,N,San Francisco Giants,AT&T Park,101,101
+2008,SFN,SFG,4,N,N,N,San Francisco Giants,AT&T Park,102,103
+2009,SFN,SFG,3,N,N,N,San Francisco Giants,AT&T Park,102,102
+2010,SFN,SFG,1,Y,N,Y,San Francisco Giants,AT&T Park,101,101
+2011,SFN,SFG,2,N,N,N,San Francisco Giants,AT&T Park,89,89
+2012,SFN,SFG,1,Y,N,Y,San Francisco Giants,AT&T Park,88,88
+2013,SFN,SFG,4,N,N,N,San Francisco Giants,AT&T Park,90,89
+2014,SFN,SFG,2,N,Y,Y,San Francisco Giants,AT&T Park,95,95
+2015,SFN,SFG,2,N,N,N,San Francisco Giants,AT&T Park,99,97
+2016,SFN,SFG,2,N,Y,N,San Francisco Giants,AT&T Park,103,102
+2017,SFN,SFG,5,N,N,N,San Francisco Giants,AT&T Park,96,96
+2018,SFN,SFG,4,N,N,N,San Francisco Giants,AT&T Park,95,96
+2019,SFN,SFG,3,N,N,N,San Francisco Giants,Oracle Park,94,95
+2020,SFN,SFG,3,N,N,N,San Francisco Giants,Oracle Park,94,95
+1875,SL1,SLR,10,,,,St. Louis Red Stockings,Red Stocking Baseball Park,90,98
+1875,SL2,SNA,4,,,,St. Louis Brown Stockings,Grand Avenue Park,89,86
+1876,SL3,SBS,3,,,,St. Louis Brown Stockings,Sportsman's Park I,93,92
+1877,SL3,SBS,4,,,,St. Louis Brown Stockings,Sportsman's Park I,95,93
+1882,SL4,STL,5,,,,St. Louis Brown Stockings,Sportsman's Park I,104,104
+1883,SL4,STL,2,,,,St. Louis Browns,Sportsman's Park I,106,106
+1884,SL4,STL,4,,,N,St. Louis Browns,Sportsman's Park I,104,101
+1885,SL4,STL,1,,,N,St. Louis Browns,Sportsman's Park I,105,101
+1886,SL4,STL,1,,,Y,St. Louis Browns,Sportsman's Park I,105,100
+1887,SL4,STL,1,,,N,St. Louis Browns,Sportsman's Park I,111,106
+1888,SL4,STL,1,,,N,St. Louis Browns,Sportsman's Park I,111,106
+1889,SL4,STL,2,,,N,St. Louis Browns,Sportsman's Park I,113,110
+1890,SL4,STL,3,,,N,St. Louis Browns,Sportsman's Park I,114,111
+1891,SL4,STL,2,,,,St. Louis Browns,Sportsman's Park I,108,108
+1885,SL5,SLM,8,,,N,St. Louis Maroons,Sportsman's Park I,97,98
+1886,SL5,SLM,6,,,N,St. Louis Maroons,Sportsman's Park I,94,97
+1902,SLA,BAL,2,,,,St. Louis Browns,Sportsman's Park III,99,99
+1903,SLA,BAL,6,,,N,St. Louis Browns,Sportsman's Park III,97,98
+1904,SLA,BAL,6,,,,St. Louis Browns,Sportsman's Park III,94,96
+1905,SLA,BAL,8,,,N,St. Louis Browns,Sportsman's Park III,95,96
+1906,SLA,BAL,5,,,N,St. Louis Browns,Sportsman's Park III,96,96
+1907,SLA,BAL,6,,,N,St. Louis Browns,Sportsman's Park III,100,99
+1908,SLA,BAL,4,,,N,St. Louis Browns,Sportsman's Park III,101,100
+1909,SLA,BAL,7,,,N,St. Louis Browns,Sportsman's Park IV,93,98
+1910,SLA,BAL,8,,,N,St. Louis Browns,Sportsman's Park IV,94,98
+1911,SLA,BAL,8,,,N,St. Louis Browns,Sportsman's Park IV,96,101
+1912,SLA,BAL,7,,,N,St. Louis Browns,Sportsman's Park IV,96,100
+1913,SLA,BAL,8,,,N,St. Louis Browns,Sportsman's Park IV,97,100
+1914,SLA,BAL,5,,,N,St. Louis Browns,Sportsman's Park IV,96,99
+1915,SLA,BAL,6,,,N,St. Louis Browns,Sportsman's Park IV,96,98
+1916,SLA,BAL,5,,,N,St. Louis Browns,Sportsman's Park IV,95,97
+1917,SLA,BAL,7,,,N,St. Louis Browns,Sportsman's Park IV,96,98
+1918,SLA,BAL,5,,,N,St. Louis Browns,Sportsman's Park IV,97,99
+1919,SLA,BAL,5,,,N,St. Louis Browns,Sportsman's Park IV,102,103
+1920,SLA,BAL,4,,,N,St. Louis Browns,Sportsman's Park IV,103,103
+1921,SLA,BAL,3,,,N,St. Louis Browns,Sportsman's Park IV,106,105
+1922,SLA,BAL,2,,,N,St. Louis Browns,Sportsman's Park IV,104,103
+1923,SLA,BAL,5,,,N,St. Louis Browns,Sportsman's Park IV,106,105
+1924,SLA,BAL,4,,,N,St. Louis Browns,Sportsman's Park IV,106,107
+1925,SLA,BAL,3,,,N,St. Louis Browns,Sportsman's Park IV,105,106
+1926,SLA,BAL,7,,,N,St. Louis Browns,Sportsman's Park IV,105,107
+1927,SLA,BAL,7,,,N,St. Louis Browns,Sportsman's Park IV,103,105
+1928,SLA,BAL,3,,,N,St. Louis Browns,Sportsman's Park IV,103,104
+1929,SLA,BAL,4,,,N,St. Louis Browns,Sportsman's Park IV,104,104
+1930,SLA,BAL,6,,,N,St. Louis Browns,Sportsman's Park IV,103,104
+1931,SLA,BAL,5,,,N,St. Louis Browns,Sportsman's Park IV,103,105
+1932,SLA,BAL,6,,,N,St. Louis Browns,Sportsman's Park IV,105,108
+1933,SLA,BAL,8,,,N,St. Louis Browns,Sportsman's Park IV,106,108
+1934,SLA,BAL,6,,,N,St. Louis Browns,Sportsman's Park IV,107,110
+1935,SLA,BAL,7,,,N,St. Louis Browns,Sportsman's Park IV,104,107
+1936,SLA,BAL,7,,,N,St. Louis Browns,Sportsman's Park IV,102,106
+1937,SLA,BAL,8,,,N,St. Louis Browns,Sportsman's Park IV,100,104
+1938,SLA,BAL,7,,,N,St. Louis Browns,Sportsman's Park IV,99,104
+1939,SLA,BAL,8,,,N,St. Louis Browns,Sportsman's Park IV,102,105
+1940,SLA,BAL,6,,,N,St. Louis Browns,Sportsman's Park IV,102,105
+1941,SLA,BAL,6,,,N,St. Louis Browns,Sportsman's Park IV,104,104
+1942,SLA,BAL,3,,,N,St. Louis Browns,Sportsman's Park IV,102,102
+1943,SLA,BAL,6,,,N,St. Louis Browns,Sportsman's Park IV,104,102
+1944,SLA,BAL,1,,,N,St. Louis Browns,Sportsman's Park IV,107,107
+1945,SLA,BAL,3,,,N,St. Louis Browns,Sportsman's Park IV,106,106
+1946,SLA,BAL,7,,,N,St. Louis Browns,Sportsman's Park IV,106,107
+1947,SLA,BAL,8,,,N,St. Louis Browns,Sportsman's Park IV,102,105
+1948,SLA,BAL,6,,,N,St. Louis Browns,Sportsman's Park IV,103,106
+1949,SLA,BAL,7,,,N,St. Louis Browns,Sportsman's Park IV,105,109
+1950,SLA,BAL,7,,,N,St. Louis Browns,Sportsman's Park IV,104,108
+1951,SLA,BAL,8,,,N,St. Louis Browns,Sportsman's Park IV,103,107
+1952,SLA,BAL,7,,,N,St. Louis Browns,Sportsman's Park IV,103,106
+1953,SLA,BAL,8,,,N,St. Louis Browns,Sportsman's Park IV,102,106
+1914,SLF,SLI,8,,,,St. Louis Terriers,,105,105
+1915,SLF,SLI,1,,,,St. Louis Terriers,,105,105
+1892,SLN,STL,11,,,,St. Louis Browns,Sportsman's Park I,105,104
+1893,SLN,STL,10,,,,St. Louis Browns,Robison Field,100,101
+1894,SLN,STL,9,,,,St. Louis Browns,Robison Field,100,102
+1895,SLN,STL,11,,,,St. Louis Browns,Robison Field,99,101
+1896,SLN,STL,11,,,,St. Louis Browns,Robison Field,96,100
+1897,SLN,STL,12,,,,St. Louis Browns,Robison Field,98,102
+1898,SLN,STL,12,,,,St. Louis Browns,Robison Field,102,105
+1899,SLN,STL,5,,,,St. Louis Perfectos,Robison Field,102,103
+1900,SLN,STL,5,,,,St. Louis Cardinals,Robison Field,99,98
+1901,SLN,STL,4,,,,St. Louis Cardinals,Robison Field,95,96
+1902,SLN,STL,6,,,,St. Louis Cardinals,Robison Field,96,99
+1903,SLN,STL,8,,,N,St. Louis Cardinals,Robison Field,97,100
+1904,SLN,STL,5,,,,St. Louis Cardinals,Robison Field,96,99
+1905,SLN,STL,6,,,N,St. Louis Cardinals,Robison Field,97,99
+1906,SLN,STL,7,,,N,St. Louis Cardinals,Robison Field,96,100
+1907,SLN,STL,8,,,N,St. Louis Cardinals,Robison Field,97,101
+1908,SLN,STL,8,,,N,St. Louis Cardinals,Robison Field,95,100
+1909,SLN,STL,7,,,N,St. Louis Cardinals,Robison Field,94,97
+1910,SLN,STL,7,,,N,St. Louis Cardinals,Robison Field,96,98
+1911,SLN,STL,5,,,N,St. Louis Cardinals,Robison Field,97,99
+1912,SLN,STL,6,,,N,St. Louis Cardinals,Robison Field,98,101
+1913,SLN,STL,8,,,N,St. Louis Cardinals,Robison Field,98,101
+1914,SLN,STL,3,,,N,St. Louis Cardinals,Robison Field,99,100
+1915,SLN,STL,6,,,N,St. Louis Cardinals,Robison Field,100,101
+1916,SLN,STL,7,,,N,St. Louis Cardinals,Robison Field,99,101
+1917,SLN,STL,3,,,N,St. Louis Cardinals,Robison Field,97,99
+1918,SLN,STL,8,,,N,St. Louis Cardinals,Robison Field,97,98
+1919,SLN,STL,7,,,N,St. Louis Cardinals,Robison Field,94,96
+1920,SLN,STL,5,,,N,St. Louis Cardinals,Robison Field/Sportsman's Park IV,98,98
+1921,SLN,STL,3,,,N,St. Louis Cardinals,Sportsman's Park IV,97,96
+1922,SLN,STL,3,,,N,St. Louis Cardinals,Sportsman's Park IV,95,94
+1923,SLN,STL,5,,,N,St. Louis Cardinals,Sportsman's Park IV,97,97
+1924,SLN,STL,6,,,N,St. Louis Cardinals,Sportsman's Park IV,98,98
+1925,SLN,STL,4,,,N,St. Louis Cardinals,Sportsman's Park IV,103,102
+1926,SLN,STL,1,,,Y,St. Louis Cardinals,Sportsman's Park IV,104,103
+1927,SLN,STL,2,,,N,St. Louis Cardinals,Sportsman's Park IV,105,102
+1928,SLN,STL,1,,,N,St. Louis Cardinals,Sportsman's Park IV,103,102
+1929,SLN,STL,4,,,N,St. Louis Cardinals,Sportsman's Park IV,103,101
+1930,SLN,STL,1,,,N,St. Louis Cardinals,Sportsman's Park IV,104,102
+1931,SLN,STL,1,,,Y,St. Louis Cardinals,Sportsman's Park IV,105,103
+1932,SLN,STL,6,,,N,St. Louis Cardinals,Sportsman's Park IV,104,102
+1933,SLN,STL,5,,,N,St. Louis Cardinals,Sportsman's Park IV,106,105
+1934,SLN,STL,1,,,Y,St. Louis Cardinals,Sportsman's Park IV,107,104
+1935,SLN,STL,2,,,N,St. Louis Cardinals,Sportsman's Park IV,104,102
+1936,SLN,STL,2,,,N,St. Louis Cardinals,Sportsman's Park IV,99,98
+1937,SLN,STL,4,,,N,St. Louis Cardinals,Sportsman's Park IV,102,101
+1938,SLN,STL,6,,,N,St. Louis Cardinals,Sportsman's Park IV,105,104
+1939,SLN,STL,2,,,N,St. Louis Cardinals,Sportsman's Park IV,106,105
+1940,SLN,STL,3,,,N,St. Louis Cardinals,Sportsman's Park IV,106,103
+1941,SLN,STL,2,,,N,St. Louis Cardinals,Sportsman's Park IV,107,104
+1942,SLN,STL,1,,,Y,St. Louis Cardinals,Sportsman's Park IV,108,104
+1943,SLN,STL,1,,,N,St. Louis Cardinals,Sportsman's Park IV,106,101
+1944,SLN,STL,1,,,Y,St. Louis Cardinals,Sportsman's Park IV,103,99
+1945,SLN,STL,2,,,N,St. Louis Cardinals,Sportsman's Park IV,103,99
+1946,SLN,STL,1,,,Y,St. Louis Cardinals,Sportsman's Park IV,104,101
+1947,SLN,STL,2,,,N,St. Louis Cardinals,Sportsman's Park IV,104,101
+1948,SLN,STL,2,,,N,St. Louis Cardinals,Sportsman's Park IV,106,103
+1949,SLN,STL,2,,,N,St. Louis Cardinals,Sportsman's Park IV,104,103
+1950,SLN,STL,5,,,N,St. Louis Cardinals,Sportsman's Park IV,104,103
+1951,SLN,STL,3,,,N,St. Louis Cardinals,Sportsman's Park IV,100,100
+1952,SLN,STL,3,,,N,St. Louis Cardinals,Sportsman's Park IV,100,99
+1953,SLN,STL,3,,,N,St. Louis Cardinals,Sportsman's Park IV,100,99
+1954,SLN,STL,6,,,N,St. Louis Cardinals,Sportsman's Park IV,100,101
+1955,SLN,STL,7,,,N,St. Louis Cardinals,Sportsman's Park IV,99,100
+1956,SLN,STL,4,,,N,St. Louis Cardinals,Sportsman's Park IV,100,100
+1957,SLN,STL,2,,,N,St. Louis Cardinals,Sportsman's Park IV,102,102
+1958,SLN,STL,5,,,N,St. Louis Cardinals,Sportsman's Park IV,104,105
+1959,SLN,STL,7,,,N,St. Louis Cardinals,Sportsman's Park IV,106,107
+1960,SLN,STL,3,,,N,St. Louis Cardinals,Sportsman's Park IV,108,109
+1961,SLN,STL,5,,,N,St. Louis Cardinals,Sportsman's Park IV,110,110
+1962,SLN,STL,6,,,N,St. Louis Cardinals,Sportsman's Park IV,111,109
+1963,SLN,STL,2,,,N,St. Louis Cardinals,Sportsman's Park IV,110,109
+1964,SLN,STL,1,,,Y,St. Louis Cardinals,Sportsman's Park IV,109,108
+1965,SLN,STL,7,,,N,St. Louis Cardinals,Sportsman's Park IV,110,109
+1966,SLN,STL,6,,,N,St. Louis Cardinals,Sportsman's Park IV/Busch Stadium II,100,100
+1967,SLN,STL,1,,,Y,St. Louis Cardinals,Busch Stadium II,99,97
+1968,SLN,STL,1,,,N,St. Louis Cardinals,Busch Stadium II,99,97
+1969,SLN,STL,4,N,,N,St. Louis Cardinals,Busch Stadium II,100,99
+1970,SLN,STL,4,N,,N,St. Louis Cardinals,Busch Stadium II,103,102
+1971,SLN,STL,2,N,,N,St. Louis Cardinals,Busch Stadium II,104,104
+1972,SLN,STL,4,N,,N,St. Louis Cardinals,Busch Stadium II,99,99
+1973,SLN,STL,2,N,,N,St. Louis Cardinals,Busch Stadium II,100,100
+1974,SLN,STL,2,N,,N,St. Louis Cardinals,Busch Stadium II,100,100
+1975,SLN,STL,3,N,,N,St. Louis Cardinals,Busch Stadium II,104,105
+1976,SLN,STL,5,N,,N,St. Louis Cardinals,Busch Stadium II,101,101
+1977,SLN,STL,3,N,,N,St. Louis Cardinals,Busch Stadium II,99,99
+1978,SLN,STL,5,N,,N,St. Louis Cardinals,Busch Stadium II,99,99
+1979,SLN,STL,3,N,,N,St. Louis Cardinals,Busch Stadium II,102,102
+1980,SLN,STL,4,N,,N,St. Louis Cardinals,Busch Stadium II,104,103
+1981,SLN,STL,1,N,,N,St. Louis Cardinals,Busch Stadium II,103,102
+1982,SLN,STL,1,Y,,Y,St. Louis Cardinals,Busch Stadium II,101,101
+1983,SLN,STL,4,N,,N,St. Louis Cardinals,Busch Stadium II,101,100
+1984,SLN,STL,3,N,,N,St. Louis Cardinals,Busch Stadium II,98,98
+1985,SLN,STL,1,Y,,N,St. Louis Cardinals,Busch Stadium II,100,99
+1986,SLN,STL,3,N,,N,St. Louis Cardinals,Busch Stadium II,100,99
+1987,SLN,STL,1,Y,,N,St. Louis Cardinals,Busch Stadium II,102,102
+1988,SLN,STL,5,N,,N,St. Louis Cardinals,Busch Stadium II,101,101
+1989,SLN,STL,3,N,,N,St. Louis Cardinals,Busch Stadium II,103,103
+1990,SLN,STL,6,N,,N,St. Louis Cardinals,Busch Stadium II,100,100
+1991,SLN,STL,2,N,,N,St. Louis Cardinals,Busch Stadium II,100,100
+1992,SLN,STL,3,N,,N,St. Louis Cardinals,Busch Stadium II,97,97
+1993,SLN,STL,3,N,,N,St. Louis Cardinals,Busch Stadium II,98,98
+1994,SLN,STL,3,,,,St. Louis Cardinals,Busch Stadium II,98,99
+1995,SLN,STL,4,N,N,N,St. Louis Cardinals,Busch Stadium II,99,100
+1996,SLN,STL,1,Y,N,N,St. Louis Cardinals,Busch Stadium II,100,100
+1997,SLN,STL,4,N,N,N,St. Louis Cardinals,Busch Stadium II,99,99
+1998,SLN,STL,3,N,N,N,St. Louis Cardinals,Busch Stadium II,100,100
+1999,SLN,STL,4,N,N,N,St. Louis Cardinals,Busch Stadium II,101,101
+2000,SLN,STL,1,Y,N,N,St. Louis Cardinals,Busch Stadium II,102,101
+2001,SLN,STL,2,N,Y,N,St. Louis Cardinals,Busch Stadium II,100,99
+2002,SLN,STL,1,Y,N,N,St. Louis Cardinals,Busch Stadium II,98,97
+2003,SLN,STL,3,N,N,N,St. Louis Cardinals,Busch Stadium II,97,96
+2004,SLN,STL,1,Y,N,N,St. Louis Cardinals,Busch Stadium II,100,99
+2005,SLN,STL,1,Y,N,N,St. Louis Cardinals,Busch Stadium II,101,100
+2006,SLN,STL,1,Y,N,Y,St. Louis Cardinals,Busch Stadium III,99,99
+2007,SLN,STL,3,N,N,N,St. Louis Cardinals,Busch Stadium III,99,99
+2008,SLN,STL,4,N,N,N,St. Louis Cardinals,Busch Stadium III,99,99
+2009,SLN,STL,1,Y,N,N,St. Louis Cardinals,Busch Stadium III,98,97
+2010,SLN,STL,2,N,N,N,St. Louis Cardinals,Busch Stadium III,97,97
+2011,SLN,STL,2,N,Y,Y,St. Louis Cardinals,Busch Stadium III,95,94
+2012,SLN,STL,2,N,Y,N,St. Louis Cardinals,Busch Stadium III,98,97
+2013,SLN,STL,1,Y,N,N,St. Louis Cardinals,Busch Stadium III,99,97
+2014,SLN,STL,1,Y,N,N,St. Louis Cardinals,Busch Stadium III,101,100
+2015,SLN,STL,1,Y,N,N,St. Louis Cardinals,Busch Stadium III,102,101
+2016,SLN,STL,2,N,N,N,St. Louis Cardinals,Busch Stadium III,100,99
+2017,SLN,STL,3,N,N,N,St. Louis Cardinals,Busch Stadium III,98,98
+2018,SLN,STL,3,N,N,N,St. Louis Cardinals,Busch Stadium III,97,96
+2019,SLN,STL,1,Y,N,N,St. Louis Cardinals,Busch Stadium III,98,97
+2020,SLN,STL,3,N,Y,N,St. Louis Cardinals,Busch Stadium III,97,96
+1884,SLU,SLM,1,,,,St. Louis Maroons,,99,98
+1884,SPU,STP,9,,,,St. Paul White Caps,,60,60
+1879,SR1,SYR,7,,,,Syracuse Stars,Newell Park,89,95
+1890,SR2,SYS,7,,,N,Syracuse Stars,Star Park II,90,91
+1998,TBA,TBD,5,N,N,N,Tampa Bay Devil Rays,Tropicana Field,101,102
+1999,TBA,TBD,5,N,N,N,Tampa Bay Devil Rays,Tropicana Field,100,102
+2000,TBA,TBD,5,N,N,N,Tampa Bay Devil Rays,Tropicana Field,99,100
+2001,TBA,TBD,5,N,N,N,Tampa Bay Devil Rays,Tropicana Field,98,100
+2002,TBA,TBD,5,N,N,N,Tampa Bay Devil Rays,Tropicana Field,97,99
+2003,TBA,TBD,5,N,N,N,Tampa Bay Devil Rays,Tropicana Field,95,97
+2004,TBA,TBD,4,N,N,N,Tampa Bay Devil Rays,Tropicana Field,96,98
+2005,TBA,TBD,5,N,N,N,Tampa Bay Devil Rays,Tropicana Field,99,100
+2006,TBA,TBD,5,N,N,N,Tampa Bay Devil Rays,Tropicana Field,99,101
+2007,TBA,TBD,5,N,N,N,Tampa Bay Devil Rays,Tropicana Field,98,100
+2008,TBA,TBD,1,Y,N,N,Tampa Bay Rays,Tropicana Field,101,101
+2009,TBA,TBD,3,N,N,N,Tampa Bay Rays,Tropicana Field,98,97
+2010,TBA,TBD,1,Y,N,N,Tampa Bay Rays,Tropicana Field,96,95
+2011,TBA,TBD,2,N,Y,N,Tampa Bay Rays,Tropicana Field,92,92
+2012,TBA,TBD,3,N,N,N,Tampa Bay Rays,Tropicana Field,94,93
+2013,TBA,TBD,2,N,Y,N,Tampa Bay Rays,Tropicana Field,96,95
+2014,TBA,TBD,4,N,N,N,Tampa Bay Rays,Tropicana Field,97,97
+2015,TBA,TBD,4,N,N,N,Tampa Bay Rays,Tropicana Field,100,102
+2016,TBA,TBD,5,N,N,N,Tampa Bay Rays,Tropicana Field,93,94
+2017,TBA,TBD,3,N,N,N,Tampa Bay Rays,Tropicana Field,94,94
+2018,TBA,TBD,3,N,N,N,Tampa Bay Rays,Tropicana Field,97,97
+2019,TBA,TBD,2,N,Y,N,Tampa Bay Rays,Tropicana Field,97,96
+2020,TBA,TBD,1,Y,N,N,Tampa Bay Rays,Tropicana Field,96,95
+1972,TEX,TEX,6,N,,N,Texas Rangers,Arlington Stadium,96,98
+1973,TEX,TEX,6,N,,N,Texas Rangers,Arlington Stadium,95,97
+1974,TEX,TEX,2,N,,N,Texas Rangers,Arlington Stadium,97,98
+1975,TEX,TEX,3,N,,N,Texas Rangers,Arlington Stadium,99,99
+1976,TEX,TEX,4,N,,N,Texas Rangers,Arlington Stadium,102,102
+1977,TEX,TEX,2,N,,N,Texas Rangers,Arlington Stadium,101,101
+1978,TEX,TEX,2,N,,N,Texas Rangers,Arlington Stadium,100,100
+1979,TEX,TEX,3,N,,N,Texas Rangers,Arlington Stadium,99,98
+1980,TEX,TEX,4,N,,N,Texas Rangers,Arlington Stadium,97,96
+1981,TEX,TEX,2,N,,N,Texas Rangers,Arlington Stadium,94,94
+1982,TEX,TEX,6,N,,N,Texas Rangers,Arlington Stadium,95,95
+1983,TEX,TEX,3,N,,N,Texas Rangers,Arlington Stadium,97,98
+1984,TEX,TEX,7,N,,N,Texas Rangers,Arlington Stadium,103,104
+1985,TEX,TEX,7,N,,N,Texas Rangers,Arlington Stadium,101,102
+1986,TEX,TEX,2,N,,N,Texas Rangers,Arlington Stadium,102,103
+1987,TEX,TEX,6,N,,N,Texas Rangers,Arlington Stadium,100,101
+1988,TEX,TEX,6,N,,N,Texas Rangers,Arlington Stadium,102,103
+1989,TEX,TEX,4,N,,N,Texas Rangers,Arlington Stadium,102,102
+1990,TEX,TEX,3,N,,N,Texas Rangers,Arlington Stadium,100,101
+1991,TEX,TEX,3,N,,N,Texas Rangers,Arlington Stadium,98,99
+1992,TEX,TEX,4,N,,N,Texas Rangers,Arlington Stadium,97,97
+1993,TEX,TEX,2,N,,N,Texas Rangers,Arlington Stadium,96,96
+1994,TEX,TEX,1,,,,Texas Rangers,The Ballpark at Arlington,100,101
+1995,TEX,TEX,3,N,N,N,Texas Rangers,The Ballpark at Arlington,103,103
+1996,TEX,TEX,1,Y,N,N,Texas Rangers,The Ballpark at Arlington,105,105
+1997,TEX,TEX,3,N,N,N,Texas Rangers,The Ballpark at Arlington,105,105
+1998,TEX,TEX,1,Y,N,N,Texas Rangers,The Ballpark at Arlington,104,103
+1999,TEX,TEX,1,Y,N,N,Texas Rangers,The Ballpark at Arlington,105,105
+2000,TEX,TEX,4,N,N,N,Texas Rangers,The Ballpark at Arlington,102,102
+2001,TEX,TEX,4,N,N,N,Texas Rangers,The Ballpark at Arlington,104,105
+2002,TEX,TEX,4,N,N,N,Texas Rangers,The Ballpark at Arlington,106,107
+2003,TEX,TEX,4,N,N,N,Texas Rangers,The Ballpark at Arlington,111,111
+2004,TEX,TEX,3,N,N,N,Texas Rangers,The Ballpark at Arlington,108,109
+2005,TEX,TEX,3,N,N,N,Texas Rangers,Ameriquest Field,106,106
+2006,TEX,TEX,3,N,N,N,Texas Rangers,Ameriquest Field,101,101
+2007,TEX,TEX,4,N,N,N,Texas Rangers,Rangers Ballpark in Arlington,101,101
+2008,TEX,TEX,2,N,N,N,Texas Rangers,Rangers Ballpark in Arlington,102,102
+2009,TEX,TEX,2,N,N,N,Texas Rangers,Rangers Ballpark in Arlington,104,104
+2010,TEX,TEX,1,Y,N,N,Texas Rangers,Rangers Ballpark in Arlington,105,104
+2011,TEX,TEX,1,Y,N,N,Texas Rangers,Rangers Ballpark in Arlington,117,115
+2012,TEX,TEX,2,N,Y,N,Texas Rangers,Rangers Ballpark in Arlington,112,111
+2013,TEX,TEX,2,N,N,N,Texas Rangers,Rangers Ballpark in Arlington,104,103
+2014,TEX,TEX,5,N,N,N,Texas Rangers,Globe Life Park in Arlington,101,101
+2015,TEX,TEX,1,Y,N,N,Texas Rangers,Globe Life Park in Arlington,102,105
+2016,TEX,TEX,1,Y,N,N,Texas Rangers,Globe Life Park in Arlington,106,105
+2017,TEX,TEX,4,N,N,N,Texas Rangers,Globe Life Park in Arlington,107,107
+2018,TEX,TEX,5,N,N,N,Texas Rangers,Globe Life Park in Arlington,112,113
+2019,TEX,TEX,3,N,N,N,Texas Rangers,Globe Life Park in Arlington,111,112
+2020,TEX,TEX,5,N,N,N,Texas Rangers,Globe Life Field,102,102
+1884,TL1,TOL,8,,,N,Toledo Blue Stockings,League Park,103,105
+1890,TL2,TLM,4,,,N,Toledo Maumees,Speranza Park,103,102
+1977,TOR,TOR,7,N,,N,Toronto Blue Jays,Exhibition Stadium,101,103
+1978,TOR,TOR,7,N,,N,Toronto Blue Jays,Exhibition Stadium,101,104
+1979,TOR,TOR,7,N,,N,Toronto Blue Jays,Exhibition Stadium,100,102
+1980,TOR,TOR,7,N,,N,Toronto Blue Jays,Exhibition Stadium,105,107
+1981,TOR,TOR,7,N,,N,Toronto Blue Jays,Exhibition Stadium,106,108
+1982,TOR,TOR,6,N,,N,Toronto Blue Jays,Exhibition Stadium,110,110
+1983,TOR,TOR,4,N,,N,Toronto Blue Jays,Exhibition Stadium,106,106
+1984,TOR,TOR,2,N,,N,Toronto Blue Jays,Exhibition Stadium,104,103
+1985,TOR,TOR,1,Y,,N,Toronto Blue Jays,Exhibition Stadium,104,103
+1986,TOR,TOR,4,N,,N,Toronto Blue Jays,Exhibition Stadium,103,102
+1987,TOR,TOR,2,N,,N,Toronto Blue Jays,Exhibition Stadium,102,101
+1988,TOR,TOR,3,N,,N,Toronto Blue Jays,Exhibition Stadium,100,99
+1989,TOR,TOR,1,Y,,N,Toronto Blue Jays,Exhibition Stadium /Skydome,94,94
+1990,TOR,TOR,2,N,,N,Toronto Blue Jays,Skydome,106,105
+1991,TOR,TOR,1,Y,,N,Toronto Blue Jays,Skydome,104,103
+1992,TOR,TOR,1,Y,,Y,Toronto Blue Jays,Skydome,105,104
+1993,TOR,TOR,1,Y,,Y,Toronto Blue Jays,Skydome,101,100
+1994,TOR,TOR,3,,,,Toronto Blue Jays,Skydome,100,100
+1995,TOR,TOR,5,N,N,N,Toronto Blue Jays,Skydome,99,100
+1996,TOR,TOR,4,N,N,N,Toronto Blue Jays,Skydome,99,100
+1997,TOR,TOR,5,N,N,N,Toronto Blue Jays,Skydome,99,99
+1998,TOR,TOR,3,N,N,N,Toronto Blue Jays,Skydome,100,99
+1999,TOR,TOR,3,N,N,N,Toronto Blue Jays,Skydome,101,101
+2000,TOR,TOR,3,N,N,N,Toronto Blue Jays,Skydome,103,103
+2001,TOR,TOR,3,N,N,N,Toronto Blue Jays,Skydome,102,103
+2002,TOR,TOR,3,N,N,N,Toronto Blue Jays,Skydome,104,104
+2003,TOR,TOR,3,N,N,N,Toronto Blue Jays,Skydome,104,104
+2004,TOR,TOR,5,N,N,N,Toronto Blue Jays,Skydome,104,104
+2005,TOR,TOR,3,N,N,N,Toronto Blue Jays,Rogers Centre,102,102
+2006,TOR,TOR,2,N,N,N,Toronto Blue Jays,Rogers Centre,100,100
+2007,TOR,TOR,3,N,N,N,Toronto Blue Jays,Rogers Centre,100,99
+2008,TOR,TOR,4,N,N,N,Toronto Blue Jays,Rogers Centre,98,97
+2009,TOR,TOR,4,N,N,N,Toronto Blue Jays,Rogers Centre,100,99
+2010,TOR,TOR,4,N,N,N,Toronto Blue Jays,Rogers Centre,100,100
+2011,TOR,TOR,4,N,N,N,Toronto Blue Jays,Rogers Centre,104,104
+2012,TOR,TOR,4,N,N,N,Toronto Blue Jays,Rogers Centre,103,104
+2013,TOR,TOR,5,N,N,N,Toronto Blue Jays,Rogers Centre,102,102
+2014,TOR,TOR,3,N,N,N,Toronto Blue Jays,Rogers Centre,102,102
+2015,TOR,TOR,1,Y,N,N,Toronto Blue Jays,Rogers Centre,99,98
+2016,TOR,TOR,2,N,Y,N,Toronto Blue Jays,Rogers Centre,111,110
+2017,TOR,TOR,4,N,N,N,Toronto Blue Jays,Rogers Centre,105,105
+2018,TOR,TOR,4,N,N,N,Toronto Blue Jays,Rogers Centre,97,98
+2019,TOR,TOR,4,N,N,N,Toronto Blue Jays,Rogers Centre,97,98
+2020,TOR,TOR,3,N,Y,N,Toronto Blue Jays,Sahlen Field,100,99
+1879,TRN,TRT,8,,,,Troy Trojans,Putnam Grounds,93,100
+1880,TRN,TRT,4,,,,Troy Trojans,Haymakers' Grounds,105,106
+1881,TRN,TRT,5,,,,Troy Trojans,Haymakers' Grounds,105,106
+1882,TRN,TRT,7,,,,Troy Trojans,Troy Ball Club Grounds,95,98
+1871,TRO,TRO,6,,,,Troy Haymakers,Haymakers' Grounds,101,100
+1872,TRO,TRO,5,,,,Troy Haymakers,Haymakers' Grounds,101,100
+1892,WAS,WAS,10,,,,Washington Senators,Boundary Field,97,99
+1893,WAS,WAS,12,,,,Washington Senators,Boundary Field,97,99
+1894,WAS,WAS,11,,,,Washington Senators,Boundary Field,97,99
+1895,WAS,WAS,10,,,,Washington Senators,Boundary Field,99,101
+1896,WAS,WAS,9,,,,Washington Senators,Boundary Field,100,101
+1897,WAS,WAS,6,,,,Washington Senators,Boundary Field,99,101
+1898,WAS,WAS,11,,,,Washington Senators,Boundary Field,100,101
+1899,WAS,WAS,11,,,,Washington Senators,Boundary Field,99,101
+2005,WAS,WSN,5,N,N,N,Washington Nationals,R.F.K. Stadium,95,96
+2006,WAS,WSN,5,N,N,N,Washington Nationals,R.F.K. Stadium,94,95
+2007,WAS,WSN,4,N,N,N,Washington Nationals,R.F.K. Stadium,94,95
+2008,WAS,WSN,5,N,N,N,Washington Nationals,Nationals Park,99,100
+2009,WAS,WSN,5,N,N,N,Washington Nationals,Nationals Park,99,101
+2010,WAS,WSN,5,N,N,N,Washington Nationals,Nationals Park,99,100
+2011,WAS,WSN,3,N,N,N,Washington Nationals,Nationals Park,100,100
+2012,WAS,WSN,1,Y,N,N,Washington Nationals,Nationals Park,99,101
+2013,WAS,WSN,2,N,N,N,Washington Nationals,Nationals Park,102,101
+2014,WAS,WSN,1,Y,N,N,Washington Nationals,Nationals Park,104,102
+2015,WAS,WSN,2,N,N,N,Washington Nationals,Nationals Park,102,99
+2016,WAS,WSN,1,Y,N,N,Washington Nationals,Nationals Park,100,98
+2017,WAS,WSN,1,Y,N,N,Washington Nationals,Nationals Park,103,102
+2018,WAS,WSN,2,N,N,N,Washington Nationals,Nationals Park,106,105
+2019,WAS,WSN,2,N,Y,Y,Washington Nationals,Nationals Park,106,104
+2020,WAS,WSN,4,N,N,N,Washington Nationals,Nationals Park,103,102
+1884,WIL,WIL,12,,,,Wilmington Quicksteps,,103,109
+1880,WOR,WOR,5,,,,Worcester Ruby Legs,Worcester Driving Park Grounds,108,109
+1881,WOR,WOR,8,,,,Worcester Ruby Legs,Worcester Driving Park Grounds,105,108
+1882,WOR,WOR,8,,,,Worcester Ruby Legs,Worcester Driving Park Grounds,102,107
+1901,WS1,MIN,6,,,,Washington Senators,American League Park I,98,100
+1902,WS1,MIN,6,,,,Washington Senators,American League Park I,101,104
+1903,WS1,MIN,8,,,N,Washington Senators,American League Park I,102,105
+1904,WS1,MIN,8,,,,Washington Senators,American League Park II,98,102
+1905,WS1,MIN,7,,,N,Washington Senators,American League Park II,96,100
+1906,WS1,MIN,7,,,N,Washington Senators,American League Park II,95,98
+1907,WS1,MIN,8,,,N,Washington Senators,American League Park II,92,95
+1908,WS1,MIN,7,,,N,Washington Senators,American League Park II,92,96
+1909,WS1,MIN,8,,,N,Washington Senators,American League Park II,95,98
+1910,WS1,MIN,7,,,N,Washington Senators,American League Park II,95,99
+1911,WS1,MIN,7,,,N,Washington Senators,Griffith Stadium I,98,98
+1912,WS1,MIN,2,,,N,Washington Senators,Griffith Stadium I,101,101
+1913,WS1,MIN,2,,,N,Washington Senators,Griffith Stadium I,102,101
+1914,WS1,MIN,3,,,N,Washington Senators,Griffith Stadium I,104,103
+1915,WS1,MIN,4,,,N,Washington Senators,Griffith Stadium I,102,101
+1916,WS1,MIN,7,,,N,Washington Senators,Griffith Stadium I,99,99
+1917,WS1,MIN,5,,,N,Washington Senators,Griffith Stadium I,99,99
+1918,WS1,MIN,3,,,N,Washington Senators,Griffith Stadium I,99,98
+1919,WS1,MIN,7,,,N,Washington Senators,Griffith Stadium I,99,99
+1920,WS1,MIN,6,,,N,Washington Senators,Griffith Stadium I,97,98
+1921,WS1,MIN,4,,,N,Washington Senators,Griffith Stadium I,95,96
+1922,WS1,MIN,6,,,N,Washington Senators,Griffith Stadium I,95,96
+1923,WS1,MIN,4,,,N,Washington Senators,Griffith Stadium I,95,95
+1924,WS1,MIN,1,,,Y,Washington Senators,Griffith Stadium I,98,96
+1925,WS1,MIN,1,,,N,Washington Senators,Griffith Stadium I,99,97
+1926,WS1,MIN,4,,,N,Washington Senators,Griffith Stadium I,98,96
+1927,WS1,MIN,3,,,N,Washington Senators,Griffith Stadium I,99,98
+1928,WS1,MIN,4,,,N,Washington Senators,Griffith Stadium I,99,99
+1929,WS1,MIN,5,,,N,Washington Senators,Griffith Stadium I,101,100
+1930,WS1,MIN,2,,,N,Washington Senators,Griffith Stadium I,101,99
+1931,WS1,MIN,3,,,N,Washington Senators,Griffith Stadium I,101,98
+1932,WS1,MIN,3,,,N,Washington Senators,Griffith Stadium I,99,96
+1933,WS1,MIN,1,,,N,Washington Senators,Griffith Stadium I,99,98
+1934,WS1,MIN,7,,,N,Washington Senators,Griffith Stadium I,96,96
+1935,WS1,MIN,6,,,N,Washington Senators,Griffith Stadium I,97,98
+1936,WS1,MIN,3,,,N,Washington Senators,Griffith Stadium I,94,95
+1937,WS1,MIN,6,,,N,Washington Senators,Griffith Stadium I,95,96
+1938,WS1,MIN,5,,,N,Washington Senators,Griffith Stadium I,93,94
+1939,WS1,MIN,6,,,N,Washington Senators,Griffith Stadium I,92,94
+1940,WS1,MIN,7,,,N,Washington Senators,Griffith Stadium I,93,95
+1941,WS1,MIN,6,,,N,Washington Senators,Griffith Stadium I,95,97
+1942,WS1,MIN,7,,,N,Washington Senators,Griffith Stadium I,99,100
+1943,WS1,MIN,2,,,N,Washington Senators,Griffith Stadium I,96,97
+1944,WS1,MIN,8,,,N,Washington Senators,Griffith Stadium I,95,95
+1945,WS1,MIN,2,,,N,Washington Senators,Griffith Stadium I,91,92
+1946,WS1,MIN,4,,,N,Washington Senators,Griffith Stadium I,94,95
+1947,WS1,MIN,7,,,N,Washington Senators,Griffith Stadium I,97,100
+1948,WS1,MIN,7,,,N,Washington Senators,Griffith Stadium I,97,101
+1949,WS1,MIN,8,,,N,Washington Senators,Griffith Stadium I,98,101
+1950,WS1,MIN,5,,,N,Washington Senators,Griffith Stadium I,95,98
+1951,WS1,MIN,7,,,N,Washington Senators,Griffith Stadium I,98,100
+1952,WS1,MIN,5,,,N,Washington Senators,Griffith Stadium I,97,97
+1953,WS1,MIN,5,,,N,Washington Senators,Griffith Stadium I,98,98
+1954,WS1,MIN,6,,,N,Washington Senators,Griffith Stadium I,94,96
+1955,WS1,MIN,8,,,N,Washington Senators,Griffith Stadium I,97,100
+1956,WS1,MIN,7,,,N,Washington Senators,Griffith Stadium II,96,100
+1957,WS1,MIN,8,,,N,Washington Senators,Griffith Stadium II,98,102
+1958,WS1,MIN,8,,,N,Washington Senators,Griffith Stadium II,98,101
+1959,WS1,MIN,8,,,N,Washington Senators,Griffith Stadium II,100,102
+1960,WS1,MIN,5,,,N,Washington Senators,Griffith Stadium II,101,102
+1961,WS2,TEX,9,,,N,Washington Senators,Griffith Stadium II,95,97
+1962,WS2,TEX,10,,,N,Washington Senators,R.F.K. Stadium,100,102
+1963,WS2,TEX,10,,,N,Washington Senators,R.F.K. Stadium,100,103
+1964,WS2,TEX,9,,,N,Washington Senators,R.F.K. Stadium,100,102
+1965,WS2,TEX,8,,,N,Washington Senators,R.F.K. Stadium,98,100
+1966,WS2,TEX,8,,,N,Washington Senators,R.F.K. Stadium,99,101
+1967,WS2,TEX,6,,,N,Washington Senators,R.F.K. Stadium,96,97
+1968,WS2,TEX,10,,,N,Washington Senators,R.F.K. Stadium,97,98
+1969,WS2,TEX,4,N,,N,Washington Senators,R.F.K. Stadium,94,95
+1970,WS2,TEX,6,N,,N,Washington Senators,R.F.K. Stadium,95,95
+1971,WS2,TEX,5,N,,N,Washington Senators,R.F.K. Stadium,94,95
+1871,WS3,OLY,4,,,,Washington Olympics,Olympics Grounds,94,98
+1872,WS3,OLY,10,,,,Washington Olympics,Olympics Grounds,94,98
+1872,WS4,NAT,11,,,,Washington Nationals,Nationals Grounds,129,141
+1873,WS5,WBL,7,,,,Washington Blue Legs,Olympics Grounds,96,102
+1875,WS6,WNT,9,,,,Washington Nationals,Olympics Grounds,96,106
+1884,WS7,WST,13,,,N,Washington Nationals,Athletic Park,88,93
+1886,WS8,WNL,8,,,N,Washington Nationals,Swampdoodle Grounds,94,99
+1887,WS8,WNL,7,,,N,Washington Nationals,Swampdoodle Grounds,95,100
+1888,WS8,WNL,8,,,N,Washington Nationals,Swampdoodle Grounds,94,98
+1889,WS8,WNL,8,,,N,Washington Nationals,Swampdoodle Grounds,94,98
+1891,WS9,WAS,9,,,,Washington Statesmen,Boundary Field,95,100
+1884,WSU,WNA,7,,,,Washington Nationals,,96,98
