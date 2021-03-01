@@ -18,8 +18,8 @@ A good example of how we can look into the why behind salary information its rol
 For example the 2020 Tampa Bay Rays was the lowest paid team in Major League Baseball (MLB). They ended up being American League East Division champions, then won the entire American League and then we to the 2020 World Series. Their story was very interesting on many levels and could be a great example of what we can dive into for the this final project. 
 
 ### Example questions 2 
-What pitching statistics play a role on individual players like Clayton Kershaw and his role in the Dodgers. The LA Dodgers have a very different make up than the Tampa Bay Rays pitchers but both teams ultimately could have won the World Series, and have in past years. 
-in?
+Which pitching statistics play a role on individual players like Clayton Kershaw and his role in the Dodgers. The LA Dodgers have a very different make up than the Tampa Bay Rays pitchers but both teams ultimately could have won the World Series, and have in past years. 
+
 
 ## How will we design the model
 
