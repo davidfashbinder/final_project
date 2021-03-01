@@ -3,17 +3,30 @@
 
 
 CREATE TABLE "Player_Stats" (
-    "player_id" int   NOT NULL,
-    "Games_Played" int   NOT NULL,
-    "hits_at_bat" int   NOT NULL,
-    "seasons_played" int   NOT NULL,
-    "team_name" varchar   NOT NULL,
-    "wins" int   NOT NULL,
-    "losses" int   NOT NULL,
-    "at_bats" int   NOT NULL,
-    CONSTRAINT "pk_Player_Stats" PRIMARY KEY (
+    "player_id" varchar   NOT NULL,
+	"yearID" int NOT NULL,
+	"teamID" varchar NOT NULL,
+	"lgID" varchar,
+	"G" varchar,
+	"AB" varchar,
+	"R" varchar,
+	"H" varchar,
+	"2B" varchar,
+	"3B" varchar,
+	"HR" varchar,
+	"RBI" varchar,
+	"SB" varchar,
+	"CS" varchar,
+	"BB" varchar,
+	"SO" varchar,
+	"IBB" varchar,
+	"HBP" varchar,
+	"SH" varchar,
+	"SF" varchar,
+	"GIDP" varchar
+   /* CONSTRAINT "pk_Player_Stats" PRIMARY KEY (
         "player_id"
-     )
+     )*/
 );
 
 CREATE TABLE "Player" (
