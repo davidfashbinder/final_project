@@ -2,7 +2,7 @@
 -- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
 
 
-CREATE TABLE "Player_Stats" (
+CREATE TABLE "Player_Batting" (
     "player_id" varchar   NOT NULL,
 	"yearID" int NOT NULL,
 	"teamID" varchar NOT NULL,
@@ -30,20 +30,31 @@ CREATE TABLE "Player_Stats" (
 );
 
 CREATE TABLE "Player" (
-    "player_id" int   NOT NULL,
-    "name" varchar   NOT NULL,
-    "age" int   NOT NULL,
-    "DOB" date   NOT NULL,
-    "weight" int   NOT NULL,
-    "height" int   NOT NULL,
-    "team_name" varchar   NOT NULL,
-    "teamId" varchar   NOT NULL,
-    CONSTRAINT "pk_Player" PRIMARY KEY (
+    "playerId" varchar  NOT NULL,
+	"birthYear" varchar,
+	"birthMonth" varchar,
+	"birthDay" varchar,
+	"birthCountry" varchar,
+	"birthState" varchar,
+	"birthCity" varchar,
+	"deathYear" varchar,
+	"deathMonth" varchar,
+	"deathDay" varchar,
+	"nameFirst" varchar,
+	"nameLast" varchar,
+	"nameGiven" varchar,
+	"weight" varchar,
+	"height" varchar,
+	"bats" varchar,
+	"throws" varchar,
+	"debut" date,
+	"finalGame" date
+    /*CONSTRAINT "pk_Player" PRIMARY KEY (
         "player_id"
      ),
     CONSTRAINT "uc_Player_teamId" UNIQUE (
         "teamId"
-    )
+    )*/
 );
 
 CREATE TABLE "Teams" (
@@ -61,6 +72,37 @@ CREATE TABLE "Teams" (
     /*CONSTRAINT "pk_Teams" PRIMARY KEY (
         "teamId"
      )*/
+);
+
+CREATE TABLE "Salary" (
+	"yearID" int,
+	"teamID" varchar,
+	"lgID" varchar, 
+	"playerID" varchar NOT NULL, 
+	"salary" int
+	
+);
+
+Create Table "Awards" (
+	"playerID" varchar NOT NULL,
+	"teamID" varchar NOT NULL,
+	"yearID" int NOT NULL,
+	"lgID" varchar,
+	"tie" varchar,
+	"notes" varchar
+);
+
+Create Table "AllStar" (
+	"playerID" varchar NOT NULL,
+	"yearID" int,
+	"gameNum" int,
+	"gameID" varchar,
+	"teamID" varchar NOT NULL,
+	"lgID" varchar NOT NULL,
+	"GP" int NOT NULL,
+	"startingPos" int
+
+
 );
 
 ALTER TABLE "Player_Stats" ADD CONSTRAINT "fk_Player_Stats_player_id" FOREIGN KEY("player_id")
