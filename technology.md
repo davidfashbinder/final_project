@@ -1,10 +1,10 @@
 
 # Technologies Used
 ## Data Cleaning and Analysis
-Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
+Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python. The data we are using is baseball statistics dating back almost 200 years. 
 
 ## Database Storage
-Postgres is the database we intend to use, and and we will integrate PgAdmin to display the data as well as the ERD.
+PostgreSQL is the database we intend to use, and and we will integrate using PgAdmin to display the data as well as an ERD. 
 
 ## Machine Learning
 RandomForest is the ML library we'll be using to create a classifier. Our training and testing setup is still being decided but will be using Pandas. Extra ML verbiage here.
