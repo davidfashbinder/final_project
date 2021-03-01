@@ -10,6 +10,24 @@ This topic was selected not just for our love of baseball, but because America's
 
 We're leveraging an amazing open-source data center for Major League Baseball, the Lahman Database, which can be found here: http://www.seanlahman.com/baseball-archive/statistics/.  Each zip file contains CSV documents that cover topics of interest in baseball.  The data goes back all the way to 1871, so we can have confidence in the model's depth of information.
 
+## Detailed Brainstorm 
+
+Based on the data we can perform linear regression (continuous outcomes) or logistic regression (binary outcomes)
+
+Example lin regress databases: Stocks, Salaries, Reviews of media
+Examples log regress: Has diabetes or no, Is fraud or no, Successful Sports team or no
+
+For continuous data
+SVM
+
+For categorical data
+
+Random Forest
+- Great for listing out what the machine weighs heavily for each feature
+
+-----
+
+
 ## Team Members:
 1. Frank Berni (fcberni)
 2. David Fashbinder (davidfashbinder)
@@ -24,3 +42,4 @@ Slack will be the primary communication tool for all project matters.  We will m
 2. Circle - Austin Keeler
 3. Triangle - Frank Berni
 4. X - Christa Maraffi
+
