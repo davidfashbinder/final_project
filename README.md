@@ -54,3 +54,9 @@ Slack will be the primary communication tool for all project matters.  We will m
 3. Triangle - Frank Berni
 4. X - Christa Maraffi
 
+## Roles for Deliverable Two:
+1. Square - Christa Maraffi
+2. Circle - Frank Berni
+3. Triangle - Austin Keeler
+4. X - David Fashbinder
+
