@@ -1,0 +1,8 @@
+This folder will house any images that will be exported from the notebook.
+
+Possible ideas for charts:
+
+Scatter plots
+Line charts
+Bar graphs
+Pie charts
