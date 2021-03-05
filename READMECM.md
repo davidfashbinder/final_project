@@ -14,4 +14,5 @@ teams salaries
 team batting average vs team salary average
 high to low - grouping two buckets
 
+do teams with least amount of hits get the best cost per hit?
 
