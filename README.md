@@ -1,16 +1,25 @@
-# final_project
+# Instructions to Load database
 
-## Team Members:
-1. Frank Berni (fcberni)
-2. David Fashbinder (davidfashbinder)
-3. Austin Keeler (austink24)
-4. Christa Maraffi (cmaraffi)
+- Create New DataBase Named BaseBall_Project
 
-## Communication:
-Slack will be the primary communication tool for all project matters.  We will meet after each Tuesday/Thursday class session for a minimum of 30 minutes.  
+### Copy the files listed below to the same folder you will be running Loading and Cleaning Jupyter Notebook file from
+    (or you can fix the path in the loading csv to dataFrame steps to reflect the location of these files)
+    
+    - Teams.csv
+    - AllStarFull.csv
+    - People.csv
+    - AwardsPlayers.csv
+    - Salaries.csv
+    - Fielding.csv
+    - Pitching.csv
+    - Batting.csv
+    - Managers.csv
 
-## Roles for Deliverable One:
-1. Square - David Fashbinder
-2. Circle - Austin Keeler
-3. Triangle - Frank Berni
-4. X - Christa Maraffi
+#### Before running the "Load and Cleaning" notebook you will need to make changes to the connection string (engine) in the jupyter notebook file. 
+
+engine = create_engine('postgresql+psycopg2://postgres:Superman78@127.0.0.1:5432/BaseBall_Project')
+
+In the string above you will need to update the **postgres:Superman78** with your usename:password. *postgres is the default user if you did not create a new user account when setting up your PgAdmin. 
+
+
+
