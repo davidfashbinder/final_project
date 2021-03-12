@@ -43,5 +43,3 @@ Slack will be the primary communication tool for all project matters.  We will m
 2. Circle - Frank Berni
 3. Triangle - Austin Keeler
 4. X - David Fashbinder
->>>>>>> master
-
