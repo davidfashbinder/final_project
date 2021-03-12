@@ -7,12 +7,12 @@ We wanted to use this supervised learning because we wanted to see the weighted 
 ## What is the model's accuracy?
 Our original goal was to have a models accuracy at 80% or higher. We did accomplish that with 99% accuracy. There are some duplications just because there are some players who performed in multiple years, which can increase the accuracy of the data. Upon discussion, removing the multiple years and only have one year would not really give the data for anything other than salary because those individual stats and team stats
 
-![Test Image 1](ConfusionMatrix.png)
+![](images/ConfusionMatrix.png)
 
 ## If there are statistics involved, what stats are being included in analysis and why?
 The statistics inlcuded were the average salary of players based on the players csv file. The average salary for all of the players for all of the years was $2,085,634. We also wanted to have only players who were active in the league currently. By narrowing down the birthyear to to last 40 years will pretty much include only those active players. The importances also show the statistical results of what the machine learning model weights for levels of how it came to the accuracy percentage.
 
-![Test Image 2](Importances.png)
+![](images/Importances.png)
 
 ## If no statistics are involved, what would you include if you had more time?
 There were statistics involved. 
