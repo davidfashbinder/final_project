@@ -7,7 +7,7 @@ We will be analyzing a wide variety of data focused on Major League Baseball tea
 Lahman Database http://www.seanlahman.com/baseball-archive/statistics/
 
 ## Database
-Please follow these instructions to load the database using postGRES.
+Please follow [these](http://www.github.com/davidfashbinder/final_project/DB_Instructions.txt) instructions to load the database using postGRES.
 
 ## Machine Learning Model 
 Created in jupyter notebook
