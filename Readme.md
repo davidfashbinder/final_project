@@ -10,10 +10,7 @@ Lahman Database http://www.seanlahman.com/baseball-archive/statistics/
 Please follow [these](https://github.com/davidfashbinder/final_project/blob/master/DB%20Instructions.txt) instructions to load the database using postGRES.
 
 ## Machine Learning Model 
-Created in jupyter notebook
-
-Random Forest
-- Great for listing out what the machine weighs heavily for each feature
+Please read a detailed breakdown of our machine learning model [here](https://github.com/davidfashbinder/final_project/blob/master/Machine%20Learning%20Info.md)
 
 -----
 
