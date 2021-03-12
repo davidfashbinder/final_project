@@ -7,13 +7,7 @@ We will be analyzing a wide variety of data focused on Major League Baseball tea
 Lahman Database http://www.seanlahman.com/baseball-archive/statistics/
 
 ## Database
-Created in postgres, contains the following tables:
-1.
-2.
-3.
-4.
-5.
-6.
+Please follow these instructions to load the database using postGRES.
 
 ## Machine Learning Model 
 Created in jupyter notebook
