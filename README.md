@@ -36,3 +36,8 @@ Once you have updated the engine string click to save the changes.
 
 To Test success uncomment the last input and run the command. You can change the table name test other tables. It should return the contents of the table listed. 
 
+## In this sections we will describe our decision to use Postgres for storing our data and how we preprared the database for use with Machine Learning.
+
+### Choosing Postgres.
+
+We decided to use Postgres because of its ease of use and our familiarity with it. THe biggest hurdle we have to overcome when using Postgresfor storing our data was accessablity be the entire team. 
