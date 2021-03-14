@@ -6,6 +6,9 @@ We will be analyzing a wide variety of data focused on Major League Baseball tea
 ## Data Source
 Lahman Database http://www.seanlahman.com/baseball-archive/statistics/
 
+## Technology
+Please read a breakdown of the different technology we are using to complete the project [here](https://github.com/davidfashbinder/final_project/blob/master/Resources/technology.md)
+
 ## Database
 Please follow [these](https://github.com/davidfashbinder/final_project/blob/master/DB%20Instructions.md) instructions to load the database using pgAdmin.
 
