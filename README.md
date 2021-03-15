@@ -1,4 +1,16 @@
-# Instructions to Load database
+## In this sections we will describe our decision to use Postgres for storing our data and how we preprared the database for use with Machine Learning.
+
+### Choosing Postgres for our DataBase Storage.
+
+We decided to use Postgres for our data storage because of its ease of use and our familiarity with it. HOWEVER, our choice to use Postgres would leave us two choices either subscribe to a Web hosting service like AWS and possibly incurring some cost or develope a solution to allow the team to access the same data, same format and same schema Postgres Database for our machine learning model. 
+
+
+
+
+
+
+
+## Instructions to Load database
 
 - Use PgAdmin to Create New DataBase Named **BaseBall_Project** in your main server instance in Postgres.
 
@@ -36,8 +48,3 @@ Once you have updated the engine string click to save the changes.
 
 To Test success uncomment the last input and run the command. You can change the table name test other tables. It should return the contents of the table listed. 
 
-## In this sections we will describe our decision to use Postgres for storing our data and how we preprared the database for use with Machine Learning.
-
-### Choosing Postgres.
-
-We decided to use Postgres because of its ease of use and our familiarity with it. There was one major hurdle we faced by our choice, we had to make sure all members of the team had access to the same data and database schema as to not interfer with the results of our machine learning results. 
