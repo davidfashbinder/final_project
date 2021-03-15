@@ -15,6 +15,8 @@ Please read a breakdown of the different technology we are using to complete the
 ## Database
 Please follow [these](https://github.com/davidfashbinder/final_project/blob/master/DB%20Instructions.md) instructions to load the database using pgAdmin.
 
+You can view a copy of our ERD to get a better understanding of the relationships between tables [here]
+
 ## Machine Learning Model 
 Please read a detailed breakdown of our machine learning model [here](https://github.com/davidfashbinder/final_project/blob/master/Machine%20Learning%20Info.md)
 
