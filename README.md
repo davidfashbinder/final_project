@@ -6,9 +6,6 @@
 3. Austin Keeler (austink24)
 4. Christa Maraffi (cmaraffi)
 
-## Communication:
-Slack will be the primary communication tool for all project matters.  We will meet after each Tuesday/Thursday class session for a minimum of 30 minutes.  
-
 ## Roles for Deliverable One:
 1. Square - David Fashbinder
 2. Circle - Austin Keeler
