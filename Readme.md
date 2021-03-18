@@ -3,6 +3,9 @@
 ## Overview:
 We will be analyzing a wide variety of data focused on Major League Baseball teams.  The goal will be to create a machine learning model, functional database, and compelling presentation that can answer a large range of questions.  
 
+## Project Outline 
+
+
 ## Dashboard:
 You can connect to our Tableau Public dashboard [here](https://public.tableau.com/profile/david.fashbinder#!/vizhome/BeyondtheBattersBox/HitsDashboard?publish=yes)
 
