@@ -20,6 +20,8 @@ You can view a copy of our ERD to get a better understanding of the relationship
 ## Machine Learning Model 
 Please read a detailed breakdown of our machine learning model [here](https://github.com/davidfashbinder/final_project/blob/master/Machine%20Learning%20Info.md)
 
+## Google Slides
+
 -----
 
 ## Team Members:
@@ -27,9 +29,6 @@ Please read a detailed breakdown of our machine learning model [here](https://gi
 2. David Fashbinder (davidfashbinder)
 3. Austin Keeler (austink24)
 4. Christa Maraffi (cmaraffi)
-
-## Communication:
-Slack will be the primary communication tool for all project matters.  We will meet after each Tuesday/Thursday class session for a minimum of 30 minutes (if class does not provide us meeting time), and have ad-hoc meetings as needed. 
 
 ## Roles for Deliverable One:
 1. Square - David Fashbinder
@@ -42,3 +41,9 @@ Slack will be the primary communication tool for all project matters.  We will m
 2. Circle - Frank Berni
 3. Triangle - Austin Keeler
 4. X - David Fashbinder
+
+## Roles for Deliverable Three:
+1. Square - Christa Maraffi
+2. Circle - Frank Berni
+3. Triangle - David Fashbinder
+4. X - Austin Keeler
