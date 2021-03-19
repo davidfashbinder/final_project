@@ -11,3 +11,15 @@
 2. Circle - Austin Keeler
 3. Triangle - Frank Berni
 4. X - Christa Maraffi
+
+## Roles for Deliverable Two:
+Square - Christa Maraffi
+Circle - Frank Berni
+Triangle - Austin Keeler
+X - David Fashbinder
+
+## Roles for Deliverable Three:
+Square - Christa Maraffi
+Circle - Frank Berni
+Triangle - David Fashbinder
+X - Austin Keeler
