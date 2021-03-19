@@ -24,7 +24,7 @@ The initial process identified the question we wanted to answer by looking at th
 
 
 
-![](Visualizations/Images/Screen Shot 2021-03-18 at 8.31.33 PM.png)
+![](Visualizations/Images/Screen%20Shot%202021-03-18%20at%208.31.33%20PM.png)
 
 
 ## Dashboard:
