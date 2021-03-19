@@ -24,6 +24,8 @@ The initial process identified the question we wanted to answer by looking at th
 
 
 
+![](Visualizations/Images/Screen Shot 2021-03-18 at 8.31.33 PM.png)
+
 
 ## Dashboard:
 You can connect to our Tableau Public dashboard [here](https://public.tableau.com/profile/david.fashbinder#!/vizhome/BeyondtheBattersBox/HitsDashboard?publish=yes)
