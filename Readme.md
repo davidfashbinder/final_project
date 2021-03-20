@@ -18,17 +18,40 @@ The initial process identified the question we wanted to answer by looking at th
 
 ![](Visualizations/Images/ConfusionMatrix.png)
 
-
-
 ### Dashboard Outline
 
-
+The dashboard was created in Tableau. It highlights salary comparisons, general baseball statistics, and a complete story which really displays and puts an more of a connection between the machine learning model and what it accomplished with the data. Utilizing the baseball statistics in more detail and expounding on the information in the datasource, gives more life to the overall project. 
 
 ![](Visualizations/Images/Screen%20Shot%202021-03-18%20at%208.31.33%20PM.png)
 
-
+## Google Slides Outline
+This draft presentation puts the whole project together in a cohesive story from a list of csv files, to a machine learning model, to an illustrated story in Tableau, to the summary and overview of the presentation itself. When we chose baseball statistics there was a thought process that it would be able to tell an exciting story of if you were to chose your own baseball team and how much should you pay them. 
+________________________________
 ## Dashboard:
-You can connect to our Tableau Public dashboard [here](https://public.tableau.com/profile/david.fashbinder#!/vizhome/BeyondtheBattersBox/HitsDashboard?publish=yes)
+You can connect to our complete story in the Tableau Public dashboard [here](https://public.tableau.com/profile/frank2753#!/vizhome/CompleteBaseballTableauStory/Complete_Story?publish=yes)
+
+Links to each Dashboard will be below:
+
+1. General Baseball Dashboard
+
+https://public.tableau.com/profile/frank2753#!/vizhome/General_Baseball_Stats/General_Baseball_Stats?publish=yes
+
+2. Baseball Salary Comparisons 1
+
+https://public.tableau.com/profile/frank2753#!/vizhome/SalaryComparisons1/Salary_Baseball_Relationships?publish=yes
+
+3. Baseball Salary Comparisons 2
+
+https://public.tableau.com/profile/frank2753#!/vizhome/SalaryComparisons2/Salary_Baseball_Relationships2?publish=yes
+
+4. Baseball Salary Comparisons 3
+
+https://public.tableau.com/profile/frank2753#!/vizhome/SalaryComparisons3/Salary_Baseball_Relationships3?publish=yes
+
+5. MLM Dashboard
+
+https://public.tableau.com/profile/frank2753#!/vizhome/MachineLearningModelResults/mlm_results?publish=yes
+
 
 ## Data Source
 Lahman Database http://www.seanlahman.com/baseball-archive/statistics/
