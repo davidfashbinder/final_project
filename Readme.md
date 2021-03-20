@@ -68,7 +68,7 @@ You can view a copy of our ERD to get a better understanding of the relationship
 Please read a detailed breakdown of our machine learning model [here](https://github.com/davidfashbinder/final_project/blob/master/Machine%20Learning%20Info.md)
 
 ## Google Slides
-Please view the presentation slides [here](https://github.com/davidfashbinder/final_project/blob/master/Final Presentation.pptx)
+Please view the presentation slides [here](https://github.com/davidfashbinder/final_project/blob/master/Final%20Presentation.pptx)
 
 -----
 
