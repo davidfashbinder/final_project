@@ -53,7 +53,7 @@ Once you have updated the engine string click to save the changes.
 ### You are now ready to step through the saved Jupyter notebook "Cleaning and Learning" to create and populate the tables in our dataBase for use with the ML model. 
 
 
-To Test success, uncomment the last input and run the command. You can change the table name test other tables. It should return the contents of the table listed. 
 
+To Test success, uncomment the last input and run the command. You can change the table name test other tables. It should return the contents of the table listed. 
 
 
