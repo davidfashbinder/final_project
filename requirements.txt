@@ -1,0 +1,12 @@
+
+pip freeze > requirements.txt
+
+# show the contents
+(shiny_new_env)$ cat requirements.txt
+
+SQLAlchemy==1.3.21
+pandas==1.2.1 
+numpy==1.18.5
+matplotlib==3.2.2
+scipy==1.5.0
+jupyter-core==4.6.3
