@@ -1,0 +1,33 @@
+Self Assessment
+
+Presents a cohesive written analysis that describes the role(s) they played over the course of the project and their contribution to the project in that role.
+
+Throughout the project our various members of the team had valued input in the various roles. There was a lot of collaboration and communication
+with the team because all of us were really familiar from our time in the course. It was easy to voice concerns and opinions about the project and offer and produce substantial contributions to the project. From start to finish,
+each one of us we involved in every aspect of the project. My focus was mainly around the machine learning model and aspects that fed into that. As mentioned in the presentation, we did all discuss 
+the possibilities in what question the project would answer. Building the machine learning model involved mostly pre-processing the data. Since we did have a variety of csv files with a real abundence
+of data, it did involve thinking critically of which direction to go in. While the team focused on a "money ball" situation as our initial question, we then turned to the data. After running through the 
+pre-processing of importing the tables from postgres to cleaning up the columns and dropping unneeded information, merging data frames, filtering the birthyear, droping N/As, myself and Frank really looked at salary. I also looked at some of those statistics and
+wanted to have a better baseline for the data as well. I chose Mike Trout because of his current standings in the league. He is listed as one of the best current players and I thought it would be beneficial
+to have a someone revered by statisticians as a top individual to be our jumping off point. I looked as his core statistics (SO, HR, H, etc.) and tailored the data in our model to those main factors. He is also one of the most
+well payed players in baseball which added to his impact to our analysis. The next step is encoding out AwardID column, league ID(lgID), and teamID. Defined salary target and features was the next step.
+
+Then we are finally into the Random Foreast model. Training and testing the data was one of the first steps in running the model. With of the data was ready we tested and trained our model. Initially shot for a 80% accuracy with the data, but ended with a 99% 
+accuracy score. Then scaling the data and fitting the model prepared the model which will then allowed us to evaluate the results. Scaling the data helps us to normalize the distance between data and account for any extreme values that might throw off the model’s predictions. Then the random forest model interprets this information and gives an accuracy score based on what is the most impactful in deciding the salary of a player. The confusion matrix and list of importances each show the logic behind what determines how much to pay each player. Those benefits display the final statistical information which showed off in a weighted format and really gave clarifty as to what is the most valuable when choosing a slary for a player. A couple limitations would be pre-processing has to be specifically tabular data and the repetition of the data we chose. Players who performed in multiple years, could have increased the accuracy of the data. 
+Upon discussion, removing the multiple years and only have one year would not really yield the data for anything other than salary because those individual stats and team stats.
+
+Presents a cohesive written summary of how they contributed to each of the roles they did not take on via team discussions, peer reviews, or other means.
+
+Throughout the project there was a great amount of collaboration with all of the roles. Between making suggestions with the initial project and changing the course of the project. Initially, the questions were around who would win the World Series. With a Random forest model, 
+that analysis wasnt really suited to our project. All of us had great communication on any struggles and workload. I contributed to some troubleshooting discussions and Austin regarding postgres and reviewed the database. There was also quite a bit of exchange on the slack channel. 
+We discussed most topics on the channel as well as in meetings. All of us made time for each other to hop on a quick zoom call or chat about an issue. David, Frank and I also reviewed Frank's dashboard as well as David's presentation. We all contributed to our individual slides and added
+visuals to support the final project for many parts. 
+
+Additionally, the analysis should describe their greatest personal challenge over the course of the project, and how they overcame that challenge.
+
+My greatest personal challenge was confidence. I dont know why I lacked confidence in my initial abilities to contribute meaningfully to the team as well as lack of confidence in my skills. As the project progressed,
+I started running the preprocessing and found the initial data for Mike Trout, from perviously following baseball. My confidence grew even more as I began building the model and performing the preprocessing. Some of it came
+as second nature and the other aspects I was able to look up and discuss intelligently with the team. It really reaffirmed everything I did learn throughout the project as well as referencing the modules to double check my work. 
+There was some nerve around the final presentation but as I prepared. I knew what I was talking about. I was glad to have one of the more challenging parts of the project, with building the machine learning model, because I was able to 
+present the information from a confident place. I also answered the necessary questions after the presentation on my portion as well as offer an applicable alternative to those who maybe wouldnt use baseball statistics in the future. 
+It was an overall experience I was happy to have as good practice for the future was well as giving me the foundation to believe in my abilities as an individual.
