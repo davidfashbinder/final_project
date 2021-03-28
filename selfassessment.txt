@@ -31,3 +31,36 @@ as second nature and the other aspects I was able to look up and discuss intelli
 There was some nerve around the final presentation but as I prepared. I knew what I was talking about. I was glad to have one of the more challenging parts of the project, with building the machine learning model, because I was able to 
 present the information from a confident place. I also answered the necessary questions after the presentation on my portion as well as offer an applicable alternative to those who maybe wouldnt use baseball statistics in the future. 
 It was an overall experience I was happy to have as good practice for the future was well as giving me the foundation to believe in my abilities as an individual.
+
+Team presentation
+
+Presents a cohesive written analysis that describes their teamwork, including all of the following:
+
+Their communication protocol, including any challenges, how they were resolved, and what they would do differently next time
+The communication protocol was Slack for all project matters. We will meet after each Tuesday/Thursday class session for a minimum of 30 minutes (if class does not provide us meeting time), and have ad-hoc meetings as needed.
+The teamwork was very collaborative and we all worked extremely well together. It was a delight to work with this group. Any issues were talked through thoroughly with all members and came to a concensus. It was really easy to 
+work with this team. Something we all agreed we would have done differently was to really read through the rubric instead of the module for our benchmarking. We missed some points in the second segment by following the former. 
+
+
+Their strengths as a team, including tips and tricks they would want to share with a new cohort kicking off the project
+
+We all had good stregths of working through issues quickly and reviewing work for any possible issues and a path forward as to how to address it. We also reviewed the work thoroughly not to overthink things. With projects this 
+detailed its easy to get lost in the details. All of us were able to stay on track for the main goal and talk to each other effectively with ideas and solutions. Overall this was an extremely strong team from start to finish. 
+
+
+Summary of Project
+
+Presents a cohesive, three- to four-sentence summary of the project that could be used on a LinkedIn profile, in an interview or cover letter, or as an elevator pitch, including all of the following:
+In the data analytics and visualizations course we created a final project determining a premium salary of building a baseball team using a supervised learning model. It was a complete project build from start to finish,
+with a final presentation on the evaluating results. Utilizing a Random Forest model we based our baseball statistics on Mike Trout's current stats which really highlighted whats most important to baseball at the moment. 
+We were able to build a model with 99% accuracy and determine how to build a baseball team. This model can fit to many different analyses of building an organization, team, etc. It has universal appeal. 
+
+Topic addressed
+If you wanted to build a baseball team is a premium salary needed to get the best players? What statistics hold the most weight in determining a premium salary?
+
+Machine module used 
+We chose the Random Forest model mostly because of the importances. It was very interesting to see how the model weighs stats, year, team, etc. 
+
+Results of the analysis
+The analysis had a 99% accuracy score testing over 200K items of data. 
+
